@@ -60,21 +60,25 @@ def clean_data(data):
     }, inplace=True)
     data = data.loc[data["Metric"] != "Rank"] # Rank is dropped in favour of re-calculating it on the 'Total' metric
     data = data.loc[data["Metric"] != "Last Year Rank"]
-    data["Numeric Value"] = data["Value"]
-    data["Numeric Value"] = data["Numeric Value"].replace({",": ""}, regex=True)
-    data["Numeric Value"] = data["Numeric Value"].astype(float)
+    data["Numeric Value"] = data["Value"].astype(str)
+    data["Numeric Value"] = data["Numeric Value"].str.replace(",", "", regex=False)
+    data["Numeric Value"] = pd.to_numeric(data["Numeric Value"], errors="coerce") # Coerce will turn blanks to NaNs
     return data
 
 def rank_metrics(data):
     """
     Calculate rank and decile for each metric by year
     """
-    data_exc_ssr = data.copy().loc[data["Metric"] != "Student-staff ratio"] # All metrics except SSR are ranked ascending
+    data_exc_ssr = data.copy().loc[data["Metric"] != "Student-staff ratio"] # All metrics except SSR are ranked descending
     data_exc_ssr["Rank"] = data_exc_ssr.groupby(["Year", "Metric"])["Numeric Value"].rank(ascending=False, method="min")
-    data_exc_ssr["Decile"] = data_exc_ssr.groupby(["Year", "Metric"])["Numeric Value"].transform(lambda x: pd.qcut(x, 10, labels=range(1,11)))
-    data_inc_ssr = data.copy().loc[data["Metric"] == "Student-staff ratio"] # SSR is ranked descending
+    data_exc_ssr["Decile"] = data_exc_ssr.groupby(["Year", "Metric"])["Numeric Value"].transform(
+        lambda x: pd.qcut(x.rank(method="first"), 10, labels=range(1,11)) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
+    )
+    data_inc_ssr = data.copy().loc[data["Metric"] == "Student-staff ratio"] # SSR is ranked ascending
     data_inc_ssr["Rank"] = data_inc_ssr.groupby(["Year", "Metric"])["Numeric Value"].rank(ascending=True, method="min")
-    data_inc_ssr["Decile"] = data_inc_ssr.groupby(["Year", "Metric"])["Numeric Value"].transform(lambda x: pd.qcut(x, 10, labels=list(reversed(range(1,11)))))
+    data_inc_ssr["Decile"] = data_inc_ssr.groupby(["Year", "Metric"])["Numeric Value"].transform(
+        lambda x: pd.qcut(x.rank(method="first"), 10, labels=list(reversed(range(1,11)))) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
+    )
     return data_exc_ssr.append(data_inc_ssr)
 
 years = [2014, 2015, 2016, 2017, 2018, 2019, 2020]

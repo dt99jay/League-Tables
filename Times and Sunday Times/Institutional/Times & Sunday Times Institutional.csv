@@ -14,7 +14,7 @@ Student experience (%),77.9,2014,University of Birmingham,77.9,75.0,4.0
 Student experience (%),77.2,2014,University of Bristol,77.2,85.0,3.0
 Student experience (%),78.2,2014,University of Glasgow,78.2,68.0,5.0
 Student experience (%),82.4,2014,Harper Adams University,82.4,11.0,10.0
-Student experience (%),77.2,2014,University of Manchester,77.2,85.0,3.0
+Student experience (%),77.2,2014,University of Manchester,77.2,85.0,4.0
 Student experience (%),80.6,2014,"Royal Holloway, University of London",80.6,25.0,9.0
 Student experience (%),78.6,2014,University of Southampton,78.6,59.0,6.0
 Student experience (%),78.0,2014,University of Nottingham,78.0,70.0,5.0
@@ -64,7 +64,7 @@ Student experience (%),78.3,2014,Northumbria University,78.3,64.0,5.0
 Student experience (%),81.1,2014,Sheffield Hallam University,81.1,22.0,9.0
 Student experience (%),71.9,2014,"St George's, University of London",71.9,122.0,1.0
 Student experience (%),72.0,2014,"Goldsmiths, University of London",72.0,121.0,1.0
-Student experience (%),77.2,2014,University of Roehampton,77.2,85.0,3.0
+Student experience (%),77.2,2014,University of Roehampton,77.2,85.0,4.0
 Student experience (%),81.8,2014,Bangor University,81.8,15.0,9.0
 Student experience (%),79.9,2014,University of Chichester,79.9,34.0,8.0
 Student experience (%),76.5,2014,Falmouth University,76.5,94.0,3.0
@@ -81,7 +81,7 @@ Student experience (%),76.5,2014,"Queen Margaret University, Edinburgh",76.5,94.
 Student experience (%),80.4,2014,Robert Gordon University,80.4,26.0,8.0
 Student experience (%),78.4,2014,University of Greenwich,78.4,63.0,5.0
 Student experience (%),79.0,2014,"St Mary's University, Twickenham",79.0,50.0,6.0
-Student experience (%),77.9,2014,London South Bank University,77.9,75.0,4.0
+Student experience (%),77.9,2014,London South Bank University,77.9,75.0,5.0
 Student experience (%),79.5,2014,Teesside University,79.5,39.0,7.0
 Student experience (%),78.3,2014,University of Hertfordshire,78.3,64.0,5.0
 Student experience (%),79.0,2014,Solent University,79.0,50.0,6.0
@@ -99,11 +99,11 @@ Student experience (%),75.9,2014,Edinburgh Napier University,75.9,99.0,3.0
 Student experience (%),82.7,2014,Plymouth Marjon University,82.7,9.0,10.0
 Student experience (%),78.6,2014,University of Wales Trinity St David,78.6,59.0,6.0
 Student experience (%),75.8,2014,Bishop Grosseteste University,75.8,100.0,2.0
-Student experience (%),74.3,2014,University of Bradford,74.3,111.0,1.0
+Student experience (%),74.3,2014,University of Bradford,74.3,111.0,2.0
 Student experience (%),78.3,2014,Kingston University,78.3,64.0,5.0
 Student experience (%),74.0,2014,Middlesex University,74.0,114.0,1.0
 Student experience (%),78.0,2014,University of the West of Scotland,78.0,70.0,5.0
-Student experience (%),77.2,2014,University of Sunderland,77.2,85.0,3.0
+Student experience (%),77.2,2014,University of Sunderland,77.2,85.0,4.0
 Student experience (%),72.2,2014,Bath Spa University,72.2,120.0,1.0
 Student experience (%),76.8,2014,University of Salford,76.8,92.0,3.0
 Student experience (%),80.0,2014,Cardiff Metropolitan University,80.0,31.0,8.0
@@ -114,16 +114,16 @@ Student experience (%),73.9,2014,University of Northampton,73.9,115.0,1.0
 Student experience (%),74.8,2014,Leeds Trinity University,74.8,110.0,2.0
 Student experience (%),75.7,2014,Canterbury Christ Church University,75.7,102.0,2.0
 Student experience (%),75.1,2014,University of Westminster,75.1,108.0,2.0
-Student experience (%),79.0,2014,Anglia Ruskin University,79.0,50.0,6.0
+Student experience (%),79.0,2014,Anglia Ruskin University,79.0,50.0,7.0
 Student experience (%),73.8,2014,University of Cumbria,73.8,116.0,1.0
-Student experience (%),75.8,2014,University of Brighton,75.8,100.0,2.0
+Student experience (%),75.8,2014,University of Brighton,75.8,100.0,3.0
 Student experience (%),79.3,2014,Leeds Beckett University,79.3,41.0,7.0
 Student experience (%),78.8,2014,University of Wolverhampton,78.8,56.0,6.0
-Student experience (%),82.1,2014,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2014,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2014,London Metropolitan University,75.7,102.0,2.0
 Student experience (%),76.1,2014,University of East London,76.1,98.0,3.0
 Student experience (%),77.4,2014,University of Bedfordshire,77.4,81.0,4.0
-Student experience (%),74.3,2014,Wrexham Glyndwr University,74.3,111.0,1.0
+Student experience (%),74.3,2014,Wrexham Glyndwr University,74.3,111.0,2.0
 Research quality (%),40.4,2014,University of St Andrews,40.4,9.0,10.0
 Research quality (%),56.2,2014,Imperial College London,56.2,1.0,10.0
 Research quality (%),36.3,2014,Loughborough University,36.3,28.0,8.0
@@ -201,7 +201,7 @@ Research quality (%),16.7,2014,University of Hull,16.7,52.0,6.0
 Research quality (%),8.9,2014,Liverpool John Moores University,8.9,65.0,5.0
 Research quality (%),8.0,2014,"University of the Arts, London",8.0,70.0,5.0
 Research quality (%),4.1,2014,University of Chester,4.1,99.0,2.0
-Research quality (%),4.1,2014,York St John University,4.1,99.0,2.0
+Research quality (%),4.1,2014,York St John University,4.1,99.0,3.0
 Research quality (%),6.6,2014,"Queen Margaret University, Edinburgh",6.6,77.0,4.0
 Research quality (%),4.0,2014,Robert Gordon University,4.0,102.0,2.0
 Research quality (%),4.9,2014,University of Greenwich,4.9,91.0,3.0
@@ -213,7 +213,7 @@ Research quality (%),0.5,2014,Solent University,0.5,124.0,1.0
 Research quality (%),1.1,2014,Royal Agricultural University,1.1,123.0,1.0
 Research quality (%),2.5,2014,University of Derby,2.5,115.0,1.0
 Research quality (%),4.3,2014,University of Worcester,4.3,96.0,3.0
-Research quality (%),9.0,2014,Bournemouth University,9.0,62.0,5.0
+Research quality (%),9.0,2014,Bournemouth University,9.0,62.0,6.0
 Research quality (%),3.8,2014,University of Gloucestershire,3.8,106.0,2.0
 Research quality (%),4.3,2014,Birmingham City University,4.3,96.0,3.0
 Research quality (%),7.0,2014,Glasgow Caledonian University,7.0,75.0,4.0
@@ -239,15 +239,15 @@ Research quality (%),3.2,2014,University of Northampton,3.2,111.0,2.0
 Research quality (%),2.0,2014,Leeds Trinity University,2.0,119.0,1.0
 Research quality (%),4.5,2014,Canterbury Christ Church University,4.5,95.0,3.0
 Research quality (%),9.8,2014,University of Westminster,9.8,57.0,6.0
-Research quality (%),5.4,2014,Anglia Ruskin University,5.4,87.0,3.0
+Research quality (%),5.4,2014,Anglia Ruskin University,5.4,87.0,4.0
 Research quality (%),1.2,2014,University of Cumbria,1.2,122.0,1.0
 Research quality (%),7.9,2014,University of Brighton,7.9,71.0,5.0
-Research quality (%),4.1,2014,Leeds Beckett University,4.1,99.0,2.0
+Research quality (%),4.1,2014,Leeds Beckett University,4.1,99.0,3.0
 Research quality (%),5.9,2014,University of Wolverhampton,5.9,80.0,4.0
 Research quality (%),2.9,2014,University of Bolton,2.9,112.0,2.0
 Research quality (%),3.5,2014,London Metropolitan University,3.5,109.0,2.0
 Research quality (%),7.2,2014,University of East London,7.2,74.0,5.0
-Research quality (%),7.0,2014,University of Bedfordshire,7.0,75.0,4.0
+Research quality (%),7.0,2014,University of Bedfordshire,7.0,75.0,5.0
 Research quality (%),2.3,2014,Wrexham Glyndwr University,2.3,117.0,1.0
 Entry standards (Ucas pts),208,2014,University of St Andrews,208.0,1.0,10.0
 Entry standards (Ucas pts),206,2014,Imperial College London,206.0,2.0,10.0
@@ -270,7 +270,7 @@ Entry standards (Ucas pts),160,2014,University of Southampton,160.0,24.0,9.0
 Entry standards (Ucas pts),161,2014,University of Nottingham,161.0,23.0,9.0
 Entry standards (Ucas pts),158,2014,University of York,158.0,27.0,8.0
 Entry standards (Ucas pts),147,2014,University of East Anglia,147.0,39.0,7.0
-Entry standards (Ucas pts),172,2014,University of Dundee,172.0,13.0,9.0
+Entry standards (Ucas pts),172,2014,University of Dundee,172.0,13.0,10.0
 Entry standards (Ucas pts),190,2014,University of Edinburgh,190.0,6.0,10.0
 Entry standards (Ucas pts),157,2014,University of Sheffield,157.0,29.0,8.0
 Entry standards (Ucas pts),184,2014,University of Aberdeen,184.0,9.0,10.0
@@ -280,7 +280,7 @@ Entry standards (Ucas pts),169,2014,King's College London,169.0,15.0,9.0
 Entry standards (Ucas pts),135,2014,Swansea University,135.0,52.0,6.0
 Entry standards (Ucas pts),156,2014,University of Surrey,156.0,32.0,8.0
 Entry standards (Ucas pts),163,2014,Heriot-Watt University,163.0,20.0,9.0
-Entry standards (Ucas pts),159,2014,Cardiff University,159.0,25.0,8.0
+Entry standards (Ucas pts),159,2014,Cardiff University,159.0,25.0,9.0
 Entry standards (Ucas pts),152,2014,"Queen's University, Belfast",152.0,35.0,8.0
 Entry standards (Ucas pts),200,2014,University of Strathclyde,200.0,3.0,10.0
 Entry standards (Ucas pts),111,2014,University of Essex,111.0,116.0,1.0
@@ -321,26 +321,26 @@ Entry standards (Ucas pts),131,2014,Falmouth University,131.0,64.0,5.0
 Entry standards (Ucas pts),145,2014,"City, University of London",145.0,41.0,7.0
 Entry standards (Ucas pts),111,2014,De Montfort University,111.0,116.0,1.0
 Entry standards (Ucas pts),133,2014,University of Central Lancashire,133.0,57.0,6.0
-Entry standards (Ucas pts),132,2014,Plymouth University,132.0,61.0,5.0
-Entry standards (Ucas pts),126,2014,University of Hull,126.0,74.0,4.0
+Entry standards (Ucas pts),132,2014,Plymouth University,132.0,61.0,6.0
+Entry standards (Ucas pts),126,2014,University of Hull,126.0,74.0,5.0
 Entry standards (Ucas pts),142,2014,Liverpool John Moores University,142.0,45.0,7.0
-Entry standards (Ucas pts),137,2014,"University of the Arts, London",137.0,49.0,6.0
+Entry standards (Ucas pts),137,2014,"University of the Arts, London",137.0,49.0,7.0
 Entry standards (Ucas pts),114,2014,University of Chester,114.0,107.0,2.0
 Entry standards (Ucas pts),114,2014,York St John University,114.0,107.0,2.0
 Entry standards (Ucas pts),151,2014,"Queen Margaret University, Edinburgh",151.0,36.0,8.0
 Entry standards (Ucas pts),157,2014,Robert Gordon University,157.0,29.0,8.0
-Entry standards (Ucas pts),137,2014,University of Greenwich,137.0,49.0,6.0
+Entry standards (Ucas pts),137,2014,University of Greenwich,137.0,49.0,7.0
 Entry standards (Ucas pts),119,2014,"St Mary's University, Twickenham",119.0,94.0,3.0
 Entry standards (Ucas pts),114,2014,London South Bank University,114.0,107.0,2.0
 Entry standards (Ucas pts),120,2014,Teesside University,120.0,90.0,3.0
 Entry standards (Ucas pts),115,2014,University of Hertfordshire,115.0,104.0,2.0
 Entry standards (Ucas pts),118,2014,Solent University,118.0,96.0,3.0
 Entry standards (Ucas pts),118,2014,Royal Agricultural University,118.0,96.0,3.0
-Entry standards (Ucas pts),123,2014,University of Derby,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2014,University of Derby,123.0,83.0,4.0
 Entry standards (Ucas pts),120,2014,University of Worcester,120.0,90.0,3.0
 Entry standards (Ucas pts),122,2014,Bournemouth University,122.0,89.0,3.0
-Entry standards (Ucas pts),123,2014,University of Gloucestershire,123.0,83.0,3.0
-Entry standards (Ucas pts),123,2014,Birmingham City University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2014,University of Gloucestershire,123.0,83.0,4.0
+Entry standards (Ucas pts),123,2014,Birmingham City University,123.0,83.0,4.0
 Entry standards (Ucas pts),167,2014,Glasgow Caledonian University,167.0,16.0,9.0
 Entry standards (Ucas pts),142,2014,Abertay University,142.0,45.0,7.0
 Entry standards (Ucas pts),113,2014,University of Winchester,113.0,110.0,2.0
@@ -349,14 +349,14 @@ Entry standards (Ucas pts),148,2014,Edinburgh Napier University,148.0,37.0,8.0
 Entry standards (Ucas pts),125,2014,Plymouth Marjon University,125.0,78.0,4.0
 Entry standards (Ucas pts),109,2014,University of Wales Trinity St David,109.0,121.0,1.0
 Entry standards (Ucas pts),112,2014,Bishop Grosseteste University,112.0,113.0,1.0
-Entry standards (Ucas pts),132,2014,University of Bradford,132.0,61.0,5.0
+Entry standards (Ucas pts),132,2014,University of Bradford,132.0,61.0,6.0
 Entry standards (Ucas pts),124,2014,Kingston University,124.0,81.0,4.0
-Entry standards (Ucas pts),123,2014,Middlesex University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2014,Middlesex University,123.0,83.0,4.0
 Entry standards (Ucas pts),139,2014,University of the West of Scotland,139.0,48.0,7.0
 Entry standards (Ucas pts),115,2014,University of Sunderland,115.0,104.0,2.0
 Entry standards (Ucas pts),118,2014,Bath Spa University,118.0,96.0,3.0
 Entry standards (Ucas pts),130,2014,University of Salford,130.0,69.0,5.0
-Entry standards (Ucas pts),123,2014,Cardiff Metropolitan University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2014,Cardiff Metropolitan University,123.0,83.0,4.0
 Entry standards (Ucas pts),117,2014,Bucks New University,117.0,100.0,2.0
 Entry standards (Ucas pts),125,2014,University of South Wales,125.0,78.0,4.0
 Entry standards (Ucas pts),118,2014,Newman University,118.0,96.0,3.0
@@ -365,8 +365,8 @@ Entry standards (Ucas pts),109,2014,Leeds Trinity University,109.0,121.0,1.0
 Entry standards (Ucas pts),110,2014,Canterbury Christ Church University,110.0,120.0,1.0
 Entry standards (Ucas pts),127,2014,University of Westminster,127.0,72.0,5.0
 Entry standards (Ucas pts),113,2014,Anglia Ruskin University,113.0,110.0,2.0
-Entry standards (Ucas pts),126,2014,University of Cumbria,126.0,74.0,4.0
-Entry standards (Ucas pts),117,2014,University of Brighton,117.0,100.0,2.0
+Entry standards (Ucas pts),126,2014,University of Cumbria,126.0,74.0,5.0
+Entry standards (Ucas pts),117,2014,University of Brighton,117.0,100.0,3.0
 Entry standards (Ucas pts),112,2014,Leeds Beckett University,112.0,113.0,1.0
 Entry standards (Ucas pts),112,2014,University of Wolverhampton,112.0,113.0,1.0
 Entry standards (Ucas pts),116,2014,University of Bolton,116.0,103.0,2.0
@@ -417,17 +417,17 @@ Graduate prospects (%),72.7,2014,University for the Creative Arts,72.7,86.0,4.0
 Graduate prospects (%),80.5,2014,Arts University Bournemouth,80.5,43.0,7.0
 Graduate prospects (%),70.9,2014,SOAS University of London,70.9,91.0,3.0
 Graduate prospects (%),78.2,2014,Aberystwyth University,78.2,53.0,6.0
-Graduate prospects (%),82.1,2014,Keele University,82.1,25.0,8.0
+Graduate prospects (%),82.1,2014,Keele University,82.1,25.0,9.0
 Graduate prospects (%),78.7,2014,University of Stirling,78.7,50.0,6.0
 Graduate prospects (%),79.1,2014,Aston University,79.1,49.0,7.0
-Graduate prospects (%),78.7,2014,"Queen Mary, University of London",78.7,50.0,6.0
+Graduate prospects (%),78.7,2014,"Queen Mary, University of London",78.7,50.0,7.0
 Graduate prospects (%),80.9,2014,Coventry University,80.9,36.0,8.0
 Graduate prospects (%),81.4,2014,University of Lincoln,81.4,31.0,8.0
 Graduate prospects (%),74.0,2014,University of West London,74.0,70.0,5.0
 Graduate prospects (%),80.8,2014,Staffordshire University,80.8,38.0,8.0
 Graduate prospects (%),78.3,2014,University of Kent,78.3,52.0,6.0
 Graduate prospects (%),77.2,2014,Edge Hill University,77.2,56.0,6.0
-Graduate prospects (%),85.4,2014,University of Portsmouth,85.4,13.0,9.0
+Graduate prospects (%),85.4,2014,University of Portsmouth,85.4,13.0,10.0
 Graduate prospects (%),71.9,2014,Ulster University,71.9,90.0,3.0
 Graduate prospects (%),76.3,2014,University of the West of England,76.3,61.0,6.0
 Graduate prospects (%),83.8,2014,Liverpool Hope University,83.8,19.0,9.0
@@ -480,7 +480,7 @@ Graduate prospects (%),73.5,2014,Middlesex University,73.5,78.0,4.0
 Graduate prospects (%),80.7,2014,University of the West of Scotland,80.7,39.0,7.0
 Graduate prospects (%),67.1,2014,University of Sunderland,67.1,108.0,2.0
 Graduate prospects (%),66.9,2014,Bath Spa University,66.9,109.0,2.0
-Graduate prospects (%),73.6,2014,University of Salford,73.6,74.0,4.0
+Graduate prospects (%),73.6,2014,University of Salford,73.6,74.0,5.0
 Graduate prospects (%),65.9,2014,Cardiff Metropolitan University,65.9,111.0,2.0
 Graduate prospects (%),68.8,2014,Bucks New University,68.8,101.0,2.0
 Graduate prospects (%),63.4,2014,University of South Wales,63.4,121.0,1.0
@@ -490,7 +490,7 @@ Graduate prospects (%),68.1,2014,Leeds Trinity University,68.1,105.0,2.0
 Graduate prospects (%),64.7,2014,Canterbury Christ Church University,64.7,113.0,1.0
 Graduate prospects (%),70.4,2014,University of Westminster,70.4,96.0,3.0
 Graduate prospects (%),68.3,2014,Anglia Ruskin University,68.3,103.0,2.0
-Graduate prospects (%),73.6,2014,University of Cumbria,73.6,74.0,4.0
+Graduate prospects (%),73.6,2014,University of Cumbria,73.6,74.0,5.0
 Graduate prospects (%),67.2,2014,University of Brighton,67.2,107.0,2.0
 Graduate prospects (%),63.2,2014,Leeds Beckett University,63.2,122.0,1.0
 Graduate prospects (%),68.9,2014,University of Wolverhampton,68.9,100.0,3.0
@@ -569,7 +569,7 @@ Firsts/2:1s (%),71.4,2014,Bangor University,71.4,87.0,4.0
 Firsts/2:1s (%),73.1,2014,University of Chichester,73.1,78.0,4.0
 Firsts/2:1s (%),78.0,2014,Falmouth University,78.0,46.0,7.0
 Firsts/2:1s (%),73.1,2014,"City, University of London",73.1,78.0,4.0
-Firsts/2:1s (%),75.1,2014,De Montfort University,75.1,62.0,5.0
+Firsts/2:1s (%),75.1,2014,De Montfort University,75.1,62.0,6.0
 Firsts/2:1s (%),71.8,2014,University of Central Lancashire,71.8,84.0,4.0
 Firsts/2:1s (%),70.9,2014,Plymouth University,70.9,92.0,3.0
 Firsts/2:1s (%),70.4,2014,University of Hull,70.4,94.0,3.0
@@ -598,7 +598,7 @@ Firsts/2:1s (%),75.7,2014,Brunel University London,75.7,56.0,6.0
 Firsts/2:1s (%),75.7,2014,Edinburgh Napier University,75.7,56.0,6.0
 Firsts/2:1s (%),77.1,2014,Plymouth Marjon University,77.1,49.0,7.0
 Firsts/2:1s (%),72.9,2014,University of Wales Trinity St David,72.9,80.0,4.0
-Firsts/2:1s (%),69.0,2014,Bishop Grosseteste University,69.0,100.0,2.0
+Firsts/2:1s (%),69.0,2014,Bishop Grosseteste University,69.0,100.0,3.0
 Firsts/2:1s (%),80.2,2014,University of Bradford,80.2,36.0,8.0
 Firsts/2:1s (%),72.5,2014,Kingston University,72.5,81.0,4.0
 Firsts/2:1s (%),67.2,2014,Middlesex University,67.2,112.0,2.0
@@ -670,7 +670,7 @@ Completion rate (%),81.6,2014,Aberystwyth University,81.6,88.0,3.0
 Completion rate (%),88.7,2014,Keele University,88.7,43.0,7.0
 Completion rate (%),86.7,2014,University of Stirling,86.7,55.0,6.0
 Completion rate (%),92.0,2014,Aston University,92.0,26.0,8.0
-Completion rate (%),89.9,2014,"Queen Mary, University of London",89.9,38.0,7.0
+Completion rate (%),89.9,2014,"Queen Mary, University of London",89.9,38.0,8.0
 Completion rate (%),83.9,2014,Coventry University,83.9,72.0,5.0
 Completion rate (%),88.1,2014,University of Lincoln,88.1,48.0,7.0
 Completion rate (%),78.1,2014,University of West London,78.1,112.0,2.0
@@ -733,7 +733,7 @@ Completion rate (%),86.2,2014,Bath Spa University,86.2,58.0,6.0
 Completion rate (%),78.3,2014,University of Salford,78.3,110.0,2.0
 Completion rate (%),79.6,2014,Cardiff Metropolitan University,79.6,102.0,2.0
 Completion rate (%),79.3,2014,Bucks New University,79.3,104.0,2.0
-Completion rate (%),79.8,2014,University of South Wales,79.8,100.0,2.0
+Completion rate (%),79.8,2014,University of South Wales,79.8,100.0,3.0
 Completion rate (%),76.6,2014,Newman University,76.6,117.0,1.0
 Completion rate (%),80.6,2014,University of Northampton,80.6,94.0,3.0
 Completion rate (%),82.4,2014,Leeds Trinity University,82.4,82.0,4.0
@@ -936,7 +936,7 @@ Total,535,2014,Manchester Metropolitan University,535.0,59.0,6.0
 Total,535,2014,Norwich University of the Arts,535.0,59.0,6.0
 Total,531,2014,Oxford Brookes University,531.0,61.0,6.0
 Total,524,2014,Northumbria University,524.0,62.0,5.0
-Total,524,2014,Sheffield Hallam University,524.0,62.0,5.0
+Total,524,2014,Sheffield Hallam University,524.0,62.0,6.0
 Total,521,2014,"St George's, University of London",521.0,64.0,5.0
 Total,520,2014,"Goldsmiths, University of London",520.0,65.0,5.0
 Total,519,2014,University of Roehampton,519.0,66.0,5.0
@@ -1014,7 +1014,7 @@ Student experience (%),77.9,2015,University of Birmingham,77.9,75.0,4.0
 Student experience (%),77.2,2015,University of Bristol,77.2,85.0,3.0
 Student experience (%),78.2,2015,University of Glasgow,78.2,68.0,5.0
 Student experience (%),82.4,2015,Harper Adams University,82.4,11.0,10.0
-Student experience (%),77.2,2015,University of Manchester,77.2,85.0,3.0
+Student experience (%),77.2,2015,University of Manchester,77.2,85.0,4.0
 Student experience (%),80.6,2015,"Royal Holloway, University of London",80.6,25.0,9.0
 Student experience (%),78.6,2015,University of Southampton,78.6,59.0,6.0
 Student experience (%),78.0,2015,University of Nottingham,78.0,70.0,5.0
@@ -1064,7 +1064,7 @@ Student experience (%),78.3,2015,Northumbria University,78.3,64.0,5.0
 Student experience (%),81.1,2015,Sheffield Hallam University,81.1,22.0,9.0
 Student experience (%),71.9,2015,"St George's, University of London",71.9,122.0,1.0
 Student experience (%),72.0,2015,"Goldsmiths, University of London",72.0,121.0,1.0
-Student experience (%),77.2,2015,University of Roehampton,77.2,85.0,3.0
+Student experience (%),77.2,2015,University of Roehampton,77.2,85.0,4.0
 Student experience (%),81.8,2015,Bangor University,81.8,15.0,9.0
 Student experience (%),79.9,2015,University of Chichester,79.9,34.0,8.0
 Student experience (%),76.5,2015,Falmouth University,76.5,94.0,3.0
@@ -1081,7 +1081,7 @@ Student experience (%),76.5,2015,"Queen Margaret University, Edinburgh",76.5,94.
 Student experience (%),80.4,2015,Robert Gordon University,80.4,26.0,8.0
 Student experience (%),78.4,2015,University of Greenwich,78.4,63.0,5.0
 Student experience (%),79.0,2015,"St Mary's University, Twickenham",79.0,50.0,6.0
-Student experience (%),77.9,2015,London South Bank University,77.9,75.0,4.0
+Student experience (%),77.9,2015,London South Bank University,77.9,75.0,5.0
 Student experience (%),79.5,2015,Teesside University,79.5,39.0,7.0
 Student experience (%),78.3,2015,University of Hertfordshire,78.3,64.0,5.0
 Student experience (%),79.0,2015,Solent University,79.0,50.0,6.0
@@ -1099,11 +1099,11 @@ Student experience (%),75.9,2015,Edinburgh Napier University,75.9,99.0,3.0
 Student experience (%),82.7,2015,Plymouth Marjon University,82.7,9.0,10.0
 Student experience (%),78.6,2015,University of Wales Trinity St David,78.6,59.0,6.0
 Student experience (%),75.8,2015,Bishop Grosseteste University,75.8,100.0,2.0
-Student experience (%),74.3,2015,University of Bradford,74.3,111.0,1.0
+Student experience (%),74.3,2015,University of Bradford,74.3,111.0,2.0
 Student experience (%),78.3,2015,Kingston University,78.3,64.0,5.0
 Student experience (%),74.0,2015,Middlesex University,74.0,114.0,1.0
 Student experience (%),78.0,2015,University of the West of Scotland,78.0,70.0,5.0
-Student experience (%),77.2,2015,University of Sunderland,77.2,85.0,3.0
+Student experience (%),77.2,2015,University of Sunderland,77.2,85.0,4.0
 Student experience (%),72.2,2015,Bath Spa University,72.2,120.0,1.0
 Student experience (%),76.8,2015,University of Salford,76.8,92.0,3.0
 Student experience (%),80.0,2015,Cardiff Metropolitan University,80.0,31.0,8.0
@@ -1114,16 +1114,16 @@ Student experience (%),73.9,2015,University of Northampton,73.9,115.0,1.0
 Student experience (%),74.8,2015,Leeds Trinity University,74.8,110.0,2.0
 Student experience (%),75.7,2015,Canterbury Christ Church University,75.7,102.0,2.0
 Student experience (%),75.1,2015,University of Westminster,75.1,108.0,2.0
-Student experience (%),79.0,2015,Anglia Ruskin University,79.0,50.0,6.0
+Student experience (%),79.0,2015,Anglia Ruskin University,79.0,50.0,7.0
 Student experience (%),73.8,2015,University of Cumbria,73.8,116.0,1.0
-Student experience (%),75.8,2015,University of Brighton,75.8,100.0,2.0
+Student experience (%),75.8,2015,University of Brighton,75.8,100.0,3.0
 Student experience (%),79.3,2015,Leeds Beckett University,79.3,41.0,7.0
 Student experience (%),78.8,2015,University of Wolverhampton,78.8,56.0,6.0
-Student experience (%),82.1,2015,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2015,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2015,London Metropolitan University,75.7,102.0,2.0
 Student experience (%),76.1,2015,University of East London,76.1,98.0,3.0
 Student experience (%),77.4,2015,University of Bedfordshire,77.4,81.0,4.0
-Student experience (%),74.3,2015,Wrexham Glyndwr University,74.3,111.0,1.0
+Student experience (%),74.3,2015,Wrexham Glyndwr University,74.3,111.0,2.0
 Research quality (%),40.4,2015,University of St Andrews,40.4,9.0,10.0
 Research quality (%),56.2,2015,Imperial College London,56.2,1.0,10.0
 Research quality (%),36.3,2015,Loughborough University,36.3,28.0,8.0
@@ -1201,7 +1201,7 @@ Research quality (%),16.7,2015,University of Hull,16.7,52.0,6.0
 Research quality (%),8.9,2015,Liverpool John Moores University,8.9,65.0,5.0
 Research quality (%),8.0,2015,"University of the Arts, London",8.0,70.0,5.0
 Research quality (%),4.1,2015,University of Chester,4.1,99.0,2.0
-Research quality (%),4.1,2015,York St John University,4.1,99.0,2.0
+Research quality (%),4.1,2015,York St John University,4.1,99.0,3.0
 Research quality (%),6.6,2015,"Queen Margaret University, Edinburgh",6.6,77.0,4.0
 Research quality (%),4.0,2015,Robert Gordon University,4.0,102.0,2.0
 Research quality (%),4.9,2015,University of Greenwich,4.9,91.0,3.0
@@ -1213,7 +1213,7 @@ Research quality (%),0.5,2015,Solent University,0.5,124.0,1.0
 Research quality (%),1.1,2015,Royal Agricultural University,1.1,123.0,1.0
 Research quality (%),2.5,2015,University of Derby,2.5,115.0,1.0
 Research quality (%),4.3,2015,University of Worcester,4.3,96.0,3.0
-Research quality (%),9.0,2015,Bournemouth University,9.0,62.0,5.0
+Research quality (%),9.0,2015,Bournemouth University,9.0,62.0,6.0
 Research quality (%),3.8,2015,University of Gloucestershire,3.8,106.0,2.0
 Research quality (%),4.3,2015,Birmingham City University,4.3,96.0,3.0
 Research quality (%),7.0,2015,Glasgow Caledonian University,7.0,75.0,4.0
@@ -1239,15 +1239,15 @@ Research quality (%),3.2,2015,University of Northampton,3.2,111.0,2.0
 Research quality (%),2.0,2015,Leeds Trinity University,2.0,119.0,1.0
 Research quality (%),4.5,2015,Canterbury Christ Church University,4.5,95.0,3.0
 Research quality (%),9.8,2015,University of Westminster,9.8,57.0,6.0
-Research quality (%),5.4,2015,Anglia Ruskin University,5.4,87.0,3.0
+Research quality (%),5.4,2015,Anglia Ruskin University,5.4,87.0,4.0
 Research quality (%),1.2,2015,University of Cumbria,1.2,122.0,1.0
 Research quality (%),7.9,2015,University of Brighton,7.9,71.0,5.0
-Research quality (%),4.1,2015,Leeds Beckett University,4.1,99.0,2.0
+Research quality (%),4.1,2015,Leeds Beckett University,4.1,99.0,3.0
 Research quality (%),5.9,2015,University of Wolverhampton,5.9,80.0,4.0
 Research quality (%),2.9,2015,University of Bolton,2.9,112.0,2.0
 Research quality (%),3.5,2015,London Metropolitan University,3.5,109.0,2.0
 Research quality (%),7.2,2015,University of East London,7.2,74.0,5.0
-Research quality (%),7.0,2015,University of Bedfordshire,7.0,75.0,4.0
+Research quality (%),7.0,2015,University of Bedfordshire,7.0,75.0,5.0
 Research quality (%),2.3,2015,Wrexham Glyndwr University,2.3,117.0,1.0
 Entry standards (Ucas pts),208,2015,University of St Andrews,208.0,1.0,10.0
 Entry standards (Ucas pts),206,2015,Imperial College London,206.0,2.0,10.0
@@ -1270,7 +1270,7 @@ Entry standards (Ucas pts),160,2015,University of Southampton,160.0,24.0,9.0
 Entry standards (Ucas pts),161,2015,University of Nottingham,161.0,23.0,9.0
 Entry standards (Ucas pts),158,2015,University of York,158.0,27.0,8.0
 Entry standards (Ucas pts),147,2015,University of East Anglia,147.0,39.0,7.0
-Entry standards (Ucas pts),172,2015,University of Dundee,172.0,13.0,9.0
+Entry standards (Ucas pts),172,2015,University of Dundee,172.0,13.0,10.0
 Entry standards (Ucas pts),190,2015,University of Edinburgh,190.0,6.0,10.0
 Entry standards (Ucas pts),157,2015,University of Sheffield,157.0,29.0,8.0
 Entry standards (Ucas pts),184,2015,University of Aberdeen,184.0,9.0,10.0
@@ -1280,7 +1280,7 @@ Entry standards (Ucas pts),169,2015,King's College London,169.0,15.0,9.0
 Entry standards (Ucas pts),135,2015,Swansea University,135.0,52.0,6.0
 Entry standards (Ucas pts),156,2015,University of Surrey,156.0,32.0,8.0
 Entry standards (Ucas pts),163,2015,Heriot-Watt University,163.0,20.0,9.0
-Entry standards (Ucas pts),159,2015,Cardiff University,159.0,25.0,8.0
+Entry standards (Ucas pts),159,2015,Cardiff University,159.0,25.0,9.0
 Entry standards (Ucas pts),152,2015,"Queen's University, Belfast",152.0,35.0,8.0
 Entry standards (Ucas pts),200,2015,University of Strathclyde,200.0,3.0,10.0
 Entry standards (Ucas pts),111,2015,University of Essex,111.0,116.0,1.0
@@ -1321,26 +1321,26 @@ Entry standards (Ucas pts),131,2015,Falmouth University,131.0,64.0,5.0
 Entry standards (Ucas pts),145,2015,"City, University of London",145.0,41.0,7.0
 Entry standards (Ucas pts),111,2015,De Montfort University,111.0,116.0,1.0
 Entry standards (Ucas pts),133,2015,University of Central Lancashire,133.0,57.0,6.0
-Entry standards (Ucas pts),132,2015,Plymouth University,132.0,61.0,5.0
-Entry standards (Ucas pts),126,2015,University of Hull,126.0,74.0,4.0
+Entry standards (Ucas pts),132,2015,Plymouth University,132.0,61.0,6.0
+Entry standards (Ucas pts),126,2015,University of Hull,126.0,74.0,5.0
 Entry standards (Ucas pts),142,2015,Liverpool John Moores University,142.0,45.0,7.0
-Entry standards (Ucas pts),137,2015,"University of the Arts, London",137.0,49.0,6.0
+Entry standards (Ucas pts),137,2015,"University of the Arts, London",137.0,49.0,7.0
 Entry standards (Ucas pts),114,2015,University of Chester,114.0,107.0,2.0
 Entry standards (Ucas pts),114,2015,York St John University,114.0,107.0,2.0
 Entry standards (Ucas pts),151,2015,"Queen Margaret University, Edinburgh",151.0,36.0,8.0
 Entry standards (Ucas pts),157,2015,Robert Gordon University,157.0,29.0,8.0
-Entry standards (Ucas pts),137,2015,University of Greenwich,137.0,49.0,6.0
+Entry standards (Ucas pts),137,2015,University of Greenwich,137.0,49.0,7.0
 Entry standards (Ucas pts),119,2015,"St Mary's University, Twickenham",119.0,94.0,3.0
 Entry standards (Ucas pts),114,2015,London South Bank University,114.0,107.0,2.0
 Entry standards (Ucas pts),120,2015,Teesside University,120.0,90.0,3.0
 Entry standards (Ucas pts),115,2015,University of Hertfordshire,115.0,104.0,2.0
 Entry standards (Ucas pts),118,2015,Solent University,118.0,96.0,3.0
 Entry standards (Ucas pts),118,2015,Royal Agricultural University,118.0,96.0,3.0
-Entry standards (Ucas pts),123,2015,University of Derby,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2015,University of Derby,123.0,83.0,4.0
 Entry standards (Ucas pts),120,2015,University of Worcester,120.0,90.0,3.0
 Entry standards (Ucas pts),122,2015,Bournemouth University,122.0,89.0,3.0
-Entry standards (Ucas pts),123,2015,University of Gloucestershire,123.0,83.0,3.0
-Entry standards (Ucas pts),123,2015,Birmingham City University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2015,University of Gloucestershire,123.0,83.0,4.0
+Entry standards (Ucas pts),123,2015,Birmingham City University,123.0,83.0,4.0
 Entry standards (Ucas pts),167,2015,Glasgow Caledonian University,167.0,16.0,9.0
 Entry standards (Ucas pts),142,2015,Abertay University,142.0,45.0,7.0
 Entry standards (Ucas pts),113,2015,University of Winchester,113.0,110.0,2.0
@@ -1349,14 +1349,14 @@ Entry standards (Ucas pts),148,2015,Edinburgh Napier University,148.0,37.0,8.0
 Entry standards (Ucas pts),125,2015,Plymouth Marjon University,125.0,78.0,4.0
 Entry standards (Ucas pts),109,2015,University of Wales Trinity St David,109.0,121.0,1.0
 Entry standards (Ucas pts),112,2015,Bishop Grosseteste University,112.0,113.0,1.0
-Entry standards (Ucas pts),132,2015,University of Bradford,132.0,61.0,5.0
+Entry standards (Ucas pts),132,2015,University of Bradford,132.0,61.0,6.0
 Entry standards (Ucas pts),124,2015,Kingston University,124.0,81.0,4.0
-Entry standards (Ucas pts),123,2015,Middlesex University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2015,Middlesex University,123.0,83.0,4.0
 Entry standards (Ucas pts),139,2015,University of the West of Scotland,139.0,48.0,7.0
 Entry standards (Ucas pts),115,2015,University of Sunderland,115.0,104.0,2.0
 Entry standards (Ucas pts),118,2015,Bath Spa University,118.0,96.0,3.0
 Entry standards (Ucas pts),130,2015,University of Salford,130.0,69.0,5.0
-Entry standards (Ucas pts),123,2015,Cardiff Metropolitan University,123.0,83.0,3.0
+Entry standards (Ucas pts),123,2015,Cardiff Metropolitan University,123.0,83.0,4.0
 Entry standards (Ucas pts),117,2015,Bucks New University,117.0,100.0,2.0
 Entry standards (Ucas pts),125,2015,University of South Wales,125.0,78.0,4.0
 Entry standards (Ucas pts),118,2015,Newman University,118.0,96.0,3.0
@@ -1365,8 +1365,8 @@ Entry standards (Ucas pts),109,2015,Leeds Trinity University,109.0,121.0,1.0
 Entry standards (Ucas pts),110,2015,Canterbury Christ Church University,110.0,120.0,1.0
 Entry standards (Ucas pts),127,2015,University of Westminster,127.0,72.0,5.0
 Entry standards (Ucas pts),113,2015,Anglia Ruskin University,113.0,110.0,2.0
-Entry standards (Ucas pts),126,2015,University of Cumbria,126.0,74.0,4.0
-Entry standards (Ucas pts),117,2015,University of Brighton,117.0,100.0,2.0
+Entry standards (Ucas pts),126,2015,University of Cumbria,126.0,74.0,5.0
+Entry standards (Ucas pts),117,2015,University of Brighton,117.0,100.0,3.0
 Entry standards (Ucas pts),112,2015,Leeds Beckett University,112.0,113.0,1.0
 Entry standards (Ucas pts),112,2015,University of Wolverhampton,112.0,113.0,1.0
 Entry standards (Ucas pts),116,2015,University of Bolton,116.0,103.0,2.0
@@ -1417,17 +1417,17 @@ Graduate prospects (%),72.7,2015,University for the Creative Arts,72.7,86.0,4.0
 Graduate prospects (%),80.5,2015,Arts University Bournemouth,80.5,43.0,7.0
 Graduate prospects (%),70.9,2015,SOAS University of London,70.9,91.0,3.0
 Graduate prospects (%),78.2,2015,Aberystwyth University,78.2,53.0,6.0
-Graduate prospects (%),82.1,2015,Keele University,82.1,25.0,8.0
+Graduate prospects (%),82.1,2015,Keele University,82.1,25.0,9.0
 Graduate prospects (%),78.7,2015,University of Stirling,78.7,50.0,6.0
 Graduate prospects (%),79.1,2015,Aston University,79.1,49.0,7.0
-Graduate prospects (%),78.7,2015,"Queen Mary, University of London",78.7,50.0,6.0
+Graduate prospects (%),78.7,2015,"Queen Mary, University of London",78.7,50.0,7.0
 Graduate prospects (%),80.9,2015,Coventry University,80.9,36.0,8.0
 Graduate prospects (%),81.4,2015,University of Lincoln,81.4,31.0,8.0
 Graduate prospects (%),74.0,2015,University of West London,74.0,70.0,5.0
 Graduate prospects (%),80.8,2015,Staffordshire University,80.8,38.0,8.0
 Graduate prospects (%),78.3,2015,University of Kent,78.3,52.0,6.0
 Graduate prospects (%),77.2,2015,Edge Hill University,77.2,56.0,6.0
-Graduate prospects (%),85.4,2015,University of Portsmouth,85.4,13.0,9.0
+Graduate prospects (%),85.4,2015,University of Portsmouth,85.4,13.0,10.0
 Graduate prospects (%),71.9,2015,Ulster University,71.9,90.0,3.0
 Graduate prospects (%),76.3,2015,University of the West of England,76.3,61.0,6.0
 Graduate prospects (%),83.8,2015,Liverpool Hope University,83.8,19.0,9.0
@@ -1480,7 +1480,7 @@ Graduate prospects (%),73.5,2015,Middlesex University,73.5,78.0,4.0
 Graduate prospects (%),80.7,2015,University of the West of Scotland,80.7,39.0,7.0
 Graduate prospects (%),67.1,2015,University of Sunderland,67.1,108.0,2.0
 Graduate prospects (%),66.9,2015,Bath Spa University,66.9,109.0,2.0
-Graduate prospects (%),73.6,2015,University of Salford,73.6,74.0,4.0
+Graduate prospects (%),73.6,2015,University of Salford,73.6,74.0,5.0
 Graduate prospects (%),65.9,2015,Cardiff Metropolitan University,65.9,111.0,2.0
 Graduate prospects (%),68.8,2015,Bucks New University,68.8,101.0,2.0
 Graduate prospects (%),63.4,2015,University of South Wales,63.4,121.0,1.0
@@ -1490,7 +1490,7 @@ Graduate prospects (%),68.1,2015,Leeds Trinity University,68.1,105.0,2.0
 Graduate prospects (%),64.7,2015,Canterbury Christ Church University,64.7,113.0,1.0
 Graduate prospects (%),70.4,2015,University of Westminster,70.4,96.0,3.0
 Graduate prospects (%),68.3,2015,Anglia Ruskin University,68.3,103.0,2.0
-Graduate prospects (%),73.6,2015,University of Cumbria,73.6,74.0,4.0
+Graduate prospects (%),73.6,2015,University of Cumbria,73.6,74.0,5.0
 Graduate prospects (%),67.2,2015,University of Brighton,67.2,107.0,2.0
 Graduate prospects (%),63.2,2015,Leeds Beckett University,63.2,122.0,1.0
 Graduate prospects (%),68.9,2015,University of Wolverhampton,68.9,100.0,3.0
@@ -1569,7 +1569,7 @@ Firsts/2:1s (%),71.4,2015,Bangor University,71.4,87.0,4.0
 Firsts/2:1s (%),73.1,2015,University of Chichester,73.1,78.0,4.0
 Firsts/2:1s (%),78.0,2015,Falmouth University,78.0,46.0,7.0
 Firsts/2:1s (%),73.1,2015,"City, University of London",73.1,78.0,4.0
-Firsts/2:1s (%),75.1,2015,De Montfort University,75.1,62.0,5.0
+Firsts/2:1s (%),75.1,2015,De Montfort University,75.1,62.0,6.0
 Firsts/2:1s (%),71.8,2015,University of Central Lancashire,71.8,84.0,4.0
 Firsts/2:1s (%),70.9,2015,Plymouth University,70.9,92.0,3.0
 Firsts/2:1s (%),70.4,2015,University of Hull,70.4,94.0,3.0
@@ -1598,7 +1598,7 @@ Firsts/2:1s (%),75.7,2015,Brunel University London,75.7,56.0,6.0
 Firsts/2:1s (%),75.7,2015,Edinburgh Napier University,75.7,56.0,6.0
 Firsts/2:1s (%),77.1,2015,Plymouth Marjon University,77.1,49.0,7.0
 Firsts/2:1s (%),72.9,2015,University of Wales Trinity St David,72.9,80.0,4.0
-Firsts/2:1s (%),69.0,2015,Bishop Grosseteste University,69.0,100.0,2.0
+Firsts/2:1s (%),69.0,2015,Bishop Grosseteste University,69.0,100.0,3.0
 Firsts/2:1s (%),80.2,2015,University of Bradford,80.2,36.0,8.0
 Firsts/2:1s (%),72.5,2015,Kingston University,72.5,81.0,4.0
 Firsts/2:1s (%),67.2,2015,Middlesex University,67.2,112.0,2.0
@@ -1670,7 +1670,7 @@ Completion rate (%),81.6,2015,Aberystwyth University,81.6,88.0,3.0
 Completion rate (%),88.7,2015,Keele University,88.7,43.0,7.0
 Completion rate (%),86.7,2015,University of Stirling,86.7,55.0,6.0
 Completion rate (%),92.0,2015,Aston University,92.0,26.0,8.0
-Completion rate (%),89.9,2015,"Queen Mary, University of London",89.9,38.0,7.0
+Completion rate (%),89.9,2015,"Queen Mary, University of London",89.9,38.0,8.0
 Completion rate (%),83.9,2015,Coventry University,83.9,72.0,5.0
 Completion rate (%),88.1,2015,University of Lincoln,88.1,48.0,7.0
 Completion rate (%),78.1,2015,University of West London,78.1,112.0,2.0
@@ -1733,7 +1733,7 @@ Completion rate (%),86.2,2015,Bath Spa University,86.2,58.0,6.0
 Completion rate (%),78.3,2015,University of Salford,78.3,110.0,2.0
 Completion rate (%),79.6,2015,Cardiff Metropolitan University,79.6,102.0,2.0
 Completion rate (%),79.3,2015,Bucks New University,79.3,104.0,2.0
-Completion rate (%),79.8,2015,University of South Wales,79.8,100.0,2.0
+Completion rate (%),79.8,2015,University of South Wales,79.8,100.0,3.0
 Completion rate (%),76.6,2015,Newman University,76.6,117.0,1.0
 Completion rate (%),80.6,2015,University of Northampton,80.6,94.0,3.0
 Completion rate (%),82.4,2015,Leeds Trinity University,82.4,82.0,4.0
@@ -1936,7 +1936,7 @@ Total,535,2015,Manchester Metropolitan University,535.0,59.0,6.0
 Total,535,2015,Norwich University of the Arts,535.0,59.0,6.0
 Total,531,2015,Oxford Brookes University,531.0,61.0,6.0
 Total,524,2015,Northumbria University,524.0,62.0,5.0
-Total,524,2015,Sheffield Hallam University,524.0,62.0,5.0
+Total,524,2015,Sheffield Hallam University,524.0,62.0,6.0
 Total,521,2015,"St George's, University of London",521.0,64.0,5.0
 Total,520,2015,"Goldsmiths, University of London",520.0,65.0,5.0
 Total,519,2015,University of Roehampton,519.0,66.0,5.0
@@ -2027,7 +2027,7 @@ Teaching quality (%),73.3,2016,University of Edinburgh,73.3,125.0,1.0
 Teaching quality (%),80.6,2016,University of Sheffield,80.6,56.0,6.0
 Teaching quality (%),80.6,2016,University of Aberdeen,80.6,56.0,6.0
 Teaching quality (%),77.9,2016,Newcastle University,77.9,98.0,3.0
-Teaching quality (%),79.4,2016,University of Liverpool,79.4,77.0,4.0
+Teaching quality (%),79.4,2016,University of Liverpool,79.4,77.0,5.0
 Teaching quality (%),74.3,2016,King's College London,74.3,122.0,1.0
 Teaching quality (%),81.2,2016,Swansea University,81.2,45.0,7.0
 Teaching quality (%),76.9,2016,University of Surrey,76.9,109.0,2.0
@@ -2089,7 +2089,7 @@ Teaching quality (%),83.1,2016,Teesside University,83.1,20.0,9.0
 Teaching quality (%),78.8,2016,University of Hertfordshire,78.8,86.0,4.0
 Teaching quality (%),82.2,2016,Solent University,82.2,33.0,8.0
 Teaching quality (%),81.8,2016,Royal Agricultural University,81.8,37.0,8.0
-Teaching quality (%),81.6,2016,University of Derby,81.6,39.0,7.0
+Teaching quality (%),81.6,2016,University of Derby,81.6,39.0,8.0
 Teaching quality (%),80.6,2016,University of Buckingham,80.6,56.0,6.0
 Teaching quality (%),85.1,2016,University of Worcester,85.1,6.0,10.0
 Teaching quality (%),77.3,2016,Bournemouth University,77.3,104.0,2.0
@@ -2113,7 +2113,7 @@ Teaching quality (%),78.5,2016,University of Salford,78.5,91.0,3.0
 Teaching quality (%),80.7,2016,Cardiff Metropolitan University,80.7,53.0,6.0
 Teaching quality (%),81.9,2016,Bucks New University,81.9,36.0,8.0
 Teaching quality (%),82.5,2016,University of South Wales,82.5,26.0,8.0
-Teaching quality (%),82.5,2016,Newman University,82.5,26.0,8.0
+Teaching quality (%),82.5,2016,Newman University,82.5,26.0,9.0
 Teaching quality (%),78.8,2016,University of Northampton,78.8,86.0,4.0
 Teaching quality (%),77.1,2016,Leeds Trinity University,77.1,108.0,2.0
 Teaching quality (%),81.0,2016,Canterbury Christ Church University,81.0,49.0,7.0
@@ -2218,10 +2218,10 @@ Student experience (%),76.5,2016,"Queen Margaret University, Edinburgh",76.5,96.
 Student experience (%),80.4,2016,Robert Gordon University,80.4,27.0,8.0
 Student experience (%),78.4,2016,University of Greenwich,78.4,65.0,5.0
 Student experience (%),79.0,2016,"St Mary's University, Twickenham",79.0,51.0,6.0
-Student experience (%),77.9,2016,London South Bank University,77.9,77.0,4.0
+Student experience (%),77.9,2016,London South Bank University,77.9,77.0,5.0
 Student experience (%),79.5,2016,Teesside University,79.5,40.0,7.0
 Student experience (%),78.3,2016,University of Hertfordshire,78.3,66.0,5.0
-Student experience (%),79.0,2016,Solent University,79.0,51.0,6.0
+Student experience (%),79.0,2016,Solent University,79.0,51.0,7.0
 Student experience (%),82.3,2016,Royal Agricultural University,82.3,12.0,10.0
 Student experience (%),78.6,2016,University of Derby,78.6,61.0,6.0
 Student experience (%),80.5,2016,University of Buckingham,80.5,26.0,9.0
@@ -2252,12 +2252,12 @@ Student experience (%),73.9,2016,University of Northampton,73.9,118.0,1.0
 Student experience (%),74.8,2016,Leeds Trinity University,74.8,113.0,2.0
 Student experience (%),75.7,2016,Canterbury Christ Church University,75.7,105.0,2.0
 Student experience (%),75.1,2016,University of Westminster,75.1,111.0,2.0
-Student experience (%),79.0,2016,Anglia Ruskin University,79.0,51.0,6.0
+Student experience (%),79.0,2016,Anglia Ruskin University,79.0,51.0,7.0
 Student experience (%),73.8,2016,University of Cumbria,73.8,119.0,1.0
-Student experience (%),75.8,2016,University of Brighton,75.8,103.0,2.0
+Student experience (%),75.8,2016,University of Brighton,75.8,103.0,3.0
 Student experience (%),79.3,2016,Leeds Beckett University,79.3,42.0,7.0
 Student experience (%),78.8,2016,University of Wolverhampton,78.8,58.0,6.0
-Student experience (%),82.1,2016,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2016,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2016,London Metropolitan University,75.7,105.0,2.0
 Student experience (%),76.1,2016,University of East London,76.1,100.0,3.0
 Student experience (%),77.4,2016,University of Bedfordshire,77.4,83.0,4.0
@@ -2307,7 +2307,7 @@ Research quality (%),37.2,2016,University of Essex,37.2,25.0,9.0
 Research quality (%),36.5,2016,University of Reading,36.5,29.0,8.0
 Research quality (%),31.8,2016,University of Sussex,31.8,37.0,7.0
 Research quality (%),6.5,2016,Nottingham Trent University,6.5,80.0,4.0
-Research quality (%),31.8,2016,University of Leicester,31.8,37.0,7.0
+Research quality (%),31.8,2016,University of Leicester,31.8,37.0,8.0
 Research quality (%),3.4,2016,University for the Creative Arts,3.4,112.0,2.0
 Research quality (%),2.4,2016,Arts University Bournemouth,2.4,118.0,1.0
 Research quality (%),27.9,2016,SOAS University of London,27.9,46.0,7.0
@@ -2324,7 +2324,7 @@ Research quality (%),35.2,2016,University of Kent,35.2,33.0,8.0
 Research quality (%),4.9,2016,Edge Hill University,4.9,93.0,3.0
 Research quality (%),8.6,2016,University of Portsmouth,8.6,70.0,5.0
 Research quality (%),,2016,Leeds Arts University,,,
-Research quality (%),31.8,2016,Ulster University,31.8,37.0,7.0
+Research quality (%),31.8,2016,Ulster University,31.8,37.0,8.0
 Research quality (%),8.8,2016,University of the West of England,8.8,69.0,5.0
 Research quality (%),9.2,2016,Liverpool Hope University,9.2,62.0,6.0
 Research quality (%),9.4,2016,University of Huddersfield,9.4,61.0,6.0
@@ -2386,10 +2386,10 @@ Research quality (%),3.2,2016,University of Northampton,3.2,113.0,2.0
 Research quality (%),2.0,2016,Leeds Trinity University,2.0,121.0,1.0
 Research quality (%),4.5,2016,Canterbury Christ Church University,4.5,97.0,3.0
 Research quality (%),9.8,2016,University of Westminster,9.8,59.0,6.0
-Research quality (%),5.4,2016,Anglia Ruskin University,5.4,89.0,3.0
+Research quality (%),5.4,2016,Anglia Ruskin University,5.4,89.0,4.0
 Research quality (%),1.2,2016,University of Cumbria,1.2,124.0,1.0
 Research quality (%),7.9,2016,University of Brighton,7.9,73.0,5.0
-Research quality (%),4.1,2016,Leeds Beckett University,4.1,101.0,2.0
+Research quality (%),4.1,2016,Leeds Beckett University,4.1,101.0,3.0
 Research quality (%),5.9,2016,University of Wolverhampton,5.9,82.0,4.0
 Research quality (%),2.9,2016,University of Bolton,2.9,114.0,2.0
 Research quality (%),3.5,2016,London Metropolitan University,3.5,111.0,2.0
@@ -2476,15 +2476,15 @@ Entry standards (Ucas pts),131.0,2016,Falmouth University,131.0,67.0,5.0
 Entry standards (Ucas pts),145.0,2016,"City, University of London",145.0,44.0,7.0
 Entry standards (Ucas pts),111.0,2016,De Montfort University,111.0,122.0,1.0
 Entry standards (Ucas pts),133.0,2016,University of Central Lancashire,133.0,60.0,6.0
-Entry standards (Ucas pts),132.0,2016,Plymouth University,132.0,64.0,5.0
-Entry standards (Ucas pts),126.0,2016,University of Hull,126.0,77.0,4.0
+Entry standards (Ucas pts),132.0,2016,Plymouth University,132.0,64.0,6.0
+Entry standards (Ucas pts),126.0,2016,University of Hull,126.0,77.0,5.0
 Entry standards (Ucas pts),142.0,2016,Liverpool John Moores University,142.0,48.0,7.0
 Entry standards (Ucas pts),137.0,2016,"University of the Arts, London",137.0,52.0,6.0
 Entry standards (Ucas pts),114.0,2016,University of Chester,114.0,112.0,2.0
 Entry standards (Ucas pts),114.0,2016,York St John University,114.0,112.0,2.0
 Entry standards (Ucas pts),151.0,2016,"Queen Margaret University, Edinburgh",151.0,39.0,8.0
 Entry standards (Ucas pts),157.0,2016,Robert Gordon University,157.0,32.0,8.0
-Entry standards (Ucas pts),137.0,2016,University of Greenwich,137.0,52.0,6.0
+Entry standards (Ucas pts),137.0,2016,University of Greenwich,137.0,52.0,7.0
 Entry standards (Ucas pts),119.0,2016,"St Mary's University, Twickenham",119.0,98.0,3.0
 Entry standards (Ucas pts),114.0,2016,London South Bank University,114.0,112.0,2.0
 Entry standards (Ucas pts),120.0,2016,Teesside University,120.0,94.0,3.0
@@ -2505,7 +2505,7 @@ Entry standards (Ucas pts),148.0,2016,Edinburgh Napier University,148.0,40.0,7.0
 Entry standards (Ucas pts),125.0,2016,Plymouth Marjon University,125.0,81.0,4.0
 Entry standards (Ucas pts),109.0,2016,University of Wales Trinity St David,109.0,127.0,1.0
 Entry standards (Ucas pts),112.0,2016,Bishop Grosseteste University,112.0,119.0,1.0
-Entry standards (Ucas pts),132.0,2016,University of Bradford,132.0,64.0,5.0
+Entry standards (Ucas pts),132.0,2016,University of Bradford,132.0,64.0,6.0
 Entry standards (Ucas pts),124.0,2016,Kingston University,124.0,84.0,4.0
 Entry standards (Ucas pts),123.0,2016,Middlesex University,123.0,86.0,4.0
 Entry standards (Ucas pts),139.0,2016,University of the West of Scotland,139.0,51.0,7.0
@@ -2520,8 +2520,8 @@ Entry standards (Ucas pts),105.0,2016,University of Northampton,105.0,129.0,1.0
 Entry standards (Ucas pts),109.0,2016,Leeds Trinity University,109.0,127.0,1.0
 Entry standards (Ucas pts),110.0,2016,Canterbury Christ Church University,110.0,126.0,1.0
 Entry standards (Ucas pts),127.0,2016,University of Westminster,127.0,75.0,5.0
-Entry standards (Ucas pts),113.0,2016,Anglia Ruskin University,113.0,115.0,1.0
-Entry standards (Ucas pts),126.0,2016,University of Cumbria,126.0,77.0,4.0
+Entry standards (Ucas pts),113.0,2016,Anglia Ruskin University,113.0,115.0,2.0
+Entry standards (Ucas pts),126.0,2016,University of Cumbria,126.0,77.0,5.0
 Entry standards (Ucas pts),117.0,2016,University of Brighton,117.0,104.0,2.0
 Entry standards (Ucas pts),112.0,2016,Leeds Beckett University,112.0,119.0,1.0
 Entry standards (Ucas pts),112.0,2016,University of Wolverhampton,112.0,119.0,1.0
@@ -2529,9 +2529,9 @@ Entry standards (Ucas pts),116.0,2016,University of Bolton,116.0,108.0,2.0
 Entry standards (Ucas pts),101.0,2016,London Metropolitan University,101.0,130.0,1.0
 Entry standards (Ucas pts),111.0,2016,University of East London,111.0,122.0,1.0
 Entry standards (Ucas pts),101.0,2016,University of Bedfordshire,101.0,130.0,1.0
-Entry standards (Ucas pts),117.0,2016,University of Suffolk,117.0,104.0,2.0
-Entry standards (Ucas pts),113.0,2016,Wrexham Glyndwr University,113.0,115.0,1.0
-Entry standards (Ucas pts),113.0,2016,Ravensbourne University London,113.0,115.0,1.0
+Entry standards (Ucas pts),117.0,2016,University of Suffolk,117.0,104.0,3.0
+Entry standards (Ucas pts),113.0,2016,Wrexham Glyndwr University,113.0,115.0,2.0
+Entry standards (Ucas pts),113.0,2016,Ravensbourne University London,113.0,115.0,2.0
 Entry standards (Ucas pts),,2016,"Birkbeck, University of London",,,
 Entry standards (Ucas pts),,2016,University of the Highlands and Islands,,,
 Entry standards (Ucas pts),,2016,The Open University,,,
@@ -2584,7 +2584,7 @@ Graduate prospects (%),82.1,2016,Keele University,82.1,27.0,8.0
 Graduate prospects (%),78.7,2016,University of Stirling,78.7,53.0,6.0
 Graduate prospects (%),79.1,2016,Aston University,79.1,52.0,7.0
 Graduate prospects (%),78.7,2016,"Queen Mary, University of London",78.7,53.0,6.0
-Graduate prospects (%),80.9,2016,Coventry University,80.9,39.0,7.0
+Graduate prospects (%),80.9,2016,Coventry University,80.9,39.0,8.0
 Graduate prospects (%),81.4,2016,University of Lincoln,81.4,34.0,8.0
 Graduate prospects (%),74.0,2016,University of West London,74.0,73.0,5.0
 Graduate prospects (%),80.8,2016,Staffordshire University,80.8,41.0,7.0
@@ -2613,7 +2613,7 @@ Graduate prospects (%),76.9,2016,University of Central Lancashire,76.9,62.0,6.0
 Graduate prospects (%),73.6,2016,Plymouth University,73.6,77.0,4.0
 Graduate prospects (%),76.0,2016,University of Hull,76.0,66.0,5.0
 Graduate prospects (%),74.9,2016,Liverpool John Moores University,74.9,71.0,5.0
-Graduate prospects (%),72.2,2016,"University of the Arts, London",72.2,91.0,3.0
+Graduate prospects (%),72.2,2016,"University of the Arts, London",72.2,91.0,4.0
 Graduate prospects (%),70.1,2016,University of Chester,70.1,102.0,3.0
 Graduate prospects (%),73.6,2016,York St John University,73.6,77.0,4.0
 Graduate prospects (%),72.9,2016,"Queen Margaret University, Edinburgh",72.9,85.0,4.0
@@ -2645,7 +2645,7 @@ Graduate prospects (%),73.5,2016,Middlesex University,73.5,81.0,4.0
 Graduate prospects (%),80.7,2016,University of the West of Scotland,80.7,42.0,7.0
 Graduate prospects (%),67.1,2016,University of Sunderland,67.1,112.0,2.0
 Graduate prospects (%),66.9,2016,Bath Spa University,66.9,113.0,2.0
-Graduate prospects (%),73.6,2016,University of Salford,73.6,77.0,4.0
+Graduate prospects (%),73.6,2016,University of Salford,73.6,77.0,5.0
 Graduate prospects (%),65.9,2016,Cardiff Metropolitan University,65.9,115.0,2.0
 Graduate prospects (%),68.8,2016,Bucks New University,68.8,104.0,3.0
 Graduate prospects (%),63.4,2016,University of South Wales,63.4,126.0,1.0
@@ -2655,7 +2655,7 @@ Graduate prospects (%),68.1,2016,Leeds Trinity University,68.1,109.0,2.0
 Graduate prospects (%),64.7,2016,Canterbury Christ Church University,64.7,118.0,1.0
 Graduate prospects (%),70.4,2016,University of Westminster,70.4,99.0,3.0
 Graduate prospects (%),68.3,2016,Anglia Ruskin University,68.3,107.0,2.0
-Graduate prospects (%),73.6,2016,University of Cumbria,73.6,77.0,4.0
+Graduate prospects (%),73.6,2016,University of Cumbria,73.6,77.0,5.0
 Graduate prospects (%),67.2,2016,University of Brighton,67.2,111.0,2.0
 Graduate prospects (%),63.2,2016,Leeds Beckett University,63.2,127.0,1.0
 Graduate prospects (%),68.9,2016,University of Wolverhampton,68.9,103.0,3.0
@@ -2742,7 +2742,7 @@ Firsts/2:1s (%),71.4,2016,Bangor University,71.4,90.0,4.0
 Firsts/2:1s (%),73.1,2016,University of Chichester,73.1,81.0,4.0
 Firsts/2:1s (%),78.0,2016,Falmouth University,78.0,49.0,7.0
 Firsts/2:1s (%),73.1,2016,"City, University of London",73.1,81.0,4.0
-Firsts/2:1s (%),75.1,2016,De Montfort University,75.1,65.0,5.0
+Firsts/2:1s (%),75.1,2016,De Montfort University,75.1,65.0,6.0
 Firsts/2:1s (%),71.8,2016,University of Central Lancashire,71.8,87.0,4.0
 Firsts/2:1s (%),70.9,2016,Plymouth University,70.9,95.0,3.0
 Firsts/2:1s (%),70.4,2016,University of Hull,70.4,97.0,3.0
@@ -2765,18 +2765,18 @@ Firsts/2:1s (%),67.1,2016,University of Worcester,67.1,117.0,2.0
 Firsts/2:1s (%),76.4,2016,Bournemouth University,76.4,54.0,6.0
 Firsts/2:1s (%),71.3,2016,University of Gloucestershire,71.3,91.0,3.0
 Firsts/2:1s (%),71.6,2016,Birmingham City University,71.6,89.0,4.0
-Firsts/2:1s (%),79.9,2016,Glasgow Caledonian University,79.9,39.0,7.0
+Firsts/2:1s (%),79.9,2016,Glasgow Caledonian University,79.9,39.0,8.0
 Firsts/2:1s (%),65.8,2016,Abertay University,65.8,121.0,1.0
 Firsts/2:1s (%),76.4,2016,University of Winchester,76.4,54.0,6.0
 Firsts/2:1s (%),75.7,2016,Brunel University London,75.7,59.0,6.0
 Firsts/2:1s (%),75.7,2016,Edinburgh Napier University,75.7,59.0,6.0
 Firsts/2:1s (%),77.1,2016,Plymouth Marjon University,77.1,52.0,7.0
 Firsts/2:1s (%),72.9,2016,University of Wales Trinity St David,72.9,83.0,4.0
-Firsts/2:1s (%),69.0,2016,Bishop Grosseteste University,69.0,104.0,2.0
+Firsts/2:1s (%),69.0,2016,Bishop Grosseteste University,69.0,104.0,3.0
 Firsts/2:1s (%),80.2,2016,University of Bradford,80.2,38.0,8.0
 Firsts/2:1s (%),72.5,2016,Kingston University,72.5,84.0,4.0
 Firsts/2:1s (%),67.2,2016,Middlesex University,67.2,116.0,2.0
-Firsts/2:1s (%),71.3,2016,University of the West of Scotland,71.3,91.0,3.0
+Firsts/2:1s (%),71.3,2016,University of the West of Scotland,71.3,91.0,4.0
 Firsts/2:1s (%),64.7,2016,University of Sunderland,64.7,124.0,1.0
 Firsts/2:1s (%),78.8,2016,Bath Spa University,78.8,46.0,7.0
 Firsts/2:1s (%),73.7,2016,University of Salford,73.7,79.0,4.0
@@ -2821,13 +2821,13 @@ Completion rate (%),95.8,2016,University of Bristol,95.8,7.0,10.0
 Completion rate (%),89.9,2016,University of Glasgow,89.9,40.0,7.0
 Completion rate (%),91.3,2016,Harper Adams University,91.3,32.0,8.0
 Completion rate (%),92.9,2016,University of Manchester,92.9,18.0,9.0
-Completion rate (%),92.1,2016,"Royal Holloway, University of London",92.1,25.0,8.0
+Completion rate (%),92.1,2016,"Royal Holloway, University of London",92.1,25.0,9.0
 Completion rate (%),89.3,2016,University of Southampton,89.3,44.0,7.0
 Completion rate (%),93.8,2016,University of Nottingham,93.8,14.0,9.0
 Completion rate (%),92.8,2016,University of York,92.8,20.0,9.0
 Completion rate (%),90.7,2016,University of East Anglia,90.7,35.0,8.0
 Completion rate (%),88.5,2016,University of Dundee,88.5,49.0,7.0
-Completion rate (%),92.1,2016,University of Edinburgh,92.1,25.0,8.0
+Completion rate (%),92.1,2016,University of Edinburgh,92.1,25.0,9.0
 Completion rate (%),92.8,2016,University of Sheffield,92.8,20.0,9.0
 Completion rate (%),90.2,2016,University of Aberdeen,90.2,37.0,8.0
 Completion rate (%),95.1,2016,Newcastle University,95.1,10.0,10.0
@@ -2858,7 +2858,7 @@ Completion rate (%),78.1,2016,University of West London,78.1,117.0,2.0
 Completion rate (%),78.4,2016,Staffordshire University,78.4,113.0,2.0
 Completion rate (%),89.0,2016,University of Kent,89.0,45.0,7.0
 Completion rate (%),85.1,2016,Edge Hill University,85.1,68.0,5.0
-Completion rate (%),85.4,2016,University of Portsmouth,85.4,65.0,5.0
+Completion rate (%),85.4,2016,University of Portsmouth,85.4,65.0,6.0
 Completion rate (%),88.8,2016,Leeds Arts University,88.8,46.0,7.0
 Completion rate (%),83.3,2016,Ulster University,83.3,82.0,4.0
 Completion rate (%),84.3,2016,University of the West of England,84.3,71.0,5.0
@@ -2899,7 +2899,7 @@ Completion rate (%),81.8,2016,University of Worcester,81.8,91.0,4.0
 Completion rate (%),85.3,2016,Bournemouth University,85.3,67.0,5.0
 Completion rate (%),80.9,2016,University of Gloucestershire,80.9,97.0,3.0
 Completion rate (%),82.6,2016,Birmingham City University,82.6,86.0,4.0
-Completion rate (%),83.7,2016,Glasgow Caledonian University,83.7,78.0,4.0
+Completion rate (%),83.7,2016,Glasgow Caledonian University,83.7,78.0,5.0
 Completion rate (%),77.4,2016,Abertay University,77.4,120.0,1.0
 Completion rate (%),86.3,2016,University of Winchester,86.3,61.0,6.0
 Completion rate (%),86.5,2016,Brunel University London,86.5,60.0,6.0
@@ -3136,7 +3136,7 @@ Total,535.0,2016,Manchester Metropolitan University,535.0,62.0,6.0
 Total,535.0,2016,Norwich University of the Arts,535.0,62.0,6.0
 Total,531.0,2016,Oxford Brookes University,531.0,64.0,6.0
 Total,524.0,2016,Northumbria University,524.0,65.0,5.0
-Total,524.0,2016,Sheffield Hallam University,524.0,65.0,5.0
+Total,524.0,2016,Sheffield Hallam University,524.0,65.0,6.0
 Total,521.0,2016,"St George's, University of London",521.0,67.0,5.0
 Total,520.0,2016,"Goldsmiths, University of London",520.0,68.0,5.0
 Total,519.0,2016,University of Roehampton,519.0,69.0,5.0
@@ -3233,7 +3233,7 @@ Teaching quality (%),73.3,2017,University of Edinburgh,73.3,125.0,1.0
 Teaching quality (%),80.6,2017,University of Sheffield,80.6,56.0,6.0
 Teaching quality (%),80.6,2017,University of Aberdeen,80.6,56.0,6.0
 Teaching quality (%),77.9,2017,Newcastle University,77.9,98.0,3.0
-Teaching quality (%),79.4,2017,University of Liverpool,79.4,77.0,4.0
+Teaching quality (%),79.4,2017,University of Liverpool,79.4,77.0,5.0
 Teaching quality (%),74.3,2017,King's College London,74.3,122.0,1.0
 Teaching quality (%),81.2,2017,Swansea University,81.2,45.0,7.0
 Teaching quality (%),76.9,2017,University of Surrey,76.9,109.0,2.0
@@ -3295,7 +3295,7 @@ Teaching quality (%),83.1,2017,Teesside University,83.1,20.0,9.0
 Teaching quality (%),78.8,2017,University of Hertfordshire,78.8,86.0,4.0
 Teaching quality (%),82.2,2017,Solent University,82.2,33.0,8.0
 Teaching quality (%),81.8,2017,Royal Agricultural University,81.8,37.0,8.0
-Teaching quality (%),81.6,2017,University of Derby,81.6,39.0,7.0
+Teaching quality (%),81.6,2017,University of Derby,81.6,39.0,8.0
 Teaching quality (%),80.6,2017,University of Buckingham,80.6,56.0,6.0
 Teaching quality (%),85.1,2017,University of Worcester,85.1,6.0,10.0
 Teaching quality (%),77.3,2017,Bournemouth University,77.3,104.0,2.0
@@ -3319,7 +3319,7 @@ Teaching quality (%),78.5,2017,University of Salford,78.5,91.0,3.0
 Teaching quality (%),80.7,2017,Cardiff Metropolitan University,80.7,53.0,6.0
 Teaching quality (%),81.9,2017,Bucks New University,81.9,36.0,8.0
 Teaching quality (%),82.5,2017,University of South Wales,82.5,26.0,8.0
-Teaching quality (%),82.5,2017,Newman University,82.5,26.0,8.0
+Teaching quality (%),82.5,2017,Newman University,82.5,26.0,9.0
 Teaching quality (%),78.8,2017,University of Northampton,78.8,86.0,4.0
 Teaching quality (%),77.1,2017,Leeds Trinity University,77.1,108.0,2.0
 Teaching quality (%),81.0,2017,Canterbury Christ Church University,81.0,49.0,7.0
@@ -3424,10 +3424,10 @@ Student experience (%),76.5,2017,"Queen Margaret University, Edinburgh",76.5,96.
 Student experience (%),80.4,2017,Robert Gordon University,80.4,27.0,8.0
 Student experience (%),78.4,2017,University of Greenwich,78.4,65.0,5.0
 Student experience (%),79.0,2017,"St Mary's University, Twickenham",79.0,51.0,6.0
-Student experience (%),77.9,2017,London South Bank University,77.9,77.0,4.0
+Student experience (%),77.9,2017,London South Bank University,77.9,77.0,5.0
 Student experience (%),79.5,2017,Teesside University,79.5,40.0,7.0
 Student experience (%),78.3,2017,University of Hertfordshire,78.3,66.0,5.0
-Student experience (%),79.0,2017,Solent University,79.0,51.0,6.0
+Student experience (%),79.0,2017,Solent University,79.0,51.0,7.0
 Student experience (%),82.3,2017,Royal Agricultural University,82.3,12.0,10.0
 Student experience (%),78.6,2017,University of Derby,78.6,61.0,6.0
 Student experience (%),80.5,2017,University of Buckingham,80.5,26.0,9.0
@@ -3458,12 +3458,12 @@ Student experience (%),73.9,2017,University of Northampton,73.9,118.0,1.0
 Student experience (%),74.8,2017,Leeds Trinity University,74.8,113.0,2.0
 Student experience (%),75.7,2017,Canterbury Christ Church University,75.7,105.0,2.0
 Student experience (%),75.1,2017,University of Westminster,75.1,111.0,2.0
-Student experience (%),79.0,2017,Anglia Ruskin University,79.0,51.0,6.0
+Student experience (%),79.0,2017,Anglia Ruskin University,79.0,51.0,7.0
 Student experience (%),73.8,2017,University of Cumbria,73.8,119.0,1.0
-Student experience (%),75.8,2017,University of Brighton,75.8,103.0,2.0
+Student experience (%),75.8,2017,University of Brighton,75.8,103.0,3.0
 Student experience (%),79.3,2017,Leeds Beckett University,79.3,42.0,7.0
 Student experience (%),78.8,2017,University of Wolverhampton,78.8,58.0,6.0
-Student experience (%),82.1,2017,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2017,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2017,London Metropolitan University,75.7,105.0,2.0
 Student experience (%),76.1,2017,University of East London,76.1,100.0,3.0
 Student experience (%),77.4,2017,University of Bedfordshire,77.4,83.0,4.0
@@ -3513,7 +3513,7 @@ Research quality (%),37.2,2017,University of Essex,37.2,25.0,9.0
 Research quality (%),36.5,2017,University of Reading,36.5,29.0,8.0
 Research quality (%),31.8,2017,University of Sussex,31.8,37.0,7.0
 Research quality (%),6.5,2017,Nottingham Trent University,6.5,80.0,4.0
-Research quality (%),31.8,2017,University of Leicester,31.8,37.0,7.0
+Research quality (%),31.8,2017,University of Leicester,31.8,37.0,8.0
 Research quality (%),3.4,2017,University for the Creative Arts,3.4,112.0,2.0
 Research quality (%),2.4,2017,Arts University Bournemouth,2.4,118.0,1.0
 Research quality (%),27.9,2017,SOAS University of London,27.9,46.0,7.0
@@ -3530,7 +3530,7 @@ Research quality (%),35.2,2017,University of Kent,35.2,33.0,8.0
 Research quality (%),4.9,2017,Edge Hill University,4.9,93.0,3.0
 Research quality (%),8.6,2017,University of Portsmouth,8.6,70.0,5.0
 Research quality (%),,2017,Leeds Arts University,,,
-Research quality (%),31.8,2017,Ulster University,31.8,37.0,7.0
+Research quality (%),31.8,2017,Ulster University,31.8,37.0,8.0
 Research quality (%),8.8,2017,University of the West of England,8.8,69.0,5.0
 Research quality (%),9.2,2017,Liverpool Hope University,9.2,62.0,6.0
 Research quality (%),9.4,2017,University of Huddersfield,9.4,61.0,6.0
@@ -3592,10 +3592,10 @@ Research quality (%),3.2,2017,University of Northampton,3.2,113.0,2.0
 Research quality (%),2.0,2017,Leeds Trinity University,2.0,121.0,1.0
 Research quality (%),4.5,2017,Canterbury Christ Church University,4.5,97.0,3.0
 Research quality (%),9.8,2017,University of Westminster,9.8,59.0,6.0
-Research quality (%),5.4,2017,Anglia Ruskin University,5.4,89.0,3.0
+Research quality (%),5.4,2017,Anglia Ruskin University,5.4,89.0,4.0
 Research quality (%),1.2,2017,University of Cumbria,1.2,124.0,1.0
 Research quality (%),7.9,2017,University of Brighton,7.9,73.0,5.0
-Research quality (%),4.1,2017,Leeds Beckett University,4.1,101.0,2.0
+Research quality (%),4.1,2017,Leeds Beckett University,4.1,101.0,3.0
 Research quality (%),5.9,2017,University of Wolverhampton,5.9,82.0,4.0
 Research quality (%),2.9,2017,University of Bolton,2.9,114.0,2.0
 Research quality (%),3.5,2017,London Metropolitan University,3.5,111.0,2.0
@@ -3682,15 +3682,15 @@ Entry standards (Ucas pts),131.0,2017,Falmouth University,131.0,67.0,5.0
 Entry standards (Ucas pts),145.0,2017,"City, University of London",145.0,44.0,7.0
 Entry standards (Ucas pts),111.0,2017,De Montfort University,111.0,122.0,1.0
 Entry standards (Ucas pts),133.0,2017,University of Central Lancashire,133.0,60.0,6.0
-Entry standards (Ucas pts),132.0,2017,Plymouth University,132.0,64.0,5.0
-Entry standards (Ucas pts),126.0,2017,University of Hull,126.0,77.0,4.0
+Entry standards (Ucas pts),132.0,2017,Plymouth University,132.0,64.0,6.0
+Entry standards (Ucas pts),126.0,2017,University of Hull,126.0,77.0,5.0
 Entry standards (Ucas pts),142.0,2017,Liverpool John Moores University,142.0,48.0,7.0
 Entry standards (Ucas pts),137.0,2017,"University of the Arts, London",137.0,52.0,6.0
 Entry standards (Ucas pts),114.0,2017,University of Chester,114.0,112.0,2.0
 Entry standards (Ucas pts),114.0,2017,York St John University,114.0,112.0,2.0
 Entry standards (Ucas pts),151.0,2017,"Queen Margaret University, Edinburgh",151.0,39.0,8.0
 Entry standards (Ucas pts),157.0,2017,Robert Gordon University,157.0,32.0,8.0
-Entry standards (Ucas pts),137.0,2017,University of Greenwich,137.0,52.0,6.0
+Entry standards (Ucas pts),137.0,2017,University of Greenwich,137.0,52.0,7.0
 Entry standards (Ucas pts),119.0,2017,"St Mary's University, Twickenham",119.0,98.0,3.0
 Entry standards (Ucas pts),114.0,2017,London South Bank University,114.0,112.0,2.0
 Entry standards (Ucas pts),120.0,2017,Teesside University,120.0,94.0,3.0
@@ -3711,7 +3711,7 @@ Entry standards (Ucas pts),148.0,2017,Edinburgh Napier University,148.0,40.0,7.0
 Entry standards (Ucas pts),125.0,2017,Plymouth Marjon University,125.0,81.0,4.0
 Entry standards (Ucas pts),109.0,2017,University of Wales Trinity St David,109.0,127.0,1.0
 Entry standards (Ucas pts),112.0,2017,Bishop Grosseteste University,112.0,119.0,1.0
-Entry standards (Ucas pts),132.0,2017,University of Bradford,132.0,64.0,5.0
+Entry standards (Ucas pts),132.0,2017,University of Bradford,132.0,64.0,6.0
 Entry standards (Ucas pts),124.0,2017,Kingston University,124.0,84.0,4.0
 Entry standards (Ucas pts),123.0,2017,Middlesex University,123.0,86.0,4.0
 Entry standards (Ucas pts),139.0,2017,University of the West of Scotland,139.0,51.0,7.0
@@ -3726,8 +3726,8 @@ Entry standards (Ucas pts),105.0,2017,University of Northampton,105.0,129.0,1.0
 Entry standards (Ucas pts),109.0,2017,Leeds Trinity University,109.0,127.0,1.0
 Entry standards (Ucas pts),110.0,2017,Canterbury Christ Church University,110.0,126.0,1.0
 Entry standards (Ucas pts),127.0,2017,University of Westminster,127.0,75.0,5.0
-Entry standards (Ucas pts),113.0,2017,Anglia Ruskin University,113.0,115.0,1.0
-Entry standards (Ucas pts),126.0,2017,University of Cumbria,126.0,77.0,4.0
+Entry standards (Ucas pts),113.0,2017,Anglia Ruskin University,113.0,115.0,2.0
+Entry standards (Ucas pts),126.0,2017,University of Cumbria,126.0,77.0,5.0
 Entry standards (Ucas pts),117.0,2017,University of Brighton,117.0,104.0,2.0
 Entry standards (Ucas pts),112.0,2017,Leeds Beckett University,112.0,119.0,1.0
 Entry standards (Ucas pts),112.0,2017,University of Wolverhampton,112.0,119.0,1.0
@@ -3735,9 +3735,9 @@ Entry standards (Ucas pts),116.0,2017,University of Bolton,116.0,108.0,2.0
 Entry standards (Ucas pts),101.0,2017,London Metropolitan University,101.0,130.0,1.0
 Entry standards (Ucas pts),111.0,2017,University of East London,111.0,122.0,1.0
 Entry standards (Ucas pts),101.0,2017,University of Bedfordshire,101.0,130.0,1.0
-Entry standards (Ucas pts),117.0,2017,University of Suffolk,117.0,104.0,2.0
-Entry standards (Ucas pts),113.0,2017,Wrexham Glyndwr University,113.0,115.0,1.0
-Entry standards (Ucas pts),113.0,2017,Ravensbourne University London,113.0,115.0,1.0
+Entry standards (Ucas pts),117.0,2017,University of Suffolk,117.0,104.0,3.0
+Entry standards (Ucas pts),113.0,2017,Wrexham Glyndwr University,113.0,115.0,2.0
+Entry standards (Ucas pts),113.0,2017,Ravensbourne University London,113.0,115.0,2.0
 Entry standards (Ucas pts),,2017,"Birkbeck, University of London",,,
 Entry standards (Ucas pts),,2017,University of the Highlands and Islands,,,
 Entry standards (Ucas pts),,2017,The Open University,,,
@@ -3790,7 +3790,7 @@ Graduate prospects (%),82.1,2017,Keele University,82.1,27.0,8.0
 Graduate prospects (%),78.7,2017,University of Stirling,78.7,53.0,6.0
 Graduate prospects (%),79.1,2017,Aston University,79.1,52.0,7.0
 Graduate prospects (%),78.7,2017,"Queen Mary, University of London",78.7,53.0,6.0
-Graduate prospects (%),80.9,2017,Coventry University,80.9,39.0,7.0
+Graduate prospects (%),80.9,2017,Coventry University,80.9,39.0,8.0
 Graduate prospects (%),81.4,2017,University of Lincoln,81.4,34.0,8.0
 Graduate prospects (%),74.0,2017,University of West London,74.0,73.0,5.0
 Graduate prospects (%),80.8,2017,Staffordshire University,80.8,41.0,7.0
@@ -3819,7 +3819,7 @@ Graduate prospects (%),76.9,2017,University of Central Lancashire,76.9,62.0,6.0
 Graduate prospects (%),73.6,2017,Plymouth University,73.6,77.0,4.0
 Graduate prospects (%),76.0,2017,University of Hull,76.0,66.0,5.0
 Graduate prospects (%),74.9,2017,Liverpool John Moores University,74.9,71.0,5.0
-Graduate prospects (%),72.2,2017,"University of the Arts, London",72.2,91.0,3.0
+Graduate prospects (%),72.2,2017,"University of the Arts, London",72.2,91.0,4.0
 Graduate prospects (%),70.1,2017,University of Chester,70.1,102.0,3.0
 Graduate prospects (%),73.6,2017,York St John University,73.6,77.0,4.0
 Graduate prospects (%),72.9,2017,"Queen Margaret University, Edinburgh",72.9,85.0,4.0
@@ -3851,7 +3851,7 @@ Graduate prospects (%),73.5,2017,Middlesex University,73.5,81.0,4.0
 Graduate prospects (%),80.7,2017,University of the West of Scotland,80.7,42.0,7.0
 Graduate prospects (%),67.1,2017,University of Sunderland,67.1,112.0,2.0
 Graduate prospects (%),66.9,2017,Bath Spa University,66.9,113.0,2.0
-Graduate prospects (%),73.6,2017,University of Salford,73.6,77.0,4.0
+Graduate prospects (%),73.6,2017,University of Salford,73.6,77.0,5.0
 Graduate prospects (%),65.9,2017,Cardiff Metropolitan University,65.9,115.0,2.0
 Graduate prospects (%),68.8,2017,Bucks New University,68.8,104.0,3.0
 Graduate prospects (%),63.4,2017,University of South Wales,63.4,126.0,1.0
@@ -3861,7 +3861,7 @@ Graduate prospects (%),68.1,2017,Leeds Trinity University,68.1,109.0,2.0
 Graduate prospects (%),64.7,2017,Canterbury Christ Church University,64.7,118.0,1.0
 Graduate prospects (%),70.4,2017,University of Westminster,70.4,99.0,3.0
 Graduate prospects (%),68.3,2017,Anglia Ruskin University,68.3,107.0,2.0
-Graduate prospects (%),73.6,2017,University of Cumbria,73.6,77.0,4.0
+Graduate prospects (%),73.6,2017,University of Cumbria,73.6,77.0,5.0
 Graduate prospects (%),67.2,2017,University of Brighton,67.2,111.0,2.0
 Graduate prospects (%),63.2,2017,Leeds Beckett University,63.2,127.0,1.0
 Graduate prospects (%),68.9,2017,University of Wolverhampton,68.9,103.0,3.0
@@ -3948,7 +3948,7 @@ Firsts/2:1s (%),71.4,2017,Bangor University,71.4,90.0,4.0
 Firsts/2:1s (%),73.1,2017,University of Chichester,73.1,81.0,4.0
 Firsts/2:1s (%),78.0,2017,Falmouth University,78.0,49.0,7.0
 Firsts/2:1s (%),73.1,2017,"City, University of London",73.1,81.0,4.0
-Firsts/2:1s (%),75.1,2017,De Montfort University,75.1,65.0,5.0
+Firsts/2:1s (%),75.1,2017,De Montfort University,75.1,65.0,6.0
 Firsts/2:1s (%),71.8,2017,University of Central Lancashire,71.8,87.0,4.0
 Firsts/2:1s (%),70.9,2017,Plymouth University,70.9,95.0,3.0
 Firsts/2:1s (%),70.4,2017,University of Hull,70.4,97.0,3.0
@@ -3971,18 +3971,18 @@ Firsts/2:1s (%),67.1,2017,University of Worcester,67.1,117.0,2.0
 Firsts/2:1s (%),76.4,2017,Bournemouth University,76.4,54.0,6.0
 Firsts/2:1s (%),71.3,2017,University of Gloucestershire,71.3,91.0,3.0
 Firsts/2:1s (%),71.6,2017,Birmingham City University,71.6,89.0,4.0
-Firsts/2:1s (%),79.9,2017,Glasgow Caledonian University,79.9,39.0,7.0
+Firsts/2:1s (%),79.9,2017,Glasgow Caledonian University,79.9,39.0,8.0
 Firsts/2:1s (%),65.8,2017,Abertay University,65.8,121.0,1.0
 Firsts/2:1s (%),76.4,2017,University of Winchester,76.4,54.0,6.0
 Firsts/2:1s (%),75.7,2017,Brunel University London,75.7,59.0,6.0
 Firsts/2:1s (%),75.7,2017,Edinburgh Napier University,75.7,59.0,6.0
 Firsts/2:1s (%),77.1,2017,Plymouth Marjon University,77.1,52.0,7.0
 Firsts/2:1s (%),72.9,2017,University of Wales Trinity St David,72.9,83.0,4.0
-Firsts/2:1s (%),69.0,2017,Bishop Grosseteste University,69.0,104.0,2.0
+Firsts/2:1s (%),69.0,2017,Bishop Grosseteste University,69.0,104.0,3.0
 Firsts/2:1s (%),80.2,2017,University of Bradford,80.2,38.0,8.0
 Firsts/2:1s (%),72.5,2017,Kingston University,72.5,84.0,4.0
 Firsts/2:1s (%),67.2,2017,Middlesex University,67.2,116.0,2.0
-Firsts/2:1s (%),71.3,2017,University of the West of Scotland,71.3,91.0,3.0
+Firsts/2:1s (%),71.3,2017,University of the West of Scotland,71.3,91.0,4.0
 Firsts/2:1s (%),64.7,2017,University of Sunderland,64.7,124.0,1.0
 Firsts/2:1s (%),78.8,2017,Bath Spa University,78.8,46.0,7.0
 Firsts/2:1s (%),73.7,2017,University of Salford,73.7,79.0,4.0
@@ -4027,13 +4027,13 @@ Completion rate (%),95.8,2017,University of Bristol,95.8,7.0,10.0
 Completion rate (%),89.9,2017,University of Glasgow,89.9,40.0,7.0
 Completion rate (%),91.3,2017,Harper Adams University,91.3,32.0,8.0
 Completion rate (%),92.9,2017,University of Manchester,92.9,18.0,9.0
-Completion rate (%),92.1,2017,"Royal Holloway, University of London",92.1,25.0,8.0
+Completion rate (%),92.1,2017,"Royal Holloway, University of London",92.1,25.0,9.0
 Completion rate (%),89.3,2017,University of Southampton,89.3,44.0,7.0
 Completion rate (%),93.8,2017,University of Nottingham,93.8,14.0,9.0
 Completion rate (%),92.8,2017,University of York,92.8,20.0,9.0
 Completion rate (%),90.7,2017,University of East Anglia,90.7,35.0,8.0
 Completion rate (%),88.5,2017,University of Dundee,88.5,49.0,7.0
-Completion rate (%),92.1,2017,University of Edinburgh,92.1,25.0,8.0
+Completion rate (%),92.1,2017,University of Edinburgh,92.1,25.0,9.0
 Completion rate (%),92.8,2017,University of Sheffield,92.8,20.0,9.0
 Completion rate (%),90.2,2017,University of Aberdeen,90.2,37.0,8.0
 Completion rate (%),95.1,2017,Newcastle University,95.1,10.0,10.0
@@ -4064,7 +4064,7 @@ Completion rate (%),78.1,2017,University of West London,78.1,117.0,2.0
 Completion rate (%),78.4,2017,Staffordshire University,78.4,113.0,2.0
 Completion rate (%),89.0,2017,University of Kent,89.0,45.0,7.0
 Completion rate (%),85.1,2017,Edge Hill University,85.1,68.0,5.0
-Completion rate (%),85.4,2017,University of Portsmouth,85.4,65.0,5.0
+Completion rate (%),85.4,2017,University of Portsmouth,85.4,65.0,6.0
 Completion rate (%),88.8,2017,Leeds Arts University,88.8,46.0,7.0
 Completion rate (%),83.3,2017,Ulster University,83.3,82.0,4.0
 Completion rate (%),84.3,2017,University of the West of England,84.3,71.0,5.0
@@ -4105,7 +4105,7 @@ Completion rate (%),81.8,2017,University of Worcester,81.8,91.0,4.0
 Completion rate (%),85.3,2017,Bournemouth University,85.3,67.0,5.0
 Completion rate (%),80.9,2017,University of Gloucestershire,80.9,97.0,3.0
 Completion rate (%),82.6,2017,Birmingham City University,82.6,86.0,4.0
-Completion rate (%),83.7,2017,Glasgow Caledonian University,83.7,78.0,4.0
+Completion rate (%),83.7,2017,Glasgow Caledonian University,83.7,78.0,5.0
 Completion rate (%),77.4,2017,Abertay University,77.4,120.0,1.0
 Completion rate (%),86.3,2017,University of Winchester,86.3,61.0,6.0
 Completion rate (%),86.5,2017,Brunel University London,86.5,60.0,6.0
@@ -4342,7 +4342,7 @@ Total,535.0,2017,Manchester Metropolitan University,535.0,62.0,6.0
 Total,535.0,2017,Norwich University of the Arts,535.0,62.0,6.0
 Total,531.0,2017,Oxford Brookes University,531.0,64.0,6.0
 Total,524.0,2017,Northumbria University,524.0,65.0,5.0
-Total,524.0,2017,Sheffield Hallam University,524.0,65.0,5.0
+Total,524.0,2017,Sheffield Hallam University,524.0,65.0,6.0
 Total,521.0,2017,"St George's, University of London",521.0,67.0,5.0
 Total,520.0,2017,"Goldsmiths, University of London",520.0,68.0,5.0
 Total,519.0,2017,University of Roehampton,519.0,69.0,5.0
@@ -4439,7 +4439,7 @@ Teaching quality (%),73.3,2018,University of Edinburgh,73.3,125.0,1.0
 Teaching quality (%),80.6,2018,University of Sheffield,80.6,56.0,6.0
 Teaching quality (%),80.6,2018,University of Aberdeen,80.6,56.0,6.0
 Teaching quality (%),77.9,2018,Newcastle University,77.9,98.0,3.0
-Teaching quality (%),79.4,2018,University of Liverpool,79.4,77.0,4.0
+Teaching quality (%),79.4,2018,University of Liverpool,79.4,77.0,5.0
 Teaching quality (%),74.3,2018,King's College London,74.3,122.0,1.0
 Teaching quality (%),81.2,2018,Swansea University,81.2,45.0,7.0
 Teaching quality (%),76.9,2018,University of Surrey,76.9,109.0,2.0
@@ -4501,7 +4501,7 @@ Teaching quality (%),83.1,2018,Teesside University,83.1,20.0,9.0
 Teaching quality (%),78.8,2018,University of Hertfordshire,78.8,86.0,4.0
 Teaching quality (%),82.2,2018,Solent University,82.2,33.0,8.0
 Teaching quality (%),81.8,2018,Royal Agricultural University,81.8,37.0,8.0
-Teaching quality (%),81.6,2018,University of Derby,81.6,39.0,7.0
+Teaching quality (%),81.6,2018,University of Derby,81.6,39.0,8.0
 Teaching quality (%),80.6,2018,University of Buckingham,80.6,56.0,6.0
 Teaching quality (%),85.1,2018,University of Worcester,85.1,6.0,10.0
 Teaching quality (%),77.3,2018,Bournemouth University,77.3,104.0,2.0
@@ -4525,7 +4525,7 @@ Teaching quality (%),78.5,2018,University of Salford,78.5,91.0,3.0
 Teaching quality (%),80.7,2018,Cardiff Metropolitan University,80.7,53.0,6.0
 Teaching quality (%),81.9,2018,Bucks New University,81.9,36.0,8.0
 Teaching quality (%),82.5,2018,University of South Wales,82.5,26.0,8.0
-Teaching quality (%),82.5,2018,Newman University,82.5,26.0,8.0
+Teaching quality (%),82.5,2018,Newman University,82.5,26.0,9.0
 Teaching quality (%),78.8,2018,University of Northampton,78.8,86.0,4.0
 Teaching quality (%),77.1,2018,Leeds Trinity University,77.1,108.0,2.0
 Teaching quality (%),81.0,2018,Canterbury Christ Church University,81.0,49.0,7.0
@@ -4627,10 +4627,10 @@ Student experience (%),76.5,2018,"Queen Margaret University, Edinburgh",76.5,96.
 Student experience (%),80.4,2018,Robert Gordon University,80.4,27.0,8.0
 Student experience (%),78.4,2018,University of Greenwich,78.4,65.0,5.0
 Student experience (%),79.0,2018,"St Mary's University, Twickenham",79.0,51.0,6.0
-Student experience (%),77.9,2018,London South Bank University,77.9,77.0,4.0
+Student experience (%),77.9,2018,London South Bank University,77.9,77.0,5.0
 Student experience (%),79.5,2018,Teesside University,79.5,40.0,7.0
 Student experience (%),78.3,2018,University of Hertfordshire,78.3,66.0,5.0
-Student experience (%),79.0,2018,Solent University,79.0,51.0,6.0
+Student experience (%),79.0,2018,Solent University,79.0,51.0,7.0
 Student experience (%),82.3,2018,Royal Agricultural University,82.3,12.0,10.0
 Student experience (%),78.6,2018,University of Derby,78.6,61.0,6.0
 Student experience (%),80.5,2018,University of Buckingham,80.5,26.0,9.0
@@ -4661,12 +4661,12 @@ Student experience (%),73.9,2018,University of Northampton,73.9,118.0,1.0
 Student experience (%),74.8,2018,Leeds Trinity University,74.8,113.0,2.0
 Student experience (%),75.7,2018,Canterbury Christ Church University,75.7,105.0,2.0
 Student experience (%),75.1,2018,University of Westminster,75.1,111.0,2.0
-Student experience (%),79.0,2018,Anglia Ruskin University,79.0,51.0,6.0
+Student experience (%),79.0,2018,Anglia Ruskin University,79.0,51.0,7.0
 Student experience (%),73.8,2018,University of Cumbria,73.8,119.0,1.0
-Student experience (%),75.8,2018,University of Brighton,75.8,103.0,2.0
+Student experience (%),75.8,2018,University of Brighton,75.8,103.0,3.0
 Student experience (%),79.3,2018,Leeds Beckett University,79.3,42.0,7.0
 Student experience (%),78.8,2018,University of Wolverhampton,78.8,58.0,6.0
-Student experience (%),82.1,2018,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2018,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2018,London Metropolitan University,75.7,105.0,2.0
 Student experience (%),76.1,2018,University of East London,76.1,100.0,3.0
 Student experience (%),77.4,2018,University of Bedfordshire,77.4,83.0,4.0
@@ -4713,7 +4713,7 @@ Research quality (%),37.2,2018,University of Essex,37.2,25.0,9.0
 Research quality (%),36.5,2018,University of Reading,36.5,29.0,8.0
 Research quality (%),31.8,2018,University of Sussex,31.8,37.0,7.0
 Research quality (%),6.5,2018,Nottingham Trent University,6.5,80.0,4.0
-Research quality (%),31.8,2018,University of Leicester,31.8,37.0,7.0
+Research quality (%),31.8,2018,University of Leicester,31.8,37.0,8.0
 Research quality (%),3.4,2018,University for the Creative Arts,3.4,112.0,2.0
 Research quality (%),2.4,2018,Arts University Bournemouth,2.4,118.0,1.0
 Research quality (%),27.9,2018,SOAS University of London,27.9,46.0,7.0
@@ -4730,7 +4730,7 @@ Research quality (%),35.2,2018,University of Kent,35.2,33.0,8.0
 Research quality (%),4.9,2018,Edge Hill University,4.9,93.0,3.0
 Research quality (%),8.6,2018,University of Portsmouth,8.6,70.0,5.0
 Research quality (%),,2018,Leeds Arts University,,,
-Research quality (%),31.8,2018,Ulster University,31.8,37.0,7.0
+Research quality (%),31.8,2018,Ulster University,31.8,37.0,8.0
 Research quality (%),8.8,2018,University of the West of England,8.8,69.0,5.0
 Research quality (%),9.2,2018,Liverpool Hope University,9.2,62.0,6.0
 Research quality (%),9.4,2018,University of Huddersfield,9.4,61.0,6.0
@@ -4792,10 +4792,10 @@ Research quality (%),3.2,2018,University of Northampton,3.2,113.0,2.0
 Research quality (%),2.0,2018,Leeds Trinity University,2.0,121.0,1.0
 Research quality (%),4.5,2018,Canterbury Christ Church University,4.5,97.0,3.0
 Research quality (%),9.8,2018,University of Westminster,9.8,59.0,6.0
-Research quality (%),5.4,2018,Anglia Ruskin University,5.4,89.0,3.0
+Research quality (%),5.4,2018,Anglia Ruskin University,5.4,89.0,4.0
 Research quality (%),1.2,2018,University of Cumbria,1.2,124.0,1.0
 Research quality (%),7.9,2018,University of Brighton,7.9,73.0,5.0
-Research quality (%),4.1,2018,Leeds Beckett University,4.1,101.0,2.0
+Research quality (%),4.1,2018,Leeds Beckett University,4.1,101.0,3.0
 Research quality (%),5.9,2018,University of Wolverhampton,5.9,82.0,4.0
 Research quality (%),2.9,2018,University of Bolton,2.9,114.0,2.0
 Research quality (%),3.5,2018,London Metropolitan University,3.5,111.0,2.0
@@ -4879,15 +4879,15 @@ Entry standards (Ucas pts),131,2018,Falmouth University,131.0,67.0,5.0
 Entry standards (Ucas pts),145,2018,"City, University of London",145.0,44.0,7.0
 Entry standards (Ucas pts),111,2018,De Montfort University,111.0,122.0,1.0
 Entry standards (Ucas pts),133,2018,University of Central Lancashire,133.0,60.0,6.0
-Entry standards (Ucas pts),132,2018,Plymouth University,132.0,64.0,5.0
-Entry standards (Ucas pts),126,2018,University of Hull,126.0,77.0,4.0
+Entry standards (Ucas pts),132,2018,Plymouth University,132.0,64.0,6.0
+Entry standards (Ucas pts),126,2018,University of Hull,126.0,77.0,5.0
 Entry standards (Ucas pts),142,2018,Liverpool John Moores University,142.0,48.0,7.0
 Entry standards (Ucas pts),137,2018,"University of the Arts, London",137.0,52.0,6.0
 Entry standards (Ucas pts),114,2018,University of Chester,114.0,112.0,2.0
 Entry standards (Ucas pts),114,2018,York St John University,114.0,112.0,2.0
 Entry standards (Ucas pts),151,2018,"Queen Margaret University, Edinburgh",151.0,39.0,8.0
 Entry standards (Ucas pts),157,2018,Robert Gordon University,157.0,32.0,8.0
-Entry standards (Ucas pts),137,2018,University of Greenwich,137.0,52.0,6.0
+Entry standards (Ucas pts),137,2018,University of Greenwich,137.0,52.0,7.0
 Entry standards (Ucas pts),119,2018,"St Mary's University, Twickenham",119.0,98.0,3.0
 Entry standards (Ucas pts),114,2018,London South Bank University,114.0,112.0,2.0
 Entry standards (Ucas pts),120,2018,Teesside University,120.0,94.0,3.0
@@ -4908,7 +4908,7 @@ Entry standards (Ucas pts),148,2018,Edinburgh Napier University,148.0,40.0,7.0
 Entry standards (Ucas pts),125,2018,Plymouth Marjon University,125.0,81.0,4.0
 Entry standards (Ucas pts),109,2018,University of Wales Trinity St David,109.0,127.0,1.0
 Entry standards (Ucas pts),112,2018,Bishop Grosseteste University,112.0,119.0,1.0
-Entry standards (Ucas pts),132,2018,University of Bradford,132.0,64.0,5.0
+Entry standards (Ucas pts),132,2018,University of Bradford,132.0,64.0,6.0
 Entry standards (Ucas pts),124,2018,Kingston University,124.0,84.0,4.0
 Entry standards (Ucas pts),123,2018,Middlesex University,123.0,86.0,4.0
 Entry standards (Ucas pts),139,2018,University of the West of Scotland,139.0,51.0,7.0
@@ -4923,8 +4923,8 @@ Entry standards (Ucas pts),105,2018,University of Northampton,105.0,129.0,1.0
 Entry standards (Ucas pts),109,2018,Leeds Trinity University,109.0,127.0,1.0
 Entry standards (Ucas pts),110,2018,Canterbury Christ Church University,110.0,126.0,1.0
 Entry standards (Ucas pts),127,2018,University of Westminster,127.0,75.0,5.0
-Entry standards (Ucas pts),113,2018,Anglia Ruskin University,113.0,115.0,1.0
-Entry standards (Ucas pts),126,2018,University of Cumbria,126.0,77.0,4.0
+Entry standards (Ucas pts),113,2018,Anglia Ruskin University,113.0,115.0,2.0
+Entry standards (Ucas pts),126,2018,University of Cumbria,126.0,77.0,5.0
 Entry standards (Ucas pts),117,2018,University of Brighton,117.0,104.0,2.0
 Entry standards (Ucas pts),112,2018,Leeds Beckett University,112.0,119.0,1.0
 Entry standards (Ucas pts),112,2018,University of Wolverhampton,112.0,119.0,1.0
@@ -4932,9 +4932,9 @@ Entry standards (Ucas pts),116,2018,University of Bolton,116.0,108.0,2.0
 Entry standards (Ucas pts),101,2018,London Metropolitan University,101.0,130.0,1.0
 Entry standards (Ucas pts),111,2018,University of East London,111.0,122.0,1.0
 Entry standards (Ucas pts),101,2018,University of Bedfordshire,101.0,130.0,1.0
-Entry standards (Ucas pts),117,2018,University of Suffolk,117.0,104.0,2.0
-Entry standards (Ucas pts),113,2018,Wrexham Glyndwr University,113.0,115.0,1.0
-Entry standards (Ucas pts),113,2018,Ravensbourne University London,113.0,115.0,1.0
+Entry standards (Ucas pts),117,2018,University of Suffolk,117.0,104.0,3.0
+Entry standards (Ucas pts),113,2018,Wrexham Glyndwr University,113.0,115.0,2.0
+Entry standards (Ucas pts),113,2018,Ravensbourne University London,113.0,115.0,2.0
 Graduate prospects (%),86.8,2018,University of Cambridge,86.8,7.0,10.0
 Graduate prospects (%),83.5,2018,University of Oxford,83.5,23.0,9.0
 Graduate prospects (%),79.6,2018,University of St Andrews,79.6,49.0,7.0
@@ -4984,7 +4984,7 @@ Graduate prospects (%),82.1,2018,Keele University,82.1,27.0,8.0
 Graduate prospects (%),78.7,2018,University of Stirling,78.7,53.0,6.0
 Graduate prospects (%),79.1,2018,Aston University,79.1,52.0,7.0
 Graduate prospects (%),78.7,2018,"Queen Mary, University of London",78.7,53.0,6.0
-Graduate prospects (%),80.9,2018,Coventry University,80.9,39.0,7.0
+Graduate prospects (%),80.9,2018,Coventry University,80.9,39.0,8.0
 Graduate prospects (%),81.4,2018,University of Lincoln,81.4,34.0,8.0
 Graduate prospects (%),74.0,2018,University of West London,74.0,73.0,5.0
 Graduate prospects (%),80.8,2018,Staffordshire University,80.8,41.0,7.0
@@ -5013,7 +5013,7 @@ Graduate prospects (%),76.9,2018,University of Central Lancashire,76.9,62.0,6.0
 Graduate prospects (%),73.6,2018,Plymouth University,73.6,77.0,4.0
 Graduate prospects (%),76.0,2018,University of Hull,76.0,66.0,5.0
 Graduate prospects (%),74.9,2018,Liverpool John Moores University,74.9,71.0,5.0
-Graduate prospects (%),72.2,2018,"University of the Arts, London",72.2,91.0,3.0
+Graduate prospects (%),72.2,2018,"University of the Arts, London",72.2,91.0,4.0
 Graduate prospects (%),70.1,2018,University of Chester,70.1,102.0,3.0
 Graduate prospects (%),73.6,2018,York St John University,73.6,77.0,4.0
 Graduate prospects (%),72.9,2018,"Queen Margaret University, Edinburgh",72.9,85.0,4.0
@@ -5045,7 +5045,7 @@ Graduate prospects (%),73.5,2018,Middlesex University,73.5,81.0,4.0
 Graduate prospects (%),80.7,2018,University of the West of Scotland,80.7,42.0,7.0
 Graduate prospects (%),67.1,2018,University of Sunderland,67.1,112.0,2.0
 Graduate prospects (%),66.9,2018,Bath Spa University,66.9,113.0,2.0
-Graduate prospects (%),73.6,2018,University of Salford,73.6,77.0,4.0
+Graduate prospects (%),73.6,2018,University of Salford,73.6,77.0,5.0
 Graduate prospects (%),65.9,2018,Cardiff Metropolitan University,65.9,115.0,2.0
 Graduate prospects (%),68.8,2018,Bucks New University,68.8,104.0,3.0
 Graduate prospects (%),63.4,2018,University of South Wales,63.4,126.0,1.0
@@ -5055,7 +5055,7 @@ Graduate prospects (%),68.1,2018,Leeds Trinity University,68.1,109.0,2.0
 Graduate prospects (%),64.7,2018,Canterbury Christ Church University,64.7,118.0,1.0
 Graduate prospects (%),70.4,2018,University of Westminster,70.4,99.0,3.0
 Graduate prospects (%),68.3,2018,Anglia Ruskin University,68.3,107.0,2.0
-Graduate prospects (%),73.6,2018,University of Cumbria,73.6,77.0,4.0
+Graduate prospects (%),73.6,2018,University of Cumbria,73.6,77.0,5.0
 Graduate prospects (%),67.2,2018,University of Brighton,67.2,111.0,2.0
 Graduate prospects (%),63.2,2018,Leeds Beckett University,63.2,127.0,1.0
 Graduate prospects (%),68.9,2018,University of Wolverhampton,68.9,103.0,3.0
@@ -5139,7 +5139,7 @@ Firsts/2:1s (%),71.4,2018,Bangor University,71.4,90.0,4.0
 Firsts/2:1s (%),73.1,2018,University of Chichester,73.1,81.0,4.0
 Firsts/2:1s (%),78.0,2018,Falmouth University,78.0,49.0,7.0
 Firsts/2:1s (%),73.1,2018,"City, University of London",73.1,81.0,4.0
-Firsts/2:1s (%),75.1,2018,De Montfort University,75.1,65.0,5.0
+Firsts/2:1s (%),75.1,2018,De Montfort University,75.1,65.0,6.0
 Firsts/2:1s (%),71.8,2018,University of Central Lancashire,71.8,87.0,4.0
 Firsts/2:1s (%),70.9,2018,Plymouth University,70.9,95.0,3.0
 Firsts/2:1s (%),70.4,2018,University of Hull,70.4,97.0,3.0
@@ -5162,18 +5162,18 @@ Firsts/2:1s (%),67.1,2018,University of Worcester,67.1,117.0,2.0
 Firsts/2:1s (%),76.4,2018,Bournemouth University,76.4,54.0,6.0
 Firsts/2:1s (%),71.3,2018,University of Gloucestershire,71.3,91.0,3.0
 Firsts/2:1s (%),71.6,2018,Birmingham City University,71.6,89.0,4.0
-Firsts/2:1s (%),79.9,2018,Glasgow Caledonian University,79.9,39.0,7.0
+Firsts/2:1s (%),79.9,2018,Glasgow Caledonian University,79.9,39.0,8.0
 Firsts/2:1s (%),65.8,2018,Abertay University,65.8,121.0,1.0
 Firsts/2:1s (%),76.4,2018,University of Winchester,76.4,54.0,6.0
 Firsts/2:1s (%),75.7,2018,Brunel University London,75.7,59.0,6.0
 Firsts/2:1s (%),75.7,2018,Edinburgh Napier University,75.7,59.0,6.0
 Firsts/2:1s (%),77.1,2018,Plymouth Marjon University,77.1,52.0,7.0
 Firsts/2:1s (%),72.9,2018,University of Wales Trinity St David,72.9,83.0,4.0
-Firsts/2:1s (%),69.0,2018,Bishop Grosseteste University,69.0,104.0,2.0
+Firsts/2:1s (%),69.0,2018,Bishop Grosseteste University,69.0,104.0,3.0
 Firsts/2:1s (%),80.2,2018,University of Bradford,80.2,38.0,8.0
 Firsts/2:1s (%),72.5,2018,Kingston University,72.5,84.0,4.0
 Firsts/2:1s (%),67.2,2018,Middlesex University,67.2,116.0,2.0
-Firsts/2:1s (%),71.3,2018,University of the West of Scotland,71.3,91.0,3.0
+Firsts/2:1s (%),71.3,2018,University of the West of Scotland,71.3,91.0,4.0
 Firsts/2:1s (%),64.7,2018,University of Sunderland,64.7,124.0,1.0
 Firsts/2:1s (%),78.8,2018,Bath Spa University,78.8,46.0,7.0
 Firsts/2:1s (%),73.7,2018,University of Salford,73.7,79.0,4.0
@@ -5215,13 +5215,13 @@ Completion rate (%),95.8,2018,University of Bristol,95.8,7.0,10.0
 Completion rate (%),89.9,2018,University of Glasgow,89.9,40.0,7.0
 Completion rate (%),91.3,2018,Harper Adams University,91.3,32.0,8.0
 Completion rate (%),92.9,2018,University of Manchester,92.9,18.0,9.0
-Completion rate (%),92.1,2018,"Royal Holloway, University of London",92.1,25.0,8.0
+Completion rate (%),92.1,2018,"Royal Holloway, University of London",92.1,25.0,9.0
 Completion rate (%),89.3,2018,University of Southampton,89.3,44.0,7.0
 Completion rate (%),93.8,2018,University of Nottingham,93.8,14.0,9.0
 Completion rate (%),92.8,2018,University of York,92.8,20.0,9.0
 Completion rate (%),90.7,2018,University of East Anglia,90.7,35.0,8.0
 Completion rate (%),88.5,2018,University of Dundee,88.5,49.0,7.0
-Completion rate (%),92.1,2018,University of Edinburgh,92.1,25.0,8.0
+Completion rate (%),92.1,2018,University of Edinburgh,92.1,25.0,9.0
 Completion rate (%),92.8,2018,University of Sheffield,92.8,20.0,9.0
 Completion rate (%),90.2,2018,University of Aberdeen,90.2,37.0,8.0
 Completion rate (%),95.1,2018,Newcastle University,95.1,10.0,10.0
@@ -5252,7 +5252,7 @@ Completion rate (%),78.1,2018,University of West London,78.1,117.0,2.0
 Completion rate (%),78.4,2018,Staffordshire University,78.4,113.0,2.0
 Completion rate (%),89.0,2018,University of Kent,89.0,45.0,7.0
 Completion rate (%),85.1,2018,Edge Hill University,85.1,68.0,5.0
-Completion rate (%),85.4,2018,University of Portsmouth,85.4,65.0,5.0
+Completion rate (%),85.4,2018,University of Portsmouth,85.4,65.0,6.0
 Completion rate (%),88.8,2018,Leeds Arts University,88.8,46.0,7.0
 Completion rate (%),83.3,2018,Ulster University,83.3,82.0,4.0
 Completion rate (%),84.3,2018,University of the West of England,84.3,71.0,5.0
@@ -5293,7 +5293,7 @@ Completion rate (%),81.8,2018,University of Worcester,81.8,91.0,4.0
 Completion rate (%),85.3,2018,Bournemouth University,85.3,67.0,5.0
 Completion rate (%),80.9,2018,University of Gloucestershire,80.9,97.0,3.0
 Completion rate (%),82.6,2018,Birmingham City University,82.6,86.0,4.0
-Completion rate (%),83.7,2018,Glasgow Caledonian University,83.7,78.0,4.0
+Completion rate (%),83.7,2018,Glasgow Caledonian University,83.7,78.0,5.0
 Completion rate (%),77.4,2018,Abertay University,77.4,120.0,1.0
 Completion rate (%),86.3,2018,University of Winchester,86.3,61.0,6.0
 Completion rate (%),86.5,2018,Brunel University London,86.5,60.0,6.0
@@ -5524,7 +5524,7 @@ Total,535,2018,Manchester Metropolitan University,535.0,62.0,6.0
 Total,535,2018,Norwich University of the Arts,535.0,62.0,6.0
 Total,531,2018,Oxford Brookes University,531.0,64.0,6.0
 Total,524,2018,Northumbria University,524.0,65.0,5.0
-Total,524,2018,Sheffield Hallam University,524.0,65.0,5.0
+Total,524,2018,Sheffield Hallam University,524.0,65.0,6.0
 Total,521,2018,"St George's, University of London",521.0,67.0,5.0
 Total,520,2018,"Goldsmiths, University of London",520.0,68.0,5.0
 Total,519,2018,University of Roehampton,519.0,69.0,5.0
@@ -5618,7 +5618,7 @@ Teaching quality (%),73.3,2019,University of Edinburgh,73.3,125.0,1.0
 Teaching quality (%),80.6,2019,University of Sheffield,80.6,56.0,6.0
 Teaching quality (%),80.6,2019,University of Aberdeen,80.6,56.0,6.0
 Teaching quality (%),77.9,2019,Newcastle University,77.9,98.0,3.0
-Teaching quality (%),79.4,2019,University of Liverpool,79.4,77.0,4.0
+Teaching quality (%),79.4,2019,University of Liverpool,79.4,77.0,5.0
 Teaching quality (%),74.3,2019,King's College London,74.3,122.0,1.0
 Teaching quality (%),81.2,2019,Swansea University,81.2,45.0,7.0
 Teaching quality (%),76.9,2019,University of Surrey,76.9,109.0,2.0
@@ -5680,7 +5680,7 @@ Teaching quality (%),83.1,2019,Teesside University,83.1,20.0,9.0
 Teaching quality (%),78.8,2019,University of Hertfordshire,78.8,86.0,4.0
 Teaching quality (%),82.2,2019,Solent University,82.2,33.0,8.0
 Teaching quality (%),81.8,2019,Royal Agricultural University,81.8,37.0,8.0
-Teaching quality (%),81.6,2019,University of Derby,81.6,39.0,7.0
+Teaching quality (%),81.6,2019,University of Derby,81.6,39.0,8.0
 Teaching quality (%),80.6,2019,University of Buckingham,80.6,56.0,6.0
 Teaching quality (%),85.1,2019,University of Worcester,85.1,6.0,10.0
 Teaching quality (%),77.3,2019,Bournemouth University,77.3,104.0,2.0
@@ -5704,7 +5704,7 @@ Teaching quality (%),78.5,2019,University of Salford,78.5,91.0,3.0
 Teaching quality (%),80.7,2019,Cardiff Metropolitan University,80.7,53.0,6.0
 Teaching quality (%),81.9,2019,Bucks New University,81.9,36.0,8.0
 Teaching quality (%),82.5,2019,University of South Wales,82.5,26.0,8.0
-Teaching quality (%),82.5,2019,Newman University,82.5,26.0,8.0
+Teaching quality (%),82.5,2019,Newman University,82.5,26.0,9.0
 Teaching quality (%),78.8,2019,University of Northampton,78.8,86.0,4.0
 Teaching quality (%),77.1,2019,Leeds Trinity University,77.1,108.0,2.0
 Teaching quality (%),81.0,2019,Canterbury Christ Church University,81.0,49.0,7.0
@@ -5806,10 +5806,10 @@ Student experience (%),76.5,2019,"Queen Margaret University, Edinburgh",76.5,96.
 Student experience (%),80.4,2019,Robert Gordon University,80.4,27.0,8.0
 Student experience (%),78.4,2019,University of Greenwich,78.4,65.0,5.0
 Student experience (%),79.0,2019,"St Mary's University, Twickenham",79.0,51.0,6.0
-Student experience (%),77.9,2019,London South Bank University,77.9,77.0,4.0
+Student experience (%),77.9,2019,London South Bank University,77.9,77.0,5.0
 Student experience (%),79.5,2019,Teesside University,79.5,40.0,7.0
 Student experience (%),78.3,2019,University of Hertfordshire,78.3,66.0,5.0
-Student experience (%),79.0,2019,Solent University,79.0,51.0,6.0
+Student experience (%),79.0,2019,Solent University,79.0,51.0,7.0
 Student experience (%),82.3,2019,Royal Agricultural University,82.3,12.0,10.0
 Student experience (%),78.6,2019,University of Derby,78.6,61.0,6.0
 Student experience (%),80.5,2019,University of Buckingham,80.5,26.0,9.0
@@ -5840,12 +5840,12 @@ Student experience (%),73.9,2019,University of Northampton,73.9,118.0,1.0
 Student experience (%),74.8,2019,Leeds Trinity University,74.8,113.0,2.0
 Student experience (%),75.7,2019,Canterbury Christ Church University,75.7,105.0,2.0
 Student experience (%),75.1,2019,University of Westminster,75.1,111.0,2.0
-Student experience (%),79.0,2019,Anglia Ruskin University,79.0,51.0,6.0
+Student experience (%),79.0,2019,Anglia Ruskin University,79.0,51.0,7.0
 Student experience (%),73.8,2019,University of Cumbria,73.8,119.0,1.0
-Student experience (%),75.8,2019,University of Brighton,75.8,103.0,2.0
+Student experience (%),75.8,2019,University of Brighton,75.8,103.0,3.0
 Student experience (%),79.3,2019,Leeds Beckett University,79.3,42.0,7.0
 Student experience (%),78.8,2019,University of Wolverhampton,78.8,58.0,6.0
-Student experience (%),82.1,2019,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2019,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2019,London Metropolitan University,75.7,105.0,2.0
 Student experience (%),76.1,2019,University of East London,76.1,100.0,3.0
 Student experience (%),77.4,2019,University of Bedfordshire,77.4,83.0,4.0
@@ -5892,7 +5892,7 @@ Research quality (%),37.2,2019,University of Essex,37.2,25.0,9.0
 Research quality (%),36.5,2019,University of Reading,36.5,29.0,8.0
 Research quality (%),31.8,2019,University of Sussex,31.8,37.0,7.0
 Research quality (%),6.5,2019,Nottingham Trent University,6.5,80.0,4.0
-Research quality (%),31.8,2019,University of Leicester,31.8,37.0,7.0
+Research quality (%),31.8,2019,University of Leicester,31.8,37.0,8.0
 Research quality (%),3.4,2019,University for the Creative Arts,3.4,112.0,2.0
 Research quality (%),2.4,2019,Arts University Bournemouth,2.4,118.0,1.0
 Research quality (%),27.9,2019,SOAS University of London,27.9,46.0,7.0
@@ -5909,7 +5909,7 @@ Research quality (%),35.2,2019,University of Kent,35.2,33.0,8.0
 Research quality (%),4.9,2019,Edge Hill University,4.9,93.0,3.0
 Research quality (%),8.6,2019,University of Portsmouth,8.6,70.0,5.0
 Research quality (%),,2019,Leeds Arts University,,,
-Research quality (%),31.8,2019,Ulster University,31.8,37.0,7.0
+Research quality (%),31.8,2019,Ulster University,31.8,37.0,8.0
 Research quality (%),8.8,2019,University of the West of England,8.8,69.0,5.0
 Research quality (%),9.2,2019,Liverpool Hope University,9.2,62.0,6.0
 Research quality (%),9.4,2019,University of Huddersfield,9.4,61.0,6.0
@@ -5971,10 +5971,10 @@ Research quality (%),3.2,2019,University of Northampton,3.2,113.0,2.0
 Research quality (%),2.0,2019,Leeds Trinity University,2.0,121.0,1.0
 Research quality (%),4.5,2019,Canterbury Christ Church University,4.5,97.0,3.0
 Research quality (%),9.8,2019,University of Westminster,9.8,59.0,6.0
-Research quality (%),5.4,2019,Anglia Ruskin University,5.4,89.0,3.0
+Research quality (%),5.4,2019,Anglia Ruskin University,5.4,89.0,4.0
 Research quality (%),1.2,2019,University of Cumbria,1.2,124.0,1.0
 Research quality (%),7.9,2019,University of Brighton,7.9,73.0,5.0
-Research quality (%),4.1,2019,Leeds Beckett University,4.1,101.0,2.0
+Research quality (%),4.1,2019,Leeds Beckett University,4.1,101.0,3.0
 Research quality (%),5.9,2019,University of Wolverhampton,5.9,82.0,4.0
 Research quality (%),2.9,2019,University of Bolton,2.9,114.0,2.0
 Research quality (%),3.5,2019,London Metropolitan University,3.5,111.0,2.0
@@ -6058,15 +6058,15 @@ Entry standards (Ucas pts),131,2019,Falmouth University,131.0,67.0,5.0
 Entry standards (Ucas pts),145,2019,"City, University of London",145.0,44.0,7.0
 Entry standards (Ucas pts),111,2019,De Montfort University,111.0,122.0,1.0
 Entry standards (Ucas pts),133,2019,University of Central Lancashire,133.0,60.0,6.0
-Entry standards (Ucas pts),132,2019,Plymouth University,132.0,64.0,5.0
-Entry standards (Ucas pts),126,2019,University of Hull,126.0,77.0,4.0
+Entry standards (Ucas pts),132,2019,Plymouth University,132.0,64.0,6.0
+Entry standards (Ucas pts),126,2019,University of Hull,126.0,77.0,5.0
 Entry standards (Ucas pts),142,2019,Liverpool John Moores University,142.0,48.0,7.0
 Entry standards (Ucas pts),137,2019,"University of the Arts, London",137.0,52.0,6.0
 Entry standards (Ucas pts),114,2019,University of Chester,114.0,112.0,2.0
 Entry standards (Ucas pts),114,2019,York St John University,114.0,112.0,2.0
 Entry standards (Ucas pts),151,2019,"Queen Margaret University, Edinburgh",151.0,39.0,8.0
 Entry standards (Ucas pts),157,2019,Robert Gordon University,157.0,32.0,8.0
-Entry standards (Ucas pts),137,2019,University of Greenwich,137.0,52.0,6.0
+Entry standards (Ucas pts),137,2019,University of Greenwich,137.0,52.0,7.0
 Entry standards (Ucas pts),119,2019,"St Mary's University, Twickenham",119.0,98.0,3.0
 Entry standards (Ucas pts),114,2019,London South Bank University,114.0,112.0,2.0
 Entry standards (Ucas pts),120,2019,Teesside University,120.0,94.0,3.0
@@ -6087,7 +6087,7 @@ Entry standards (Ucas pts),148,2019,Edinburgh Napier University,148.0,40.0,7.0
 Entry standards (Ucas pts),125,2019,Plymouth Marjon University,125.0,81.0,4.0
 Entry standards (Ucas pts),109,2019,University of Wales Trinity St David,109.0,127.0,1.0
 Entry standards (Ucas pts),112,2019,Bishop Grosseteste University,112.0,119.0,1.0
-Entry standards (Ucas pts),132,2019,University of Bradford,132.0,64.0,5.0
+Entry standards (Ucas pts),132,2019,University of Bradford,132.0,64.0,6.0
 Entry standards (Ucas pts),124,2019,Kingston University,124.0,84.0,4.0
 Entry standards (Ucas pts),123,2019,Middlesex University,123.0,86.0,4.0
 Entry standards (Ucas pts),139,2019,University of the West of Scotland,139.0,51.0,7.0
@@ -6102,8 +6102,8 @@ Entry standards (Ucas pts),105,2019,University of Northampton,105.0,129.0,1.0
 Entry standards (Ucas pts),109,2019,Leeds Trinity University,109.0,127.0,1.0
 Entry standards (Ucas pts),110,2019,Canterbury Christ Church University,110.0,126.0,1.0
 Entry standards (Ucas pts),127,2019,University of Westminster,127.0,75.0,5.0
-Entry standards (Ucas pts),113,2019,Anglia Ruskin University,113.0,115.0,1.0
-Entry standards (Ucas pts),126,2019,University of Cumbria,126.0,77.0,4.0
+Entry standards (Ucas pts),113,2019,Anglia Ruskin University,113.0,115.0,2.0
+Entry standards (Ucas pts),126,2019,University of Cumbria,126.0,77.0,5.0
 Entry standards (Ucas pts),117,2019,University of Brighton,117.0,104.0,2.0
 Entry standards (Ucas pts),112,2019,Leeds Beckett University,112.0,119.0,1.0
 Entry standards (Ucas pts),112,2019,University of Wolverhampton,112.0,119.0,1.0
@@ -6111,9 +6111,9 @@ Entry standards (Ucas pts),116,2019,University of Bolton,116.0,108.0,2.0
 Entry standards (Ucas pts),101,2019,London Metropolitan University,101.0,130.0,1.0
 Entry standards (Ucas pts),111,2019,University of East London,111.0,122.0,1.0
 Entry standards (Ucas pts),101,2019,University of Bedfordshire,101.0,130.0,1.0
-Entry standards (Ucas pts),117,2019,University of Suffolk,117.0,104.0,2.0
-Entry standards (Ucas pts),113,2019,Wrexham Glyndwr University,113.0,115.0,1.0
-Entry standards (Ucas pts),113,2019,Ravensbourne University London,113.0,115.0,1.0
+Entry standards (Ucas pts),117,2019,University of Suffolk,117.0,104.0,3.0
+Entry standards (Ucas pts),113,2019,Wrexham Glyndwr University,113.0,115.0,2.0
+Entry standards (Ucas pts),113,2019,Ravensbourne University London,113.0,115.0,2.0
 Graduate prospects (%),86.8,2019,University of Cambridge,86.8,7.0,10.0
 Graduate prospects (%),83.5,2019,University of Oxford,83.5,23.0,9.0
 Graduate prospects (%),79.6,2019,University of St Andrews,79.6,49.0,7.0
@@ -6163,7 +6163,7 @@ Graduate prospects (%),82.1,2019,Keele University,82.1,27.0,8.0
 Graduate prospects (%),78.7,2019,University of Stirling,78.7,53.0,6.0
 Graduate prospects (%),79.1,2019,Aston University,79.1,52.0,7.0
 Graduate prospects (%),78.7,2019,"Queen Mary, University of London",78.7,53.0,6.0
-Graduate prospects (%),80.9,2019,Coventry University,80.9,39.0,7.0
+Graduate prospects (%),80.9,2019,Coventry University,80.9,39.0,8.0
 Graduate prospects (%),81.4,2019,University of Lincoln,81.4,34.0,8.0
 Graduate prospects (%),74.0,2019,University of West London,74.0,73.0,5.0
 Graduate prospects (%),80.8,2019,Staffordshire University,80.8,41.0,7.0
@@ -6192,7 +6192,7 @@ Graduate prospects (%),76.9,2019,University of Central Lancashire,76.9,62.0,6.0
 Graduate prospects (%),73.6,2019,Plymouth University,73.6,77.0,4.0
 Graduate prospects (%),76.0,2019,University of Hull,76.0,66.0,5.0
 Graduate prospects (%),74.9,2019,Liverpool John Moores University,74.9,71.0,5.0
-Graduate prospects (%),72.2,2019,"University of the Arts, London",72.2,91.0,3.0
+Graduate prospects (%),72.2,2019,"University of the Arts, London",72.2,91.0,4.0
 Graduate prospects (%),70.1,2019,University of Chester,70.1,102.0,3.0
 Graduate prospects (%),73.6,2019,York St John University,73.6,77.0,4.0
 Graduate prospects (%),72.9,2019,"Queen Margaret University, Edinburgh",72.9,85.0,4.0
@@ -6224,7 +6224,7 @@ Graduate prospects (%),73.5,2019,Middlesex University,73.5,81.0,4.0
 Graduate prospects (%),80.7,2019,University of the West of Scotland,80.7,42.0,7.0
 Graduate prospects (%),67.1,2019,University of Sunderland,67.1,112.0,2.0
 Graduate prospects (%),66.9,2019,Bath Spa University,66.9,113.0,2.0
-Graduate prospects (%),73.6,2019,University of Salford,73.6,77.0,4.0
+Graduate prospects (%),73.6,2019,University of Salford,73.6,77.0,5.0
 Graduate prospects (%),65.9,2019,Cardiff Metropolitan University,65.9,115.0,2.0
 Graduate prospects (%),68.8,2019,Bucks New University,68.8,104.0,3.0
 Graduate prospects (%),63.4,2019,University of South Wales,63.4,126.0,1.0
@@ -6234,7 +6234,7 @@ Graduate prospects (%),68.1,2019,Leeds Trinity University,68.1,109.0,2.0
 Graduate prospects (%),64.7,2019,Canterbury Christ Church University,64.7,118.0,1.0
 Graduate prospects (%),70.4,2019,University of Westminster,70.4,99.0,3.0
 Graduate prospects (%),68.3,2019,Anglia Ruskin University,68.3,107.0,2.0
-Graduate prospects (%),73.6,2019,University of Cumbria,73.6,77.0,4.0
+Graduate prospects (%),73.6,2019,University of Cumbria,73.6,77.0,5.0
 Graduate prospects (%),67.2,2019,University of Brighton,67.2,111.0,2.0
 Graduate prospects (%),63.2,2019,Leeds Beckett University,63.2,127.0,1.0
 Graduate prospects (%),68.9,2019,University of Wolverhampton,68.9,103.0,3.0
@@ -6318,7 +6318,7 @@ Firsts/2:1s (%),71.4,2019,Bangor University,71.4,90.0,4.0
 Firsts/2:1s (%),73.1,2019,University of Chichester,73.1,81.0,4.0
 Firsts/2:1s (%),78.0,2019,Falmouth University,78.0,49.0,7.0
 Firsts/2:1s (%),73.1,2019,"City, University of London",73.1,81.0,4.0
-Firsts/2:1s (%),75.1,2019,De Montfort University,75.1,65.0,5.0
+Firsts/2:1s (%),75.1,2019,De Montfort University,75.1,65.0,6.0
 Firsts/2:1s (%),71.8,2019,University of Central Lancashire,71.8,87.0,4.0
 Firsts/2:1s (%),70.9,2019,Plymouth University,70.9,95.0,3.0
 Firsts/2:1s (%),70.4,2019,University of Hull,70.4,97.0,3.0
@@ -6341,18 +6341,18 @@ Firsts/2:1s (%),67.1,2019,University of Worcester,67.1,117.0,2.0
 Firsts/2:1s (%),76.4,2019,Bournemouth University,76.4,54.0,6.0
 Firsts/2:1s (%),71.3,2019,University of Gloucestershire,71.3,91.0,3.0
 Firsts/2:1s (%),71.6,2019,Birmingham City University,71.6,89.0,4.0
-Firsts/2:1s (%),79.9,2019,Glasgow Caledonian University,79.9,39.0,7.0
+Firsts/2:1s (%),79.9,2019,Glasgow Caledonian University,79.9,39.0,8.0
 Firsts/2:1s (%),65.8,2019,Abertay University,65.8,121.0,1.0
 Firsts/2:1s (%),76.4,2019,University of Winchester,76.4,54.0,6.0
 Firsts/2:1s (%),75.7,2019,Brunel University London,75.7,59.0,6.0
 Firsts/2:1s (%),75.7,2019,Edinburgh Napier University,75.7,59.0,6.0
 Firsts/2:1s (%),77.1,2019,Plymouth Marjon University,77.1,52.0,7.0
 Firsts/2:1s (%),72.9,2019,University of Wales Trinity St David,72.9,83.0,4.0
-Firsts/2:1s (%),69.0,2019,Bishop Grosseteste University,69.0,104.0,2.0
+Firsts/2:1s (%),69.0,2019,Bishop Grosseteste University,69.0,104.0,3.0
 Firsts/2:1s (%),80.2,2019,University of Bradford,80.2,38.0,8.0
 Firsts/2:1s (%),72.5,2019,Kingston University,72.5,84.0,4.0
 Firsts/2:1s (%),67.2,2019,Middlesex University,67.2,116.0,2.0
-Firsts/2:1s (%),71.3,2019,University of the West of Scotland,71.3,91.0,3.0
+Firsts/2:1s (%),71.3,2019,University of the West of Scotland,71.3,91.0,4.0
 Firsts/2:1s (%),64.7,2019,University of Sunderland,64.7,124.0,1.0
 Firsts/2:1s (%),78.8,2019,Bath Spa University,78.8,46.0,7.0
 Firsts/2:1s (%),73.7,2019,University of Salford,73.7,79.0,4.0
@@ -6394,13 +6394,13 @@ Completion rate (%),95.8,2019,University of Bristol,95.8,7.0,10.0
 Completion rate (%),89.9,2019,University of Glasgow,89.9,40.0,7.0
 Completion rate (%),91.3,2019,Harper Adams University,91.3,32.0,8.0
 Completion rate (%),92.9,2019,University of Manchester,92.9,18.0,9.0
-Completion rate (%),92.1,2019,"Royal Holloway, University of London",92.1,25.0,8.0
+Completion rate (%),92.1,2019,"Royal Holloway, University of London",92.1,25.0,9.0
 Completion rate (%),89.3,2019,University of Southampton,89.3,44.0,7.0
 Completion rate (%),93.8,2019,University of Nottingham,93.8,14.0,9.0
 Completion rate (%),92.8,2019,University of York,92.8,20.0,9.0
 Completion rate (%),90.7,2019,University of East Anglia,90.7,35.0,8.0
 Completion rate (%),88.5,2019,University of Dundee,88.5,49.0,7.0
-Completion rate (%),92.1,2019,University of Edinburgh,92.1,25.0,8.0
+Completion rate (%),92.1,2019,University of Edinburgh,92.1,25.0,9.0
 Completion rate (%),92.8,2019,University of Sheffield,92.8,20.0,9.0
 Completion rate (%),90.2,2019,University of Aberdeen,90.2,37.0,8.0
 Completion rate (%),95.1,2019,Newcastle University,95.1,10.0,10.0
@@ -6431,7 +6431,7 @@ Completion rate (%),78.1,2019,University of West London,78.1,117.0,2.0
 Completion rate (%),78.4,2019,Staffordshire University,78.4,113.0,2.0
 Completion rate (%),89.0,2019,University of Kent,89.0,45.0,7.0
 Completion rate (%),85.1,2019,Edge Hill University,85.1,68.0,5.0
-Completion rate (%),85.4,2019,University of Portsmouth,85.4,65.0,5.0
+Completion rate (%),85.4,2019,University of Portsmouth,85.4,65.0,6.0
 Completion rate (%),88.8,2019,Leeds Arts University,88.8,46.0,7.0
 Completion rate (%),83.3,2019,Ulster University,83.3,82.0,4.0
 Completion rate (%),84.3,2019,University of the West of England,84.3,71.0,5.0
@@ -6472,7 +6472,7 @@ Completion rate (%),81.8,2019,University of Worcester,81.8,91.0,4.0
 Completion rate (%),85.3,2019,Bournemouth University,85.3,67.0,5.0
 Completion rate (%),80.9,2019,University of Gloucestershire,80.9,97.0,3.0
 Completion rate (%),82.6,2019,Birmingham City University,82.6,86.0,4.0
-Completion rate (%),83.7,2019,Glasgow Caledonian University,83.7,78.0,4.0
+Completion rate (%),83.7,2019,Glasgow Caledonian University,83.7,78.0,5.0
 Completion rate (%),77.4,2019,Abertay University,77.4,120.0,1.0
 Completion rate (%),86.3,2019,University of Winchester,86.3,61.0,6.0
 Completion rate (%),86.5,2019,Brunel University London,86.5,60.0,6.0
@@ -6703,7 +6703,7 @@ Total,535,2019,Manchester Metropolitan University,535.0,62.0,6.0
 Total,535,2019,Norwich University of the Arts,535.0,62.0,6.0
 Total,531,2019,Oxford Brookes University,531.0,64.0,6.0
 Total,524,2019,Northumbria University,524.0,65.0,5.0
-Total,524,2019,Sheffield Hallam University,524.0,65.0,5.0
+Total,524,2019,Sheffield Hallam University,524.0,65.0,6.0
 Total,521,2019,"St George's, University of London",521.0,67.0,5.0
 Total,520,2019,"Goldsmiths, University of London",520.0,68.0,5.0
 Total,519,2019,University of Roehampton,519.0,69.0,5.0
@@ -6797,7 +6797,7 @@ Teaching quality (%),73.3,2020,University of Edinburgh,73.3,125.0,1.0
 Teaching quality (%),80.6,2020,University of Sheffield,80.6,56.0,6.0
 Teaching quality (%),80.6,2020,University of Aberdeen,80.6,56.0,6.0
 Teaching quality (%),77.9,2020,Newcastle University,77.9,98.0,3.0
-Teaching quality (%),79.4,2020,University of Liverpool,79.4,77.0,4.0
+Teaching quality (%),79.4,2020,University of Liverpool,79.4,77.0,5.0
 Teaching quality (%),74.3,2020,King's College London,74.3,122.0,1.0
 Teaching quality (%),81.2,2020,Swansea University,81.2,45.0,7.0
 Teaching quality (%),76.9,2020,University of Surrey,76.9,109.0,2.0
@@ -6859,7 +6859,7 @@ Teaching quality (%),83.1,2020,Teesside University,83.1,20.0,9.0
 Teaching quality (%),78.8,2020,University of Hertfordshire,78.8,86.0,4.0
 Teaching quality (%),82.2,2020,Solent University,82.2,33.0,8.0
 Teaching quality (%),81.8,2020,Royal Agricultural University,81.8,37.0,8.0
-Teaching quality (%),81.6,2020,University of Derby,81.6,39.0,7.0
+Teaching quality (%),81.6,2020,University of Derby,81.6,39.0,8.0
 Teaching quality (%),80.6,2020,University of Buckingham,80.6,56.0,6.0
 Teaching quality (%),85.1,2020,University of Worcester,85.1,6.0,10.0
 Teaching quality (%),77.3,2020,Bournemouth University,77.3,104.0,2.0
@@ -6883,7 +6883,7 @@ Teaching quality (%),78.5,2020,University of Salford,78.5,91.0,3.0
 Teaching quality (%),80.7,2020,Cardiff Metropolitan University,80.7,53.0,6.0
 Teaching quality (%),81.9,2020,Bucks New University,81.9,36.0,8.0
 Teaching quality (%),82.5,2020,University of South Wales,82.5,26.0,8.0
-Teaching quality (%),82.5,2020,Newman University,82.5,26.0,8.0
+Teaching quality (%),82.5,2020,Newman University,82.5,26.0,9.0
 Teaching quality (%),78.8,2020,University of Northampton,78.8,86.0,4.0
 Teaching quality (%),77.1,2020,Leeds Trinity University,77.1,108.0,2.0
 Teaching quality (%),81.0,2020,Canterbury Christ Church University,81.0,49.0,7.0
@@ -6985,10 +6985,10 @@ Student experience (%),76.5,2020,"Queen Margaret University, Edinburgh",76.5,96.
 Student experience (%),80.4,2020,Robert Gordon University,80.4,27.0,8.0
 Student experience (%),78.4,2020,University of Greenwich,78.4,65.0,5.0
 Student experience (%),79.0,2020,"St Mary's University, Twickenham",79.0,51.0,6.0
-Student experience (%),77.9,2020,London South Bank University,77.9,77.0,4.0
+Student experience (%),77.9,2020,London South Bank University,77.9,77.0,5.0
 Student experience (%),79.5,2020,Teesside University,79.5,40.0,7.0
 Student experience (%),78.3,2020,University of Hertfordshire,78.3,66.0,5.0
-Student experience (%),79.0,2020,Solent University,79.0,51.0,6.0
+Student experience (%),79.0,2020,Solent University,79.0,51.0,7.0
 Student experience (%),82.3,2020,Royal Agricultural University,82.3,12.0,10.0
 Student experience (%),78.6,2020,University of Derby,78.6,61.0,6.0
 Student experience (%),80.5,2020,University of Buckingham,80.5,26.0,9.0
@@ -7019,12 +7019,12 @@ Student experience (%),73.9,2020,University of Northampton,73.9,118.0,1.0
 Student experience (%),74.8,2020,Leeds Trinity University,74.8,113.0,2.0
 Student experience (%),75.7,2020,Canterbury Christ Church University,75.7,105.0,2.0
 Student experience (%),75.1,2020,University of Westminster,75.1,111.0,2.0
-Student experience (%),79.0,2020,Anglia Ruskin University,79.0,51.0,6.0
+Student experience (%),79.0,2020,Anglia Ruskin University,79.0,51.0,7.0
 Student experience (%),73.8,2020,University of Cumbria,73.8,119.0,1.0
-Student experience (%),75.8,2020,University of Brighton,75.8,103.0,2.0
+Student experience (%),75.8,2020,University of Brighton,75.8,103.0,3.0
 Student experience (%),79.3,2020,Leeds Beckett University,79.3,42.0,7.0
 Student experience (%),78.8,2020,University of Wolverhampton,78.8,58.0,6.0
-Student experience (%),82.1,2020,University of Bolton,82.1,13.0,9.0
+Student experience (%),82.1,2020,University of Bolton,82.1,13.0,10.0
 Student experience (%),75.7,2020,London Metropolitan University,75.7,105.0,2.0
 Student experience (%),76.1,2020,University of East London,76.1,100.0,3.0
 Student experience (%),77.4,2020,University of Bedfordshire,77.4,83.0,4.0
@@ -7071,7 +7071,7 @@ Research quality (%),37.2,2020,University of Essex,37.2,25.0,9.0
 Research quality (%),36.5,2020,University of Reading,36.5,29.0,8.0
 Research quality (%),31.8,2020,University of Sussex,31.8,37.0,7.0
 Research quality (%),6.5,2020,Nottingham Trent University,6.5,80.0,4.0
-Research quality (%),31.8,2020,University of Leicester,31.8,37.0,7.0
+Research quality (%),31.8,2020,University of Leicester,31.8,37.0,8.0
 Research quality (%),3.4,2020,University for the Creative Arts,3.4,112.0,2.0
 Research quality (%),2.4,2020,Arts University Bournemouth,2.4,118.0,1.0
 Research quality (%),27.9,2020,SOAS University of London,27.9,46.0,7.0
@@ -7088,7 +7088,7 @@ Research quality (%),35.2,2020,University of Kent,35.2,33.0,8.0
 Research quality (%),4.9,2020,Edge Hill University,4.9,93.0,3.0
 Research quality (%),8.6,2020,University of Portsmouth,8.6,70.0,5.0
 Research quality (%),,2020,Leeds Arts University,,,
-Research quality (%),31.8,2020,Ulster University,31.8,37.0,7.0
+Research quality (%),31.8,2020,Ulster University,31.8,37.0,8.0
 Research quality (%),8.8,2020,University of the West of England,8.8,69.0,5.0
 Research quality (%),9.2,2020,Liverpool Hope University,9.2,62.0,6.0
 Research quality (%),9.4,2020,University of Huddersfield,9.4,61.0,6.0
@@ -7150,10 +7150,10 @@ Research quality (%),3.2,2020,University of Northampton,3.2,113.0,2.0
 Research quality (%),2.0,2020,Leeds Trinity University,2.0,121.0,1.0
 Research quality (%),4.5,2020,Canterbury Christ Church University,4.5,97.0,3.0
 Research quality (%),9.8,2020,University of Westminster,9.8,59.0,6.0
-Research quality (%),5.4,2020,Anglia Ruskin University,5.4,89.0,3.0
+Research quality (%),5.4,2020,Anglia Ruskin University,5.4,89.0,4.0
 Research quality (%),1.2,2020,University of Cumbria,1.2,124.0,1.0
 Research quality (%),7.9,2020,University of Brighton,7.9,73.0,5.0
-Research quality (%),4.1,2020,Leeds Beckett University,4.1,101.0,2.0
+Research quality (%),4.1,2020,Leeds Beckett University,4.1,101.0,3.0
 Research quality (%),5.9,2020,University of Wolverhampton,5.9,82.0,4.0
 Research quality (%),2.9,2020,University of Bolton,2.9,114.0,2.0
 Research quality (%),3.5,2020,London Metropolitan University,3.5,111.0,2.0
@@ -7237,15 +7237,15 @@ Entry standards (Ucas pts),131,2020,Falmouth University,131.0,67.0,5.0
 Entry standards (Ucas pts),145,2020,"City, University of London",145.0,44.0,7.0
 Entry standards (Ucas pts),111,2020,De Montfort University,111.0,122.0,1.0
 Entry standards (Ucas pts),133,2020,University of Central Lancashire,133.0,60.0,6.0
-Entry standards (Ucas pts),132,2020,Plymouth University,132.0,64.0,5.0
-Entry standards (Ucas pts),126,2020,University of Hull,126.0,77.0,4.0
+Entry standards (Ucas pts),132,2020,Plymouth University,132.0,64.0,6.0
+Entry standards (Ucas pts),126,2020,University of Hull,126.0,77.0,5.0
 Entry standards (Ucas pts),142,2020,Liverpool John Moores University,142.0,48.0,7.0
 Entry standards (Ucas pts),137,2020,"University of the Arts, London",137.0,52.0,6.0
 Entry standards (Ucas pts),114,2020,University of Chester,114.0,112.0,2.0
 Entry standards (Ucas pts),114,2020,York St John University,114.0,112.0,2.0
 Entry standards (Ucas pts),151,2020,"Queen Margaret University, Edinburgh",151.0,39.0,8.0
 Entry standards (Ucas pts),157,2020,Robert Gordon University,157.0,32.0,8.0
-Entry standards (Ucas pts),137,2020,University of Greenwich,137.0,52.0,6.0
+Entry standards (Ucas pts),137,2020,University of Greenwich,137.0,52.0,7.0
 Entry standards (Ucas pts),119,2020,"St Mary's University, Twickenham",119.0,98.0,3.0
 Entry standards (Ucas pts),114,2020,London South Bank University,114.0,112.0,2.0
 Entry standards (Ucas pts),120,2020,Teesside University,120.0,94.0,3.0
@@ -7266,7 +7266,7 @@ Entry standards (Ucas pts),148,2020,Edinburgh Napier University,148.0,40.0,7.0
 Entry standards (Ucas pts),125,2020,Plymouth Marjon University,125.0,81.0,4.0
 Entry standards (Ucas pts),109,2020,University of Wales Trinity St David,109.0,127.0,1.0
 Entry standards (Ucas pts),112,2020,Bishop Grosseteste University,112.0,119.0,1.0
-Entry standards (Ucas pts),132,2020,University of Bradford,132.0,64.0,5.0
+Entry standards (Ucas pts),132,2020,University of Bradford,132.0,64.0,6.0
 Entry standards (Ucas pts),124,2020,Kingston University,124.0,84.0,4.0
 Entry standards (Ucas pts),123,2020,Middlesex University,123.0,86.0,4.0
 Entry standards (Ucas pts),139,2020,University of the West of Scotland,139.0,51.0,7.0
@@ -7281,8 +7281,8 @@ Entry standards (Ucas pts),105,2020,University of Northampton,105.0,129.0,1.0
 Entry standards (Ucas pts),109,2020,Leeds Trinity University,109.0,127.0,1.0
 Entry standards (Ucas pts),110,2020,Canterbury Christ Church University,110.0,126.0,1.0
 Entry standards (Ucas pts),127,2020,University of Westminster,127.0,75.0,5.0
-Entry standards (Ucas pts),113,2020,Anglia Ruskin University,113.0,115.0,1.0
-Entry standards (Ucas pts),126,2020,University of Cumbria,126.0,77.0,4.0
+Entry standards (Ucas pts),113,2020,Anglia Ruskin University,113.0,115.0,2.0
+Entry standards (Ucas pts),126,2020,University of Cumbria,126.0,77.0,5.0
 Entry standards (Ucas pts),117,2020,University of Brighton,117.0,104.0,2.0
 Entry standards (Ucas pts),112,2020,Leeds Beckett University,112.0,119.0,1.0
 Entry standards (Ucas pts),112,2020,University of Wolverhampton,112.0,119.0,1.0
@@ -7290,9 +7290,9 @@ Entry standards (Ucas pts),116,2020,University of Bolton,116.0,108.0,2.0
 Entry standards (Ucas pts),101,2020,London Metropolitan University,101.0,130.0,1.0
 Entry standards (Ucas pts),111,2020,University of East London,111.0,122.0,1.0
 Entry standards (Ucas pts),101,2020,University of Bedfordshire,101.0,130.0,1.0
-Entry standards (Ucas pts),117,2020,University of Suffolk,117.0,104.0,2.0
-Entry standards (Ucas pts),113,2020,Wrexham Glyndwr University,113.0,115.0,1.0
-Entry standards (Ucas pts),113,2020,Ravensbourne University London,113.0,115.0,1.0
+Entry standards (Ucas pts),117,2020,University of Suffolk,117.0,104.0,3.0
+Entry standards (Ucas pts),113,2020,Wrexham Glyndwr University,113.0,115.0,2.0
+Entry standards (Ucas pts),113,2020,Ravensbourne University London,113.0,115.0,2.0
 Graduate prospects (%),86.8,2020,University of Cambridge,86.8,7.0,10.0
 Graduate prospects (%),83.5,2020,University of Oxford,83.5,23.0,9.0
 Graduate prospects (%),79.6,2020,University of St Andrews,79.6,49.0,7.0
@@ -7342,7 +7342,7 @@ Graduate prospects (%),82.1,2020,Keele University,82.1,27.0,8.0
 Graduate prospects (%),78.7,2020,University of Stirling,78.7,53.0,6.0
 Graduate prospects (%),79.1,2020,Aston University,79.1,52.0,7.0
 Graduate prospects (%),78.7,2020,"Queen Mary, University of London",78.7,53.0,6.0
-Graduate prospects (%),80.9,2020,Coventry University,80.9,39.0,7.0
+Graduate prospects (%),80.9,2020,Coventry University,80.9,39.0,8.0
 Graduate prospects (%),81.4,2020,University of Lincoln,81.4,34.0,8.0
 Graduate prospects (%),74.0,2020,University of West London,74.0,73.0,5.0
 Graduate prospects (%),80.8,2020,Staffordshire University,80.8,41.0,7.0
@@ -7371,7 +7371,7 @@ Graduate prospects (%),76.9,2020,University of Central Lancashire,76.9,62.0,6.0
 Graduate prospects (%),73.6,2020,Plymouth University,73.6,77.0,4.0
 Graduate prospects (%),76.0,2020,University of Hull,76.0,66.0,5.0
 Graduate prospects (%),74.9,2020,Liverpool John Moores University,74.9,71.0,5.0
-Graduate prospects (%),72.2,2020,"University of the Arts, London",72.2,91.0,3.0
+Graduate prospects (%),72.2,2020,"University of the Arts, London",72.2,91.0,4.0
 Graduate prospects (%),70.1,2020,University of Chester,70.1,102.0,3.0
 Graduate prospects (%),73.6,2020,York St John University,73.6,77.0,4.0
 Graduate prospects (%),72.9,2020,"Queen Margaret University, Edinburgh",72.9,85.0,4.0
@@ -7403,7 +7403,7 @@ Graduate prospects (%),73.5,2020,Middlesex University,73.5,81.0,4.0
 Graduate prospects (%),80.7,2020,University of the West of Scotland,80.7,42.0,7.0
 Graduate prospects (%),67.1,2020,University of Sunderland,67.1,112.0,2.0
 Graduate prospects (%),66.9,2020,Bath Spa University,66.9,113.0,2.0
-Graduate prospects (%),73.6,2020,University of Salford,73.6,77.0,4.0
+Graduate prospects (%),73.6,2020,University of Salford,73.6,77.0,5.0
 Graduate prospects (%),65.9,2020,Cardiff Metropolitan University,65.9,115.0,2.0
 Graduate prospects (%),68.8,2020,Bucks New University,68.8,104.0,3.0
 Graduate prospects (%),63.4,2020,University of South Wales,63.4,126.0,1.0
@@ -7413,7 +7413,7 @@ Graduate prospects (%),68.1,2020,Leeds Trinity University,68.1,109.0,2.0
 Graduate prospects (%),64.7,2020,Canterbury Christ Church University,64.7,118.0,1.0
 Graduate prospects (%),70.4,2020,University of Westminster,70.4,99.0,3.0
 Graduate prospects (%),68.3,2020,Anglia Ruskin University,68.3,107.0,2.0
-Graduate prospects (%),73.6,2020,University of Cumbria,73.6,77.0,4.0
+Graduate prospects (%),73.6,2020,University of Cumbria,73.6,77.0,5.0
 Graduate prospects (%),67.2,2020,University of Brighton,67.2,111.0,2.0
 Graduate prospects (%),63.2,2020,Leeds Beckett University,63.2,127.0,1.0
 Graduate prospects (%),68.9,2020,University of Wolverhampton,68.9,103.0,3.0
@@ -7497,7 +7497,7 @@ Firsts/2:1s (%),71.4,2020,Bangor University,71.4,90.0,4.0
 Firsts/2:1s (%),73.1,2020,University of Chichester,73.1,81.0,4.0
 Firsts/2:1s (%),78.0,2020,Falmouth University,78.0,49.0,7.0
 Firsts/2:1s (%),73.1,2020,"City, University of London",73.1,81.0,4.0
-Firsts/2:1s (%),75.1,2020,De Montfort University,75.1,65.0,5.0
+Firsts/2:1s (%),75.1,2020,De Montfort University,75.1,65.0,6.0
 Firsts/2:1s (%),71.8,2020,University of Central Lancashire,71.8,87.0,4.0
 Firsts/2:1s (%),70.9,2020,Plymouth University,70.9,95.0,3.0
 Firsts/2:1s (%),70.4,2020,University of Hull,70.4,97.0,3.0
@@ -7520,18 +7520,18 @@ Firsts/2:1s (%),67.1,2020,University of Worcester,67.1,117.0,2.0
 Firsts/2:1s (%),76.4,2020,Bournemouth University,76.4,54.0,6.0
 Firsts/2:1s (%),71.3,2020,University of Gloucestershire,71.3,91.0,3.0
 Firsts/2:1s (%),71.6,2020,Birmingham City University,71.6,89.0,4.0
-Firsts/2:1s (%),79.9,2020,Glasgow Caledonian University,79.9,39.0,7.0
+Firsts/2:1s (%),79.9,2020,Glasgow Caledonian University,79.9,39.0,8.0
 Firsts/2:1s (%),65.8,2020,Abertay University,65.8,121.0,1.0
 Firsts/2:1s (%),76.4,2020,University of Winchester,76.4,54.0,6.0
 Firsts/2:1s (%),75.7,2020,Brunel University London,75.7,59.0,6.0
 Firsts/2:1s (%),75.7,2020,Edinburgh Napier University,75.7,59.0,6.0
 Firsts/2:1s (%),77.1,2020,Plymouth Marjon University,77.1,52.0,7.0
 Firsts/2:1s (%),72.9,2020,University of Wales Trinity St David,72.9,83.0,4.0
-Firsts/2:1s (%),69.0,2020,Bishop Grosseteste University,69.0,104.0,2.0
+Firsts/2:1s (%),69.0,2020,Bishop Grosseteste University,69.0,104.0,3.0
 Firsts/2:1s (%),80.2,2020,University of Bradford,80.2,38.0,8.0
 Firsts/2:1s (%),72.5,2020,Kingston University,72.5,84.0,4.0
 Firsts/2:1s (%),67.2,2020,Middlesex University,67.2,116.0,2.0
-Firsts/2:1s (%),71.3,2020,University of the West of Scotland,71.3,91.0,3.0
+Firsts/2:1s (%),71.3,2020,University of the West of Scotland,71.3,91.0,4.0
 Firsts/2:1s (%),64.7,2020,University of Sunderland,64.7,124.0,1.0
 Firsts/2:1s (%),78.8,2020,Bath Spa University,78.8,46.0,7.0
 Firsts/2:1s (%),73.7,2020,University of Salford,73.7,79.0,4.0
@@ -7573,13 +7573,13 @@ Completion rate (%),95.8,2020,University of Bristol,95.8,7.0,10.0
 Completion rate (%),89.9,2020,University of Glasgow,89.9,40.0,7.0
 Completion rate (%),91.3,2020,Harper Adams University,91.3,32.0,8.0
 Completion rate (%),92.9,2020,University of Manchester,92.9,18.0,9.0
-Completion rate (%),92.1,2020,"Royal Holloway, University of London",92.1,25.0,8.0
+Completion rate (%),92.1,2020,"Royal Holloway, University of London",92.1,25.0,9.0
 Completion rate (%),89.3,2020,University of Southampton,89.3,44.0,7.0
 Completion rate (%),93.8,2020,University of Nottingham,93.8,14.0,9.0
 Completion rate (%),92.8,2020,University of York,92.8,20.0,9.0
 Completion rate (%),90.7,2020,University of East Anglia,90.7,35.0,8.0
 Completion rate (%),88.5,2020,University of Dundee,88.5,49.0,7.0
-Completion rate (%),92.1,2020,University of Edinburgh,92.1,25.0,8.0
+Completion rate (%),92.1,2020,University of Edinburgh,92.1,25.0,9.0
 Completion rate (%),92.8,2020,University of Sheffield,92.8,20.0,9.0
 Completion rate (%),90.2,2020,University of Aberdeen,90.2,37.0,8.0
 Completion rate (%),95.1,2020,Newcastle University,95.1,10.0,10.0
@@ -7610,7 +7610,7 @@ Completion rate (%),78.1,2020,University of West London,78.1,117.0,2.0
 Completion rate (%),78.4,2020,Staffordshire University,78.4,113.0,2.0
 Completion rate (%),89.0,2020,University of Kent,89.0,45.0,7.0
 Completion rate (%),85.1,2020,Edge Hill University,85.1,68.0,5.0
-Completion rate (%),85.4,2020,University of Portsmouth,85.4,65.0,5.0
+Completion rate (%),85.4,2020,University of Portsmouth,85.4,65.0,6.0
 Completion rate (%),88.8,2020,Leeds Arts University,88.8,46.0,7.0
 Completion rate (%),83.3,2020,Ulster University,83.3,82.0,4.0
 Completion rate (%),84.3,2020,University of the West of England,84.3,71.0,5.0
@@ -7651,7 +7651,7 @@ Completion rate (%),81.8,2020,University of Worcester,81.8,91.0,4.0
 Completion rate (%),85.3,2020,Bournemouth University,85.3,67.0,5.0
 Completion rate (%),80.9,2020,University of Gloucestershire,80.9,97.0,3.0
 Completion rate (%),82.6,2020,Birmingham City University,82.6,86.0,4.0
-Completion rate (%),83.7,2020,Glasgow Caledonian University,83.7,78.0,4.0
+Completion rate (%),83.7,2020,Glasgow Caledonian University,83.7,78.0,5.0
 Completion rate (%),77.4,2020,Abertay University,77.4,120.0,1.0
 Completion rate (%),86.3,2020,University of Winchester,86.3,61.0,6.0
 Completion rate (%),86.5,2020,Brunel University London,86.5,60.0,6.0
@@ -7882,7 +7882,7 @@ Total,535,2020,Manchester Metropolitan University,535.0,62.0,6.0
 Total,535,2020,Norwich University of the Arts,535.0,62.0,6.0
 Total,531,2020,Oxford Brookes University,531.0,64.0,6.0
 Total,524,2020,Northumbria University,524.0,65.0,5.0
-Total,524,2020,Sheffield Hallam University,524.0,65.0,5.0
+Total,524,2020,Sheffield Hallam University,524.0,65.0,6.0
 Total,521,2020,"St George's, University of London",521.0,67.0,5.0
 Total,520,2020,"Goldsmiths, University of London",520.0,68.0,5.0
 Total,519,2020,University of Roehampton,519.0,69.0,5.0
@@ -7984,7 +7984,7 @@ Student-staff ratio,15.9,2014,"Queen's University, Belfast",15.9,67.0,5.0
 Student-staff ratio,19.5,2014,University of Strathclyde,19.5,115.0,1.0
 Student-staff ratio,15.9,2014,University of Essex,15.9,67.0,5.0
 Student-staff ratio,15.8,2014,University of Reading,15.8,63.0,6.0
-Student-staff ratio,15.8,2014,University of Sussex,15.8,63.0,6.0
+Student-staff ratio,15.8,2014,University of Sussex,15.8,63.0,5.0
 Student-staff ratio,14.5,2014,Nottingham Trent University,14.5,33.0,8.0
 Student-staff ratio,14.0,2014,University of Leicester,14.0,23.0,9.0
 Student-staff ratio,12.9,2014,University for the Creative Arts,12.9,10.0,10.0
@@ -7995,12 +7995,12 @@ Student-staff ratio,14.0,2014,Keele University,14.0,23.0,9.0
 Student-staff ratio,16.4,2014,University of Stirling,16.4,77.0,4.0
 Student-staff ratio,17.4,2014,Aston University,17.4,91.0,3.0
 Student-staff ratio,13.1,2014,"Queen Mary, University of London",13.1,12.0,10.0
-Student-staff ratio,14.6,2014,Coventry University,14.6,38.0,8.0
+Student-staff ratio,14.6,2014,Coventry University,14.6,38.0,7.0
 Student-staff ratio,14.7,2014,University of Lincoln,14.7,40.0,7.0
 Student-staff ratio,14.8,2014,University of West London,14.8,42.0,7.0
 Student-staff ratio,15.4,2014,Staffordshire University,15.4,53.0,6.0
 Student-staff ratio,18.0,2014,University of Kent,18.0,100.0,3.0
-Student-staff ratio,14.1,2014,Edge Hill University,14.1,25.0,9.0
+Student-staff ratio,14.1,2014,Edge Hill University,14.1,25.0,8.0
 Student-staff ratio,15.4,2014,University of Portsmouth,15.4,53.0,6.0
 Student-staff ratio,17.4,2014,Ulster University,17.4,91.0,3.0
 Student-staff ratio,15.3,2014,University of the West of England,15.3,52.0,6.0
@@ -8025,13 +8025,13 @@ Student-staff ratio,16.2,2014,University of Hull,16.2,73.0,5.0
 Student-staff ratio,16.9,2014,Liverpool John Moores University,16.9,83.0,4.0
 Student-staff ratio,14.8,2014,"University of the Arts, London",14.8,42.0,7.0
 Student-staff ratio,15.5,2014,University of Chester,15.5,56.0,6.0
-Student-staff ratio,18.0,2014,York St John University,18.0,100.0,3.0
+Student-staff ratio,18.0,2014,York St John University,18.0,100.0,2.0
 Student-staff ratio,18.6,2014,"Queen Margaret University, Edinburgh",18.6,108.0,2.0
 Student-staff ratio,20.4,2014,Robert Gordon University,20.4,121.0,1.0
 Student-staff ratio,17.4,2014,University of Greenwich,17.4,91.0,3.0
 Student-staff ratio,16.0,2014,"St Mary's University, Twickenham",16.0,69.0,5.0
 Student-staff ratio,15.6,2014,London South Bank University,15.6,59.0,6.0
-Student-staff ratio,18.0,2014,Teesside University,18.0,100.0,3.0
+Student-staff ratio,18.0,2014,Teesside University,18.0,100.0,2.0
 Student-staff ratio,16.0,2014,University of Hertfordshire,16.0,69.0,5.0
 Student-staff ratio,15.6,2014,Solent University,15.6,59.0,6.0
 Student-staff ratio,20.9,2014,Royal Agricultural University,20.9,122.0,1.0
@@ -8043,20 +8043,20 @@ Student-staff ratio,17.9,2014,Birmingham City University,17.9,98.0,3.0
 Student-staff ratio,20.2,2014,Glasgow Caledonian University,20.2,119.0,1.0
 Student-staff ratio,19.6,2014,Abertay University,19.6,116.0,1.0
 Student-staff ratio,16.4,2014,University of Winchester,16.4,77.0,4.0
-Student-staff ratio,18.0,2014,Brunel University London,18.0,100.0,3.0
+Student-staff ratio,18.0,2014,Brunel University London,18.0,100.0,2.0
 Student-staff ratio,17.9,2014,Edinburgh Napier University,17.9,98.0,3.0
 Student-staff ratio,22.2,2014,Plymouth Marjon University,22.2,124.0,1.0
-Student-staff ratio,15.2,2014,University of Wales Trinity St David,15.2,50.0,7.0
+Student-staff ratio,15.2,2014,University of Wales Trinity St David,15.2,50.0,6.0
 Student-staff ratio,20.2,2014,Bishop Grosseteste University,20.2,119.0,1.0
 Student-staff ratio,17.2,2014,University of Bradford,17.2,88.0,3.0
 Student-staff ratio,16.6,2014,Kingston University,16.6,79.0,4.0
 Student-staff ratio,16.7,2014,Middlesex University,16.7,80.0,4.0
 Student-staff ratio,22.4,2014,University of the West of Scotland,22.4,125.0,1.0
-Student-staff ratio,15.8,2014,University of Sunderland,15.8,63.0,6.0
+Student-staff ratio,15.8,2014,University of Sunderland,15.8,63.0,5.0
 Student-staff ratio,18.7,2014,Bath Spa University,18.7,109.0,2.0
 Student-staff ratio,16.2,2014,University of Salford,16.2,73.0,5.0
 Student-staff ratio,18.8,2014,Cardiff Metropolitan University,18.8,111.0,2.0
-Student-staff ratio,15.8,2014,Bucks New University,15.8,63.0,6.0
+Student-staff ratio,15.8,2014,Bucks New University,15.8,63.0,5.0
 Student-staff ratio,15.6,2014,University of South Wales,15.6,59.0,6.0
 Student-staff ratio,14.5,2014,Newman University,14.5,33.0,8.0
 Student-staff ratio,16.8,2014,University of Northampton,16.8,81.0,4.0
@@ -8067,7 +8067,7 @@ Student-staff ratio,18.5,2014,Anglia Ruskin University,18.5,106.0,2.0
 Student-staff ratio,16.8,2014,University of Cumbria,16.8,81.0,4.0
 Student-staff ratio,18.5,2014,University of Brighton,18.5,106.0,2.0
 Student-staff ratio,19.3,2014,Leeds Beckett University,19.3,113.0,1.0
-Student-staff ratio,18.0,2014,University of Wolverhampton,18.0,100.0,3.0
+Student-staff ratio,18.0,2014,University of Wolverhampton,18.0,100.0,2.0
 Student-staff ratio,14.2,2014,University of Bolton,14.2,27.0,8.0
 Student-staff ratio,17.8,2014,London Metropolitan University,17.8,95.0,3.0
 Student-staff ratio,18.9,2014,University of East London,18.9,112.0,2.0
@@ -8109,7 +8109,7 @@ Student-staff ratio,15.9,2015,"Queen's University, Belfast",15.9,67.0,5.0
 Student-staff ratio,19.5,2015,University of Strathclyde,19.5,115.0,1.0
 Student-staff ratio,15.9,2015,University of Essex,15.9,67.0,5.0
 Student-staff ratio,15.8,2015,University of Reading,15.8,63.0,6.0
-Student-staff ratio,15.8,2015,University of Sussex,15.8,63.0,6.0
+Student-staff ratio,15.8,2015,University of Sussex,15.8,63.0,5.0
 Student-staff ratio,14.5,2015,Nottingham Trent University,14.5,33.0,8.0
 Student-staff ratio,14.0,2015,University of Leicester,14.0,23.0,9.0
 Student-staff ratio,12.9,2015,University for the Creative Arts,12.9,10.0,10.0
@@ -8120,12 +8120,12 @@ Student-staff ratio,14.0,2015,Keele University,14.0,23.0,9.0
 Student-staff ratio,16.4,2015,University of Stirling,16.4,77.0,4.0
 Student-staff ratio,17.4,2015,Aston University,17.4,91.0,3.0
 Student-staff ratio,13.1,2015,"Queen Mary, University of London",13.1,12.0,10.0
-Student-staff ratio,14.6,2015,Coventry University,14.6,38.0,8.0
+Student-staff ratio,14.6,2015,Coventry University,14.6,38.0,7.0
 Student-staff ratio,14.7,2015,University of Lincoln,14.7,40.0,7.0
 Student-staff ratio,14.8,2015,University of West London,14.8,42.0,7.0
 Student-staff ratio,15.4,2015,Staffordshire University,15.4,53.0,6.0
 Student-staff ratio,18.0,2015,University of Kent,18.0,100.0,3.0
-Student-staff ratio,14.1,2015,Edge Hill University,14.1,25.0,9.0
+Student-staff ratio,14.1,2015,Edge Hill University,14.1,25.0,8.0
 Student-staff ratio,15.4,2015,University of Portsmouth,15.4,53.0,6.0
 Student-staff ratio,17.4,2015,Ulster University,17.4,91.0,3.0
 Student-staff ratio,15.3,2015,University of the West of England,15.3,52.0,6.0
@@ -8150,13 +8150,13 @@ Student-staff ratio,16.2,2015,University of Hull,16.2,73.0,5.0
 Student-staff ratio,16.9,2015,Liverpool John Moores University,16.9,83.0,4.0
 Student-staff ratio,14.8,2015,"University of the Arts, London",14.8,42.0,7.0
 Student-staff ratio,15.5,2015,University of Chester,15.5,56.0,6.0
-Student-staff ratio,18.0,2015,York St John University,18.0,100.0,3.0
+Student-staff ratio,18.0,2015,York St John University,18.0,100.0,2.0
 Student-staff ratio,18.6,2015,"Queen Margaret University, Edinburgh",18.6,108.0,2.0
 Student-staff ratio,20.4,2015,Robert Gordon University,20.4,121.0,1.0
 Student-staff ratio,17.4,2015,University of Greenwich,17.4,91.0,3.0
 Student-staff ratio,16.0,2015,"St Mary's University, Twickenham",16.0,69.0,5.0
 Student-staff ratio,15.6,2015,London South Bank University,15.6,59.0,6.0
-Student-staff ratio,18.0,2015,Teesside University,18.0,100.0,3.0
+Student-staff ratio,18.0,2015,Teesside University,18.0,100.0,2.0
 Student-staff ratio,16.0,2015,University of Hertfordshire,16.0,69.0,5.0
 Student-staff ratio,15.6,2015,Solent University,15.6,59.0,6.0
 Student-staff ratio,20.9,2015,Royal Agricultural University,20.9,122.0,1.0
@@ -8168,20 +8168,20 @@ Student-staff ratio,17.9,2015,Birmingham City University,17.9,98.0,3.0
 Student-staff ratio,20.2,2015,Glasgow Caledonian University,20.2,119.0,1.0
 Student-staff ratio,19.6,2015,Abertay University,19.6,116.0,1.0
 Student-staff ratio,16.4,2015,University of Winchester,16.4,77.0,4.0
-Student-staff ratio,18.0,2015,Brunel University London,18.0,100.0,3.0
+Student-staff ratio,18.0,2015,Brunel University London,18.0,100.0,2.0
 Student-staff ratio,17.9,2015,Edinburgh Napier University,17.9,98.0,3.0
 Student-staff ratio,22.2,2015,Plymouth Marjon University,22.2,124.0,1.0
-Student-staff ratio,15.2,2015,University of Wales Trinity St David,15.2,50.0,7.0
+Student-staff ratio,15.2,2015,University of Wales Trinity St David,15.2,50.0,6.0
 Student-staff ratio,20.2,2015,Bishop Grosseteste University,20.2,119.0,1.0
 Student-staff ratio,17.2,2015,University of Bradford,17.2,88.0,3.0
 Student-staff ratio,16.6,2015,Kingston University,16.6,79.0,4.0
 Student-staff ratio,16.7,2015,Middlesex University,16.7,80.0,4.0
 Student-staff ratio,22.4,2015,University of the West of Scotland,22.4,125.0,1.0
-Student-staff ratio,15.8,2015,University of Sunderland,15.8,63.0,6.0
+Student-staff ratio,15.8,2015,University of Sunderland,15.8,63.0,5.0
 Student-staff ratio,18.7,2015,Bath Spa University,18.7,109.0,2.0
 Student-staff ratio,16.2,2015,University of Salford,16.2,73.0,5.0
 Student-staff ratio,18.8,2015,Cardiff Metropolitan University,18.8,111.0,2.0
-Student-staff ratio,15.8,2015,Bucks New University,15.8,63.0,6.0
+Student-staff ratio,15.8,2015,Bucks New University,15.8,63.0,5.0
 Student-staff ratio,15.6,2015,University of South Wales,15.6,59.0,6.0
 Student-staff ratio,14.5,2015,Newman University,14.5,33.0,8.0
 Student-staff ratio,16.8,2015,University of Northampton,16.8,81.0,4.0
@@ -8192,7 +8192,7 @@ Student-staff ratio,18.5,2015,Anglia Ruskin University,18.5,106.0,2.0
 Student-staff ratio,16.8,2015,University of Cumbria,16.8,81.0,4.0
 Student-staff ratio,18.5,2015,University of Brighton,18.5,106.0,2.0
 Student-staff ratio,19.3,2015,Leeds Beckett University,19.3,113.0,1.0
-Student-staff ratio,18.0,2015,University of Wolverhampton,18.0,100.0,3.0
+Student-staff ratio,18.0,2015,University of Wolverhampton,18.0,100.0,2.0
 Student-staff ratio,14.2,2015,University of Bolton,14.2,27.0,8.0
 Student-staff ratio,17.8,2015,London Metropolitan University,17.8,95.0,3.0
 Student-staff ratio,18.9,2015,University of East London,18.9,112.0,2.0
@@ -8236,7 +8236,7 @@ Student-staff ratio,15.9,2016,"Queen's University, Belfast",15.9,71.0,5.0
 Student-staff ratio,19.5,2016,University of Strathclyde,19.5,120.0,1.0
 Student-staff ratio,15.9,2016,University of Essex,15.9,71.0,5.0
 Student-staff ratio,15.8,2016,University of Reading,15.8,66.0,6.0
-Student-staff ratio,15.8,2016,University of Sussex,15.8,66.0,6.0
+Student-staff ratio,15.8,2016,University of Sussex,15.8,66.0,5.0
 Student-staff ratio,14.5,2016,Nottingham Trent University,14.5,36.0,8.0
 Student-staff ratio,14.0,2016,University of Leicester,14.0,26.0,9.0
 Student-staff ratio,12.9,2016,University for the Creative Arts,12.9,13.0,10.0
@@ -8284,33 +8284,33 @@ Student-staff ratio,20.4,2016,Robert Gordon University,20.4,126.0,1.0
 Student-staff ratio,17.4,2016,University of Greenwich,17.4,95.0,3.0
 Student-staff ratio,16.0,2016,"St Mary's University, Twickenham",16.0,73.0,5.0
 Student-staff ratio,15.6,2016,London South Bank University,15.6,62.0,6.0
-Student-staff ratio,18.0,2016,Teesside University,18.0,104.0,3.0
+Student-staff ratio,18.0,2016,Teesside University,18.0,104.0,2.0
 Student-staff ratio,16.0,2016,University of Hertfordshire,16.0,73.0,5.0
 Student-staff ratio,15.6,2016,Solent University,15.6,62.0,6.0
 Student-staff ratio,20.9,2016,Royal Agricultural University,20.9,127.0,1.0
 Student-staff ratio,14.5,2016,University of Derby,14.5,36.0,8.0
-Student-staff ratio,15.8,2016,University of Buckingham,15.8,66.0,6.0
-Student-staff ratio,17.2,2016,University of Worcester,17.2,92.0,4.0
+Student-staff ratio,15.8,2016,University of Buckingham,15.8,66.0,5.0
+Student-staff ratio,17.2,2016,University of Worcester,17.2,92.0,3.0
 Student-staff ratio,17.0,2016,Bournemouth University,17.0,89.0,4.0
 Student-staff ratio,18.7,2016,University of Gloucestershire,18.7,113.0,2.0
 Student-staff ratio,17.9,2016,Birmingham City University,17.9,102.0,3.0
 Student-staff ratio,20.2,2016,Glasgow Caledonian University,20.2,124.0,1.0
 Student-staff ratio,19.6,2016,Abertay University,19.6,121.0,1.0
 Student-staff ratio,16.4,2016,University of Winchester,16.4,81.0,4.0
-Student-staff ratio,18.0,2016,Brunel University London,18.0,104.0,3.0
+Student-staff ratio,18.0,2016,Brunel University London,18.0,104.0,2.0
 Student-staff ratio,17.9,2016,Edinburgh Napier University,17.9,102.0,3.0
 Student-staff ratio,22.2,2016,Plymouth Marjon University,22.2,129.0,1.0
-Student-staff ratio,15.2,2016,University of Wales Trinity St David,15.2,53.0,7.0
+Student-staff ratio,15.2,2016,University of Wales Trinity St David,15.2,53.0,6.0
 Student-staff ratio,20.2,2016,Bishop Grosseteste University,20.2,124.0,1.0
-Student-staff ratio,17.2,2016,University of Bradford,17.2,92.0,4.0
+Student-staff ratio,17.2,2016,University of Bradford,17.2,92.0,3.0
 Student-staff ratio,16.6,2016,Kingston University,16.6,83.0,4.0
 Student-staff ratio,16.7,2016,Middlesex University,16.7,84.0,4.0
 Student-staff ratio,22.4,2016,University of the West of Scotland,22.4,130.0,1.0
-Student-staff ratio,15.8,2016,University of Sunderland,15.8,66.0,6.0
+Student-staff ratio,15.8,2016,University of Sunderland,15.8,66.0,5.0
 Student-staff ratio,18.7,2016,Bath Spa University,18.7,113.0,2.0
 Student-staff ratio,16.2,2016,University of Salford,16.2,77.0,5.0
 Student-staff ratio,18.8,2016,Cardiff Metropolitan University,18.8,115.0,2.0
-Student-staff ratio,15.8,2016,Bucks New University,15.8,66.0,6.0
+Student-staff ratio,15.8,2016,Bucks New University,15.8,66.0,5.0
 Student-staff ratio,15.6,2016,University of South Wales,15.6,62.0,6.0
 Student-staff ratio,14.5,2016,Newman University,14.5,36.0,8.0
 Student-staff ratio,16.8,2016,University of Northampton,16.8,85.0,4.0
@@ -8320,8 +8320,8 @@ Student-staff ratio,19.3,2016,University of Westminster,19.3,118.0,2.0
 Student-staff ratio,18.5,2016,Anglia Ruskin University,18.5,110.0,2.0
 Student-staff ratio,16.8,2016,University of Cumbria,16.8,85.0,4.0
 Student-staff ratio,18.5,2016,University of Brighton,18.5,110.0,2.0
-Student-staff ratio,19.3,2016,Leeds Beckett University,19.3,118.0,2.0
-Student-staff ratio,18.0,2016,University of Wolverhampton,18.0,104.0,3.0
+Student-staff ratio,19.3,2016,Leeds Beckett University,19.3,118.0,1.0
+Student-staff ratio,18.0,2016,University of Wolverhampton,18.0,104.0,2.0
 Student-staff ratio,14.2,2016,University of Bolton,14.2,30.0,8.0
 Student-staff ratio,17.8,2016,London Metropolitan University,17.8,99.0,3.0
 Student-staff ratio,18.9,2016,University of East London,18.9,117.0,2.0
@@ -8370,7 +8370,7 @@ Student-staff ratio,15.9,2017,"Queen's University, Belfast",15.9,71.0,5.0
 Student-staff ratio,19.5,2017,University of Strathclyde,19.5,120.0,1.0
 Student-staff ratio,15.9,2017,University of Essex,15.9,71.0,5.0
 Student-staff ratio,15.8,2017,University of Reading,15.8,66.0,6.0
-Student-staff ratio,15.8,2017,University of Sussex,15.8,66.0,6.0
+Student-staff ratio,15.8,2017,University of Sussex,15.8,66.0,5.0
 Student-staff ratio,14.5,2017,Nottingham Trent University,14.5,36.0,8.0
 Student-staff ratio,14.0,2017,University of Leicester,14.0,26.0,9.0
 Student-staff ratio,12.9,2017,University for the Creative Arts,12.9,13.0,10.0
@@ -8418,33 +8418,33 @@ Student-staff ratio,20.4,2017,Robert Gordon University,20.4,126.0,1.0
 Student-staff ratio,17.4,2017,University of Greenwich,17.4,95.0,3.0
 Student-staff ratio,16.0,2017,"St Mary's University, Twickenham",16.0,73.0,5.0
 Student-staff ratio,15.6,2017,London South Bank University,15.6,62.0,6.0
-Student-staff ratio,18.0,2017,Teesside University,18.0,104.0,3.0
+Student-staff ratio,18.0,2017,Teesside University,18.0,104.0,2.0
 Student-staff ratio,16.0,2017,University of Hertfordshire,16.0,73.0,5.0
 Student-staff ratio,15.6,2017,Solent University,15.6,62.0,6.0
 Student-staff ratio,20.9,2017,Royal Agricultural University,20.9,127.0,1.0
 Student-staff ratio,14.5,2017,University of Derby,14.5,36.0,8.0
-Student-staff ratio,15.8,2017,University of Buckingham,15.8,66.0,6.0
-Student-staff ratio,17.2,2017,University of Worcester,17.2,92.0,4.0
+Student-staff ratio,15.8,2017,University of Buckingham,15.8,66.0,5.0
+Student-staff ratio,17.2,2017,University of Worcester,17.2,92.0,3.0
 Student-staff ratio,17.0,2017,Bournemouth University,17.0,89.0,4.0
 Student-staff ratio,18.7,2017,University of Gloucestershire,18.7,113.0,2.0
 Student-staff ratio,17.9,2017,Birmingham City University,17.9,102.0,3.0
 Student-staff ratio,20.2,2017,Glasgow Caledonian University,20.2,124.0,1.0
 Student-staff ratio,19.6,2017,Abertay University,19.6,121.0,1.0
 Student-staff ratio,16.4,2017,University of Winchester,16.4,81.0,4.0
-Student-staff ratio,18.0,2017,Brunel University London,18.0,104.0,3.0
+Student-staff ratio,18.0,2017,Brunel University London,18.0,104.0,2.0
 Student-staff ratio,17.9,2017,Edinburgh Napier University,17.9,102.0,3.0
 Student-staff ratio,22.2,2017,Plymouth Marjon University,22.2,129.0,1.0
-Student-staff ratio,15.2,2017,University of Wales Trinity St David,15.2,53.0,7.0
+Student-staff ratio,15.2,2017,University of Wales Trinity St David,15.2,53.0,6.0
 Student-staff ratio,20.2,2017,Bishop Grosseteste University,20.2,124.0,1.0
-Student-staff ratio,17.2,2017,University of Bradford,17.2,92.0,4.0
+Student-staff ratio,17.2,2017,University of Bradford,17.2,92.0,3.0
 Student-staff ratio,16.6,2017,Kingston University,16.6,83.0,4.0
 Student-staff ratio,16.7,2017,Middlesex University,16.7,84.0,4.0
 Student-staff ratio,22.4,2017,University of the West of Scotland,22.4,130.0,1.0
-Student-staff ratio,15.8,2017,University of Sunderland,15.8,66.0,6.0
+Student-staff ratio,15.8,2017,University of Sunderland,15.8,66.0,5.0
 Student-staff ratio,18.7,2017,Bath Spa University,18.7,113.0,2.0
 Student-staff ratio,16.2,2017,University of Salford,16.2,77.0,5.0
 Student-staff ratio,18.8,2017,Cardiff Metropolitan University,18.8,115.0,2.0
-Student-staff ratio,15.8,2017,Bucks New University,15.8,66.0,6.0
+Student-staff ratio,15.8,2017,Bucks New University,15.8,66.0,5.0
 Student-staff ratio,15.6,2017,University of South Wales,15.6,62.0,6.0
 Student-staff ratio,14.5,2017,Newman University,14.5,36.0,8.0
 Student-staff ratio,16.8,2017,University of Northampton,16.8,85.0,4.0
@@ -8454,8 +8454,8 @@ Student-staff ratio,19.3,2017,University of Westminster,19.3,118.0,2.0
 Student-staff ratio,18.5,2017,Anglia Ruskin University,18.5,110.0,2.0
 Student-staff ratio,16.8,2017,University of Cumbria,16.8,85.0,4.0
 Student-staff ratio,18.5,2017,University of Brighton,18.5,110.0,2.0
-Student-staff ratio,19.3,2017,Leeds Beckett University,19.3,118.0,2.0
-Student-staff ratio,18.0,2017,University of Wolverhampton,18.0,104.0,3.0
+Student-staff ratio,19.3,2017,Leeds Beckett University,19.3,118.0,1.0
+Student-staff ratio,18.0,2017,University of Wolverhampton,18.0,104.0,2.0
 Student-staff ratio,14.2,2017,University of Bolton,14.2,30.0,8.0
 Student-staff ratio,17.8,2017,London Metropolitan University,17.8,99.0,3.0
 Student-staff ratio,18.9,2017,University of East London,18.9,117.0,2.0
@@ -8504,7 +8504,7 @@ Student-staff ratio,15.9,2018,"Queen's University, Belfast",15.9,71.0,5.0
 Student-staff ratio,19.5,2018,University of Strathclyde,19.5,120.0,1.0
 Student-staff ratio,15.9,2018,University of Essex,15.9,71.0,5.0
 Student-staff ratio,15.8,2018,University of Reading,15.8,66.0,6.0
-Student-staff ratio,15.8,2018,University of Sussex,15.8,66.0,6.0
+Student-staff ratio,15.8,2018,University of Sussex,15.8,66.0,5.0
 Student-staff ratio,14.5,2018,Nottingham Trent University,14.5,36.0,8.0
 Student-staff ratio,14.0,2018,University of Leicester,14.0,26.0,9.0
 Student-staff ratio,12.9,2018,University for the Creative Arts,12.9,13.0,10.0
@@ -8552,33 +8552,33 @@ Student-staff ratio,20.4,2018,Robert Gordon University,20.4,126.0,1.0
 Student-staff ratio,17.4,2018,University of Greenwich,17.4,95.0,3.0
 Student-staff ratio,16.0,2018,"St Mary's University, Twickenham",16.0,73.0,5.0
 Student-staff ratio,15.6,2018,London South Bank University,15.6,62.0,6.0
-Student-staff ratio,18.0,2018,Teesside University,18.0,104.0,3.0
+Student-staff ratio,18.0,2018,Teesside University,18.0,104.0,2.0
 Student-staff ratio,16.0,2018,University of Hertfordshire,16.0,73.0,5.0
 Student-staff ratio,15.6,2018,Solent University,15.6,62.0,6.0
 Student-staff ratio,20.9,2018,Royal Agricultural University,20.9,127.0,1.0
 Student-staff ratio,14.5,2018,University of Derby,14.5,36.0,8.0
-Student-staff ratio,15.8,2018,University of Buckingham,15.8,66.0,6.0
-Student-staff ratio,17.2,2018,University of Worcester,17.2,92.0,4.0
+Student-staff ratio,15.8,2018,University of Buckingham,15.8,66.0,5.0
+Student-staff ratio,17.2,2018,University of Worcester,17.2,92.0,3.0
 Student-staff ratio,17.0,2018,Bournemouth University,17.0,89.0,4.0
 Student-staff ratio,18.7,2018,University of Gloucestershire,18.7,113.0,2.0
 Student-staff ratio,17.9,2018,Birmingham City University,17.9,102.0,3.0
 Student-staff ratio,20.2,2018,Glasgow Caledonian University,20.2,124.0,1.0
 Student-staff ratio,19.6,2018,Abertay University,19.6,121.0,1.0
 Student-staff ratio,16.4,2018,University of Winchester,16.4,81.0,4.0
-Student-staff ratio,18.0,2018,Brunel University London,18.0,104.0,3.0
+Student-staff ratio,18.0,2018,Brunel University London,18.0,104.0,2.0
 Student-staff ratio,17.9,2018,Edinburgh Napier University,17.9,102.0,3.0
 Student-staff ratio,22.2,2018,Plymouth Marjon University,22.2,129.0,1.0
-Student-staff ratio,15.2,2018,University of Wales Trinity St David,15.2,53.0,7.0
+Student-staff ratio,15.2,2018,University of Wales Trinity St David,15.2,53.0,6.0
 Student-staff ratio,20.2,2018,Bishop Grosseteste University,20.2,124.0,1.0
-Student-staff ratio,17.2,2018,University of Bradford,17.2,92.0,4.0
+Student-staff ratio,17.2,2018,University of Bradford,17.2,92.0,3.0
 Student-staff ratio,16.6,2018,Kingston University,16.6,83.0,4.0
 Student-staff ratio,16.7,2018,Middlesex University,16.7,84.0,4.0
 Student-staff ratio,22.4,2018,University of the West of Scotland,22.4,130.0,1.0
-Student-staff ratio,15.8,2018,University of Sunderland,15.8,66.0,6.0
+Student-staff ratio,15.8,2018,University of Sunderland,15.8,66.0,5.0
 Student-staff ratio,18.7,2018,Bath Spa University,18.7,113.0,2.0
 Student-staff ratio,16.2,2018,University of Salford,16.2,77.0,5.0
 Student-staff ratio,18.8,2018,Cardiff Metropolitan University,18.8,115.0,2.0
-Student-staff ratio,15.8,2018,Bucks New University,15.8,66.0,6.0
+Student-staff ratio,15.8,2018,Bucks New University,15.8,66.0,5.0
 Student-staff ratio,15.6,2018,University of South Wales,15.6,62.0,6.0
 Student-staff ratio,14.5,2018,Newman University,14.5,36.0,8.0
 Student-staff ratio,16.8,2018,University of Northampton,16.8,85.0,4.0
@@ -8588,8 +8588,8 @@ Student-staff ratio,19.3,2018,University of Westminster,19.3,118.0,2.0
 Student-staff ratio,18.5,2018,Anglia Ruskin University,18.5,110.0,2.0
 Student-staff ratio,16.8,2018,University of Cumbria,16.8,85.0,4.0
 Student-staff ratio,18.5,2018,University of Brighton,18.5,110.0,2.0
-Student-staff ratio,19.3,2018,Leeds Beckett University,19.3,118.0,2.0
-Student-staff ratio,18.0,2018,University of Wolverhampton,18.0,104.0,3.0
+Student-staff ratio,19.3,2018,Leeds Beckett University,19.3,118.0,1.0
+Student-staff ratio,18.0,2018,University of Wolverhampton,18.0,104.0,2.0
 Student-staff ratio,14.2,2018,University of Bolton,14.2,30.0,8.0
 Student-staff ratio,17.8,2018,London Metropolitan University,17.8,99.0,3.0
 Student-staff ratio,18.9,2018,University of East London,18.9,117.0,2.0
@@ -8635,7 +8635,7 @@ Student-staff ratio,15.9,2019,"Queen's University, Belfast",15.9,71.0,5.0
 Student-staff ratio,19.5,2019,University of Strathclyde,19.5,120.0,1.0
 Student-staff ratio,15.9,2019,University of Essex,15.9,71.0,5.0
 Student-staff ratio,15.8,2019,University of Reading,15.8,66.0,6.0
-Student-staff ratio,15.8,2019,University of Sussex,15.8,66.0,6.0
+Student-staff ratio,15.8,2019,University of Sussex,15.8,66.0,5.0
 Student-staff ratio,14.5,2019,Nottingham Trent University,14.5,36.0,8.0
 Student-staff ratio,14.0,2019,University of Leicester,14.0,26.0,9.0
 Student-staff ratio,12.9,2019,University for the Creative Arts,12.9,13.0,10.0
@@ -8683,33 +8683,33 @@ Student-staff ratio,20.4,2019,Robert Gordon University,20.4,126.0,1.0
 Student-staff ratio,17.4,2019,University of Greenwich,17.4,95.0,3.0
 Student-staff ratio,16.0,2019,"St Mary's University, Twickenham",16.0,73.0,5.0
 Student-staff ratio,15.6,2019,London South Bank University,15.6,62.0,6.0
-Student-staff ratio,18.0,2019,Teesside University,18.0,104.0,3.0
+Student-staff ratio,18.0,2019,Teesside University,18.0,104.0,2.0
 Student-staff ratio,16.0,2019,University of Hertfordshire,16.0,73.0,5.0
 Student-staff ratio,15.6,2019,Solent University,15.6,62.0,6.0
 Student-staff ratio,20.9,2019,Royal Agricultural University,20.9,127.0,1.0
 Student-staff ratio,14.5,2019,University of Derby,14.5,36.0,8.0
-Student-staff ratio,15.8,2019,University of Buckingham,15.8,66.0,6.0
-Student-staff ratio,17.2,2019,University of Worcester,17.2,92.0,4.0
+Student-staff ratio,15.8,2019,University of Buckingham,15.8,66.0,5.0
+Student-staff ratio,17.2,2019,University of Worcester,17.2,92.0,3.0
 Student-staff ratio,17.0,2019,Bournemouth University,17.0,89.0,4.0
 Student-staff ratio,18.7,2019,University of Gloucestershire,18.7,113.0,2.0
 Student-staff ratio,17.9,2019,Birmingham City University,17.9,102.0,3.0
 Student-staff ratio,20.2,2019,Glasgow Caledonian University,20.2,124.0,1.0
 Student-staff ratio,19.6,2019,Abertay University,19.6,121.0,1.0
 Student-staff ratio,16.4,2019,University of Winchester,16.4,81.0,4.0
-Student-staff ratio,18.0,2019,Brunel University London,18.0,104.0,3.0
+Student-staff ratio,18.0,2019,Brunel University London,18.0,104.0,2.0
 Student-staff ratio,17.9,2019,Edinburgh Napier University,17.9,102.0,3.0
 Student-staff ratio,22.2,2019,Plymouth Marjon University,22.2,129.0,1.0
-Student-staff ratio,15.2,2019,University of Wales Trinity St David,15.2,53.0,7.0
+Student-staff ratio,15.2,2019,University of Wales Trinity St David,15.2,53.0,6.0
 Student-staff ratio,20.2,2019,Bishop Grosseteste University,20.2,124.0,1.0
-Student-staff ratio,17.2,2019,University of Bradford,17.2,92.0,4.0
+Student-staff ratio,17.2,2019,University of Bradford,17.2,92.0,3.0
 Student-staff ratio,16.6,2019,Kingston University,16.6,83.0,4.0
 Student-staff ratio,16.7,2019,Middlesex University,16.7,84.0,4.0
 Student-staff ratio,22.4,2019,University of the West of Scotland,22.4,130.0,1.0
-Student-staff ratio,15.8,2019,University of Sunderland,15.8,66.0,6.0
+Student-staff ratio,15.8,2019,University of Sunderland,15.8,66.0,5.0
 Student-staff ratio,18.7,2019,Bath Spa University,18.7,113.0,2.0
 Student-staff ratio,16.2,2019,University of Salford,16.2,77.0,5.0
 Student-staff ratio,18.8,2019,Cardiff Metropolitan University,18.8,115.0,2.0
-Student-staff ratio,15.8,2019,Bucks New University,15.8,66.0,6.0
+Student-staff ratio,15.8,2019,Bucks New University,15.8,66.0,5.0
 Student-staff ratio,15.6,2019,University of South Wales,15.6,62.0,6.0
 Student-staff ratio,14.5,2019,Newman University,14.5,36.0,8.0
 Student-staff ratio,16.8,2019,University of Northampton,16.8,85.0,4.0
@@ -8719,8 +8719,8 @@ Student-staff ratio,19.3,2019,University of Westminster,19.3,118.0,2.0
 Student-staff ratio,18.5,2019,Anglia Ruskin University,18.5,110.0,2.0
 Student-staff ratio,16.8,2019,University of Cumbria,16.8,85.0,4.0
 Student-staff ratio,18.5,2019,University of Brighton,18.5,110.0,2.0
-Student-staff ratio,19.3,2019,Leeds Beckett University,19.3,118.0,2.0
-Student-staff ratio,18.0,2019,University of Wolverhampton,18.0,104.0,3.0
+Student-staff ratio,19.3,2019,Leeds Beckett University,19.3,118.0,1.0
+Student-staff ratio,18.0,2019,University of Wolverhampton,18.0,104.0,2.0
 Student-staff ratio,14.2,2019,University of Bolton,14.2,30.0,8.0
 Student-staff ratio,17.8,2019,London Metropolitan University,17.8,99.0,3.0
 Student-staff ratio,18.9,2019,University of East London,18.9,117.0,2.0
@@ -8766,7 +8766,7 @@ Student-staff ratio,15.9,2020,"Queen's University, Belfast",15.9,71.0,5.0
 Student-staff ratio,19.5,2020,University of Strathclyde,19.5,120.0,1.0
 Student-staff ratio,15.9,2020,University of Essex,15.9,71.0,5.0
 Student-staff ratio,15.8,2020,University of Reading,15.8,66.0,6.0
-Student-staff ratio,15.8,2020,University of Sussex,15.8,66.0,6.0
+Student-staff ratio,15.8,2020,University of Sussex,15.8,66.0,5.0
 Student-staff ratio,14.5,2020,Nottingham Trent University,14.5,36.0,8.0
 Student-staff ratio,14.0,2020,University of Leicester,14.0,26.0,9.0
 Student-staff ratio,12.9,2020,University for the Creative Arts,12.9,13.0,10.0
@@ -8814,33 +8814,33 @@ Student-staff ratio,20.4,2020,Robert Gordon University,20.4,126.0,1.0
 Student-staff ratio,17.4,2020,University of Greenwich,17.4,95.0,3.0
 Student-staff ratio,16.0,2020,"St Mary's University, Twickenham",16.0,73.0,5.0
 Student-staff ratio,15.6,2020,London South Bank University,15.6,62.0,6.0
-Student-staff ratio,18.0,2020,Teesside University,18.0,104.0,3.0
+Student-staff ratio,18.0,2020,Teesside University,18.0,104.0,2.0
 Student-staff ratio,16.0,2020,University of Hertfordshire,16.0,73.0,5.0
 Student-staff ratio,15.6,2020,Solent University,15.6,62.0,6.0
 Student-staff ratio,20.9,2020,Royal Agricultural University,20.9,127.0,1.0
 Student-staff ratio,14.5,2020,University of Derby,14.5,36.0,8.0
-Student-staff ratio,15.8,2020,University of Buckingham,15.8,66.0,6.0
-Student-staff ratio,17.2,2020,University of Worcester,17.2,92.0,4.0
+Student-staff ratio,15.8,2020,University of Buckingham,15.8,66.0,5.0
+Student-staff ratio,17.2,2020,University of Worcester,17.2,92.0,3.0
 Student-staff ratio,17.0,2020,Bournemouth University,17.0,89.0,4.0
 Student-staff ratio,18.7,2020,University of Gloucestershire,18.7,113.0,2.0
 Student-staff ratio,17.9,2020,Birmingham City University,17.9,102.0,3.0
 Student-staff ratio,20.2,2020,Glasgow Caledonian University,20.2,124.0,1.0
 Student-staff ratio,19.6,2020,Abertay University,19.6,121.0,1.0
 Student-staff ratio,16.4,2020,University of Winchester,16.4,81.0,4.0
-Student-staff ratio,18.0,2020,Brunel University London,18.0,104.0,3.0
+Student-staff ratio,18.0,2020,Brunel University London,18.0,104.0,2.0
 Student-staff ratio,17.9,2020,Edinburgh Napier University,17.9,102.0,3.0
 Student-staff ratio,22.2,2020,Plymouth Marjon University,22.2,129.0,1.0
-Student-staff ratio,15.2,2020,University of Wales Trinity St David,15.2,53.0,7.0
+Student-staff ratio,15.2,2020,University of Wales Trinity St David,15.2,53.0,6.0
 Student-staff ratio,20.2,2020,Bishop Grosseteste University,20.2,124.0,1.0
-Student-staff ratio,17.2,2020,University of Bradford,17.2,92.0,4.0
+Student-staff ratio,17.2,2020,University of Bradford,17.2,92.0,3.0
 Student-staff ratio,16.6,2020,Kingston University,16.6,83.0,4.0
 Student-staff ratio,16.7,2020,Middlesex University,16.7,84.0,4.0
 Student-staff ratio,22.4,2020,University of the West of Scotland,22.4,130.0,1.0
-Student-staff ratio,15.8,2020,University of Sunderland,15.8,66.0,6.0
+Student-staff ratio,15.8,2020,University of Sunderland,15.8,66.0,5.0
 Student-staff ratio,18.7,2020,Bath Spa University,18.7,113.0,2.0
 Student-staff ratio,16.2,2020,University of Salford,16.2,77.0,5.0
 Student-staff ratio,18.8,2020,Cardiff Metropolitan University,18.8,115.0,2.0
-Student-staff ratio,15.8,2020,Bucks New University,15.8,66.0,6.0
+Student-staff ratio,15.8,2020,Bucks New University,15.8,66.0,5.0
 Student-staff ratio,15.6,2020,University of South Wales,15.6,62.0,6.0
 Student-staff ratio,14.5,2020,Newman University,14.5,36.0,8.0
 Student-staff ratio,16.8,2020,University of Northampton,16.8,85.0,4.0
@@ -8850,8 +8850,8 @@ Student-staff ratio,19.3,2020,University of Westminster,19.3,118.0,2.0
 Student-staff ratio,18.5,2020,Anglia Ruskin University,18.5,110.0,2.0
 Student-staff ratio,16.8,2020,University of Cumbria,16.8,85.0,4.0
 Student-staff ratio,18.5,2020,University of Brighton,18.5,110.0,2.0
-Student-staff ratio,19.3,2020,Leeds Beckett University,19.3,118.0,2.0
-Student-staff ratio,18.0,2020,University of Wolverhampton,18.0,104.0,3.0
+Student-staff ratio,19.3,2020,Leeds Beckett University,19.3,118.0,1.0
+Student-staff ratio,18.0,2020,University of Wolverhampton,18.0,104.0,2.0
 Student-staff ratio,14.2,2020,University of Bolton,14.2,30.0,8.0
 Student-staff ratio,17.8,2020,London Metropolitan University,17.8,99.0,3.0
 Student-staff ratio,18.9,2020,University of East London,18.9,117.0,2.0
