@@ -48,28 +48,39 @@ def clean_data(data):
     Rename columns, tidy metric names, add numerical values
     """
     data.rename({"name": "Institution", "location": "Location"}, axis=1, inplace=True)
-    metrics = ["scores_citations", "scores_industry_income", "scores_international_outlook", "scores_overall", "scores_research", "scores_teaching"]
+    metrics = ["scores_citations", "scores_industry_income", "scores_international_outlook", "scores_overall", "scores_research", "scores_teaching", "rank"]
     data = data.copy().loc[data["Metric"].isin(metrics)]
     data["Metric"] = data["Metric"].apply(lambda x: " ".join([w.capitalize() for w in x.replace("scores_", "").split("_")]))
     data["Value"] = data["Value"].astype(str).str.replace("\u2013", "-", regex=False)
     data["Value"] = data["Value"].astype(str).str.replace("\u2014", "-", regex=False)
-    data["Numeric Value"] = pd.to_numeric(data["Value"], errors="coerce") # Coerce will turn blanks to NaNs
-    return data
+    data.drop_duplicates(inplace=True)
+    overall_ranks = data.copy().loc[data["Metric"] == "Rank", ["Institution", "Value", "Year"]]
+    overall_ranks.rename({"Value": "Rank"}, axis=1, inplace=True)
+    overall_ranks["Metric"] = "Overall"
+    overall_ranks["Rank"] = overall_ranks["Rank"].str.extract("(\d+)", expand=False) # Get first number i.e. '501' from '501-510'
+    data = data.loc[data["Metric"] != "Rank"]
+    data["Numeric Value"] = pd.to_numeric(data["Value"].str.extract("([\d.]+)", expand=False), errors="coerce") # Also capture lowest score from banded 'Overall' scores
+    return data, overall_ranks
 
-def rank_metrics(data):
+def rank_metrics(data, overall_ranks):
     """
     Calculate rank and decile for each metric by year
     """
     data["Rank"] = data.groupby(["Year", "Metric"])["Numeric Value"].rank(ascending=False, method="min")
-    data["Decile"] = data.groupby(["Year", "Metric"])["Numeric Value"].transform(
+    data.loc[data["Metric"] != "Overall", "Decile"] = data.loc[data["Metric"] != "Overall"].groupby(["Year", "Metric"])["Numeric Value"].transform(
         lambda x: pd.qcut(x.rank(method="first"), 10, labels=range(1,11)) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
     )
-    return data
+    data.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
+    overall_ranks.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
+    data.drop_duplicates(inplace=True)
+    overall_ranks.drop_duplicates(inplace=True)
+    data.update(overall_ranks)
+    return data.reset_index()
 
 years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
 fetch_json(years)
 json_to_csv(years)
 data = concat_data(years)
-data = clean_data(data)
-data = rank_metrics(data)
+data, overall_ranks = clean_data(data)
+data = rank_metrics(data, overall_ranks)
 data.to_csv("THE WUR Institutional.csv", index=False) # Save final CSV to disk

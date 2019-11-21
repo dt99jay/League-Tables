@@ -54,27 +54,36 @@ def clean_data(data):
     Rename columns, tidy metric names, add numerical values
     """
     data.rename({"UNIVERSITY": "Institution", "LOCATION": "Location", "REGION": "Region"}, axis=1, inplace=True)
-    metrics = ["Academic Reputation", "Employer Reputation", "Faculty Student", "International Faculty", "International Students", "Citations per Faculty", "OVERALL SCORE"]
+    metrics = ["Academic Reputation", "Employer Reputation", "Faculty Student", "International Faculty", "International Students", "Citations per Faculty", "OVERALL SCORE", "# RANK.1"]
     data = data.copy().loc[data["Metric"].isin(metrics)]
     data["Institution"] = data["Institution"].apply(lambda x: BeautifulSoup(x, "lxml").get_text())
     data["Value"] = data["Value"].apply(lambda x: BeautifulSoup(x, "lxml").get_text() if type(x) is str else x)
+    data.drop_duplicates(inplace=True)
+    overall_ranks = data.copy().loc[data["Metric"] == "# RANK.1", ["Institution", "Value", "Year"]]
+    overall_ranks.rename({"Value": "Rank"}, axis=1, inplace=True)
+    overall_ranks["Metric"] = "OVERALL SCORE"
+    overall_ranks["Rank"] = overall_ranks["Rank"].str.extract("(\d+)", expand=False) # Get first number i.e. '501' from '501-510'
+    data = data.loc[data["Metric"] != "# RANK.1"]
     data["Numeric Value"] = pd.to_numeric(data["Value"], errors="coerce") # Coerce will turn blanks to NaNs
-    return data
+    return data, overall_ranks
 
-def rank_metrics(data):
+def rank_metrics(data, overall_ranks):
     """
     Calculate rank and decile for each metric by year
     """
     data["Rank"] = data.groupby(["Year", "Metric"])["Numeric Value"].rank(ascending=False, method="min")
-    data["Decile"] = data.groupby(["Year", "Metric"])["Numeric Value"].transform(
+    data.loc[data["Metric"] != "OVERALL SCORE", "Decile"] = data.loc[data["Metric"] != "OVERALL SCORE"].groupby(["Year", "Metric"])["Numeric Value"].transform(
         lambda x: pd.qcut(x.rank(method="first"), 10, labels=range(1,11)) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
     )
-    return data
+    data.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
+    overall_ranks.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
+    data.update(overall_ranks)
+    return data.reset_index()
 
 years = [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
 fetch_json(years)
 json_to_csv(years)
 data = concat_data(years)
-data = clean_data(data)
-data = rank_metrics(data)
+data, overall_ranks = clean_data(data)
+data = rank_metrics(data, overall_ranks)
 data.to_csv("QS WUR Institutional.csv", index=False) # Save final CSV to disk
