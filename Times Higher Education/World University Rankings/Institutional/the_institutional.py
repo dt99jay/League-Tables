@@ -12,12 +12,13 @@ def fetch_json(years):
         os.makedirs("JSON")
     for year in years:
         url = "https://www.timeshighereducation.com/world-university-rankings"
-        r = requests.get("{}/{}/world-ranking".format(url, year))
+        r = requests.get("{}/{}/world-ranking".format(url, year), headers = {"User-Agent": None}) # U-A required to avoid 403
         json_url = re.search("world_university_rankings_[\w]*\.json", r.text).group(0)
         url = "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/"
-        r = requests.get(url + json_url)
-        with open(os.path.join("JSON", "{}.json".format(year)), "w") as f:
-            json.dump(r.json(), f)
+        r = requests.get(url + json_url, headers = {"User-Agent": None})
+        if r:
+            with open(os.path.join("JSON", "{}.json".format(year)), "w") as f:
+                json.dump(r.json(), f)
 
 def json_to_csv(years):
     """
@@ -54,7 +55,7 @@ def clean_data(data):
     data["Value"] = data["Value"].astype(str).str.replace("\u2013", "-", regex=False)
     data["Value"] = data["Value"].astype(str).str.replace("\u2014", "-", regex=False)
     data.drop_duplicates(inplace=True)
-    overall_ranks = data.copy().loc[data["Metric"] == "Rank", ["Institution", "Value", "Year"]]
+    overall_ranks = data.copy().loc[data["Metric"] == "Rank", ["Location", "Institution", "Value", "Year"]]
     overall_ranks.rename({"Value": "Rank"}, axis=1, inplace=True)
     overall_ranks["Metric"] = "Overall"
     overall_ranks["Rank"] = overall_ranks["Rank"].str.extract("(\d+)", expand=False) # Get first number i.e. '501' from '501-510'
@@ -70,10 +71,8 @@ def rank_metrics(data, overall_ranks):
     data.loc[data["Metric"] != "Overall", "Decile"] = data.loc[data["Metric"] != "Overall"].groupby(["Year", "Metric"])["Numeric Value"].transform(
         lambda x: pd.qcut(x.rank(method="first"), 10, labels=range(1,11)) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
     )
-    data.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
-    overall_ranks.set_index(keys=["Institution", "Year", "Metric"], inplace=True)
-    data.drop_duplicates(inplace=True)
-    overall_ranks.drop_duplicates(inplace=True)
+    data.set_index(keys=["Location", "Institution", "Year", "Metric"], inplace=True)
+    overall_ranks.set_index(keys=["Location", "Institution", "Year", "Metric"], inplace=True)
     data.update(overall_ranks)
     return data.reset_index()
 

@@ -5,7 +5,7 @@ import json
 import glob
 import pandas as pd
 
-def fetch_json(years, subjects):
+def fetch_json(years):
     """
     Fetch league table as JSON files for each year and subject & save to disk
     """
@@ -32,8 +32,9 @@ def fetch_json(years, subjects):
             if json_url:
                 url = "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/"
                 r = requests.get(url + json_url.group(1), headers = {"User-Agent": None})
-                with open(os.path.join("JSON", str(year), "{}.json".format(subject_name)), "w") as f:
-                    json.dump(r.json(), f)
+                if r:
+                    with open(os.path.join("JSON", str(year), "{}.json".format(subject_name)), "w") as f:
+                        json.dump(r.json(), f)
 
 def json_to_csv(years):
     """
@@ -74,17 +75,17 @@ def clean_data(data):
     data["Value"] = data["Value"].astype(str).str.replace("\u2013", "-", regex=False)
     data["Value"] = data["Value"].astype(str).str.replace("\u2014", "-", regex=False)
     data.drop_duplicates(inplace=True)
-    overall_ranks = data.copy().loc[data["Metric"] == "Rank", ["Institution", "Subject", "Value", "Year"]]
+    overall_ranks = data.copy().loc[data["Metric"] == "Rank", ["Location", "Institution", "Subject", "Value", "Year"]]
     overall_ranks.rename({"Value": "Rank"}, axis=1, inplace=True)
     overall_ranks["Metric"] = "Overall"
     overall_ranks["Rank"] = overall_ranks["Rank"].str.extract("(\d+)", expand=False) # Get first number i.e. '501' from '501-510'
     data = data.loc[data["Metric"] != "Rank"]
     data["Numeric Value"] = data["Value"].astype(str)
-    data["Numeric Value"] = data["Numeric Value"].astype(str).str.replace("-", "", regex=False)
-    data["Numeric Value"] = pd.to_numeric(data["Value"].str.extract("([\d.]+)", expand=False), errors="coerce") # Also capture lowest score from banded 'Overall' scores
+    data["Numeric Value"] = data["Numeric Value"].str.extract("([\d.]+)", expand=False) # Also capture lowest score from banded 'Overall' scores
+    data["Numeric Value"] = pd.to_numeric(data["Numeric Value"], errors="coerce")
     return data, overall_ranks
 
-def rank_metrics(data):
+def rank_metrics(data, overall_ranks):
     """
     Calculate rank and decile for each metric by year
     """
@@ -92,10 +93,8 @@ def rank_metrics(data):
     data.loc[data["Metric"] != "Overall", "Decile"] = data.loc[data["Metric"] != "Overall"].groupby(["Year", "Subject", "Metric"])["Numeric Value"].transform(
         lambda x: pd.qcut(x.rank(method="first"), 10, labels=range(1,11)) # Calculate deciles on ranked data to avoid duplicate bin edges as https://stackoverflow.com/a/40548606/2950747
     )
-    data.set_index(keys=["Institution", "Subject", "Year", "Metric"], inplace=True)
-    overall_ranks.set_index(keys=["Institution", "Subject", "Year", "Metric"], inplace=True)
-    data.drop_duplicates(inplace=True)
-    overall_ranks.drop_duplicates(inplace=True)
+    data.set_index(keys=["Location", "Institution", "Subject", "Year", "Metric"], inplace=True)
+    overall_ranks.set_index(keys=["Location", "Institution", "Subject", "Year", "Metric"], inplace=True)
     data.update(overall_ranks)
     return data.reset_index()
 
@@ -104,5 +103,5 @@ fetch_json(years)
 json_to_csv(years)
 data = concat_data(years)
 data, overall_ranks = clean_data(data)
-data = rank_metrics(data)
+data = rank_metrics(data, overall_ranks)
 data.to_csv("THE WUR Subjects.csv", index=False) # Save final CSV to disk
