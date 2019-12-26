@@ -16,7 +16,32 @@ You'll need Python 3 with Requests, Pandas and Beautiful Soup installed. Run the
 python3 times_institutional.py
 ```
 
-Each script will create a JSON folder, a CSV folder and a larger CSV file. The larger CSV file contains the final data. The JSON and CSV folders and contents are an interim step and can be deleted if you don't need them.
+Most of the scripts create folders for source and intermediate JSON and CSV files (which can be deleted if not required) as well as a larger CSV file (named e.g. 'THE WUR Institutional.csv'). The larger CSV file contains the final data.
+
+### League tables, source data and years
+
+#### UK League Tables
+
+| Publisher | League Tables | Source | Available Years
+| --- | --- | --- | --- |
+| Complete University Guide | Institutional and subject | CUG Website | 2009 onwards |
+| Guardian | Institutional and subject | Published spreadsheets | 2010 onwards |
+| Times and Sunday Times | Institutional and subject | Times Website | 2014 onwards |
+
+#### International League Tables
+
+| Publisher | League Tables | Source | Available Years
+| --- | --- | --- | --- |
+| Times Higher Education | WUR Institutional and subject | THE Website | 2011 onwards |
+| QS | WUR Institutional and subject | QS Website | 2012 onwards |
+
+### UKPRNs
+
+A separate script is available to add UKPRN (UK Provider Reference Number) and consistent name to each institution to aid analysis over time. This also allows ranks to be calculated within groups (e.g. rank within the Russell Group or N8 for specific metrics).
+
+Example files are included with Russell Group rank.
+
+(Be careful if grouping/pivoting by UKPRN on its own, as mergers have occured so more than one institution's results might be collected together e.g. University of Glamorgan and University of Wales, Newport are both collected under the University of South Wales' UKPRN.)
 
 ### Caveats
 
