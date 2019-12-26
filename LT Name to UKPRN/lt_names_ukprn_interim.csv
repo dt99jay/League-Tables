@@ -1,0 +1,422 @@
+LT Name,Matches,Matched UKPRNs,Index
+Oxford,"['oxford', 'oxford brookes']","[10007774, 10004930]",0
+Cambridge,"['cambridge', 'cumbria']","[10007788, 10007842]",0
+London School of Economics,"['london school of economics & political science', 'london school of hygiene and tropical medicine', 'northern school of contemporary dance']","[10004063, 10007771, 10008816]",0
+Imperial College,"['writtle college', 'heythrop college', 'birkbeck college']","[10007657, 10007765, 10007760]",0
+Warwick,['warwick'],[10007163],0
+Durham,['durham'],[10007143],0
+St Andrews,"['st andrews', ""st mary's""]","[10007803, 10008026]",0
+University College London,"['university college london', 'university of london', 'university of west london']","[10007784, 10007797, 10006566]",0
+SOAS University of London,"['university of london', ""st. george's, university of london"", 'university of west london']","[10007797, 10007782, 10006566]",0
+Lancaster,"['lancaster', 'manchester', 'ulster']","[10007768, 10007798, 10007807]",0
+York,['york'],[10007167],0
+Leicester,"['leicester', 'chester', 'winchester']","[10007796, 10007848, 10003614]",0
+Loughborough,"['loughborough university', 'loughborough']","[10004113, 10004113]",0
+Bath,"['bath ()', 'bath spa']","[10007850, 10000571]",0
+King's College London,"[""king's college london"", 'university college london', ""king's london""]","[10003645, 10007784, 10003645]",0
+Nottingham,"['nottingham,', 'nottingham trent', 'buckingham']","[10007154, 10004797, 10007787]",0
+Glasgow,"['glasgow', 'glasgow art.']","[10007794, 10002681]",0
+Bristol,"['bristol', 'brighton']","[10007786, 10000886]",0
+Exeter,"['exeter', 'leicester', 'chester']","[10007792, 10007796, 10007848]",0
+Southampton,"['university of southampton', 'southampton', 'northampton,', 'roehampton']","[10007158, 10007158, 10007138, 10007776]",0
+Edinburgh,"['edinburgh', 'edinburgh napier', 'reading']","[10007790, 10007772, 10007802]",0
+"Royal Holloway, University of London","['queen mary university of london', 'university of london', ""st. george's, university of london""]","[10007775, 10007797, 10007782]",0
+Aston,"['aston', 'east london', 'kingston']","[10007759, 10007144, 10003678]",0
+Birmingham,"['birmingham', 'birmingham', 'birmingham city']","[10000712, 10000712, 10007140]",0
+Essex,"['essex', 'sussex', 'teesside']","[10007791, 10007806, 10007161]",0
+Sheffield,"['sheffield', 'sheffield hallam', 'huddersfield']","[10007157, 10005790, 10007148]",0
+Newcastle,"['newcastle university', 'newcastle', 'lancaster', 'northumbria newcastle']","[10007799, 10007799, 10007768, 10001282]",0
+Manchester,"['manchester', 'chester', 'winchester']","[10007798, 10007848, 10003614]",0
+Sussex,"['sussex', 'essex']","[10007806, 10007791]",0
+Surrey,['surrey'],[10007160],0
+Strathclyde,"['university of strathclyde', 'strathclyde']","[10007805, 10007805]",0
+Leeds,"['leeds', 'leeds art', 'leeds music']","[10007795, 10003854, 10034449]",0
+East Anglia (UEA),['east anglia'],[10007789],0
+"Queen's, Belfast","[""queen's university of belfast"", ""queen's belfast""]","[10005343, 10005343]",0
+Kent,['kent'],[10007150],0
+Stirling,['stirling'],[10007804],0
+Cardiff,['cardiff'],[10007814],0
+Reading,"['reading', 'edinburgh']","[10007802, 10007790]",0
+Aberdeen,"['aberdeen', 'abertay dundee']","[10007783, 10007849]",0
+Keele,['keele'],[10007767],0
+Brunel University London,"['brunel university', 'university of london', 'queen mary university of london']","[10000961, 10007797, 10007775]",0
+Liverpool,"['liverpool', 'liverpool hope', 'liverpool john moores']","[10006842, 10003956, 10003957]",0
+"Queen Mary, University of London","['queen mary university of london', 'university of london', ""st. george's, university of london"", 'queen mary london']","[10007775, 10007797, 10007782, 10007775]",0
+Goldsmiths College,"[""goldsmiths' college"", 'writtle college', ""goldsmiths'""]","[10002718, 10007657, 10002718]",0
+Aberystwyth,"['prifysgol aberystwyth', 'prifysgol aberystwyth']","[10007856, 10007856]",0
+"City, University of London","['university of london', 'university of west london', 'university of east london']","[10007797, 10006566, 10007144]",0
+Swansea,['swansea'],[10007855],0
+Hull,['hull'],[10007149],0
+Heriot-Watt,"['heriot-watt university', 'heriot-watt']","[10007764, 10007764]",0
+Bradford,"['bradford', 'salford,', 'rose bruford']","[10007785, 10007156, 10005523]",0
+Ulster,"['ulster', 'leicester', 'lancaster']","[10007807, 10007796, 10007768]",0
+Dundee,"['dundee', 'abertay dundee']","[10007852, 10007849]",0
+Nottingham Trent,"['nottingham trent university', 'nottingham trent', 'nottingham,']","[10004797, 10004797, 10007154]",0
+Hertfordshire,"['university of hertfordshire', 'university of bedfordshire', 'hertfordshire', 'bedfordshire', 'staffordshire']","[10007147, 10007152, 10007147, 10007152, 10006299]",0
+University of the Arts London,"['university of the arts, london', 'university of east london', 'university of west london']","[10007162, 10007144, 10006566]",0
+Bangor,['bangor'],[10007857],0
+Bournemouth,"['bournemouth university', 'bournemouth', 'arts bournemouth,', 'portsmouth']","[10000824, 10000824, 10000385, 10007155]",0
+Gloucestershire,"['university of gloucestershire', 'gloucestershire']","[10007145, 10007145]",0
+Oxford Brookes,"['oxford brookes university', 'oxford brookes', 'oxford']","[10004930, 10004930, 10007774]",0
+Portsmouth,"['portsmouth', 'plymouth', 'bournemouth']","[10007155, 10007801, 10000824]",0
+Robert Gordon,"['the robert gordon university', 'robert gordon']","[10005500, 10005500]",0
+West of Scotland,"['university of the west of scotland', 'university of sunderland', 'university of st andrews', 'west scotland']","[10007800, 10007159, 10007803, 10007800]",0
+Central Lancashire,"['university of central lancashire', 'central lancashire']","[10007141, 10007141]",0
+De Montfort,"['de montfort university', 'de montfort']","[10001883, 10001883]",0
+"UWIC, Cardiff",['cardiff'],[10007814],0
+West of England,"['university of sunderland', 'university of east anglia', 'west scotland', 'west england, bristol', 'west london']","[10007159, 10007789, 10007800, 10007164, 10006566]",0
+Brighton,"['brighton', 'bristol', 'kingston']","[10000886, 10007786, 10003678]",0
+Abertay Dundee,"['university of abertay dundee', 'university of dundee', 'abertay dundee', 'aberdeen', 'dundee']","[10007849, 10007852, 10007849, 10007783, 10007852]",0
+Birmingham City,"['birmingham city university', 'birmingham city', 'birmingham', 'birmingham']","[10007140, 10007140, 10000712, 10000712]",0
+Plymouth,"['plymouth', 'falmouth', 'portsmouth']","[10007801, 10008640, 10007155]",0
+Chichester,"['chichester', 'chester', 'winchester']","[10007137, 10007848, 10003614]",0
+Salford,"['salford,', 'bradford', 'oxford']","[10007156, 10007785, 10007774]",0
+Northumbria,"['northumbria newcastle', 'cumbria']","[10001282, 10007842]",0
+Winchester,"['winchester', 'chester', 'manchester']","[10003614, 10007848, 10007798]",0
+Bath Spa,"['bath spa', 'bath ()']","[10000571, 10007850]",0
+Queen Margaret,"['queen margaret , edinburgh']",[10005337],0
+Roehampton,"['roehampton university', 'roehampton', 'wolverhampton', 'southampton']","[10007776, 10007776, 10007166, 10007158]",0
+Napier,[],[],0
+Sunderland,['sunderland'],[10007159],0
+Sheffield Hallam,"['sheffield hallam university', 'sheffield hallam', 'sheffield']","[10005790, 10005790, 10007157]",0
+Staffordshire,"['staffordshire university', 'university of bedfordshire', 'university of hertfordshire', 'staffordshire', 'hertfordshire', 'bedfordshire']","[10006299, 10007152, 10007147, 10006299, 10007147, 10007152]",0
+Middlesex,"['middlesex university', 'middlesex']","[10004351, 10004351]",0
+Glamorgan,[],[],0
+"University of Wales, Newport","['university of kent', 'university of st andrews', 'university of leeds']","[10007150, 10007803, 10007795]",0
+Coventry,['coventry'],[10001726],0
+Bedfordshire,"['university of bedfordshire', 'bedfordshire', 'hertfordshire', 'staffordshire']","[10007152, 10007152, 10007147, 10006299]",0
+Buckinghamshire New,"['buckinghamshire new university', 'buckinghamshire new', 'buckingham']","[10000975, 10000975, 10007787]",0
+Manchester Metropolitan,"['manchester metropolitan university', 'swansea metropolitan university', 'manchester metropolitan', 'swansea metropolitan', 'leeds metropolitan']","[10004180, 10007846, 10004180, 10007846, 10003861]",0
+Kingston,"['kingston', ""king's london"", 'brighton']","[10003678, 10003645, 10000886]",0
+Chester,"['chester', 'winchester', 'manchester']","[10007848, 10003614, 10007798]",0
+Canterbury Christ Church,"['canterbury christ church university', 'canterbury christ church']","[10001143, 10001143]",0
+Westminster,"['westminster', 'winchester', 'leicester']","[10007165, 10003614, 10007796]",0
+Worcester,"['worcester,', 'chester', 'winchester']","[10007139, 10007848, 10003614]",0
+Northampton,"['northampton,', 'southampton', 'roehampton']","[10007138, 10007158, 10007776]",0
+Southampton Solent,"['southampton solent university', 'southampton solent', 'southampton', 'northampton,']","[10006022, 10006022, 10007158, 10007138]",0
+Glasgow Caledonian,"['glasgow caledonian university', 'glasgow caledonian', 'glasgow art.']","[10007762, 10007762, 10002681]",0
+York St John,"['york st john university', 'york st john', 'st mark & st john']","[10007713, 10007713, 10037449]",0
+Leeds Metropolitan,"['leeds metropolitan university', 'london metropolitan university', 'leeds metropolitan', 'london metropolitan', 'swansea metropolitan']","[10003861, 10004048, 10003861, 10004048, 10007846]",0
+Lincoln,['lincoln'],[10007151],0
+Liverpool John Moores,"['liverpool john moores university', 'liverpool hope university', 'liverpool john moores', 'liverpool hope', 'liverpool']","[10003957, 10003956, 10003957, 10003956, 10006842]",0
+Lampeter,[],[],0
+Teesside,"['teesside', 'essex']","[10007161, 10007791]",0
+Derby,['derby'],[10007851],0
+Cumbria,"['cumbria', 'cambridge']","[10007842, 10007788]",0
+Huddersfield,"['university of huddersfield', 'huddersfield']","[10007148, 10007148]",0
+East London,"['university of london', 'university of east london', 'east london', 'west london', 'arts, london']","[10007797, 10007144, 10007144, 10006566, 10007162]",0
+Wolverhampton,"['university of wolverhampton', 'wolverhampton', 'northampton,', 'roehampton']","[10007166, 10007166, 10007138, 10007776]",0
+Edge Hill,"['edge hill university', 'edge hill']","[10007823, 10007823]",0
+Anglia Ruskin,"['anglia ruskin university', 'anglia ruskin']","[10000291, 10000291]",0
+Thames Valley,[],[],0
+Greenwich,['greenwich'],[10007146],0
+Bolton,['bolton'],[10006841],0
+London South Bank,"['london south bank university', 'london south bank']","[10004078, 10004078]",0
+"West of England, Bristol","['university of the west of england, bristol', 'university of bristol', 'west england, bristol']","[10007164, 10007786, 10007164]",0
+University for the Creative Arts,"['university for the creative arts', 'university of exeter', 'university of the arts, london', 'for creative arts']","[10006427, 10007792, 10007162, 10006427]",0
+Edinburgh Napier,"['edinburgh napier university', 'edinburgh napier', 'edinburgh']","[10007772, 10007772, 10007790]",0
+Wrexham Glyndŵr,[],[],0
+Imperial College London,"['university college london', ""king's college london"", 'university of london']","[10007784, 10003645, 10007797]",0
+Buckingham,"['buckingham', 'birmingham', 'birmingham']","[10007787, 10000712, 10000712]",0
+London Metropolitan,"['london metropolitan university', 'leeds metropolitan university', 'london metropolitan', 'leeds metropolitan', 'swansea metropolitan']","[10004048, 10003861, 10004048, 10003861, 10007846]",0
+Trinity Saint David,"['university of wales: trinity saint david', 'wales: trinity saint david']","[10007858, 10007858]",0
+West London,"['university of london', 'university of west london', 'west london', 'east london', 'london']","[10007797, 10006566, 10006566, 10007144, 10007797]",0
+Cardiff Metropolitan,"['cardiff metropolitan university', 'cardiff university', 'cardiff metropolitan', 'leeds metropolitan', 'london metropolitan']","[10007854, 10007814, 10007854, 10003861, 10004048]",0
+"St George's, University of London","[""st. george's, university of london"", 'university of london', 'queen mary university of london', ""st. george's, london""]","[10007782, 10007797, 10007775, 10007782]",0
+"Goldsmiths, University of London","['university of london', ""st. george's, university of london"", 'university of west london']","[10007797, 10007782, 10006566]",0
+Royal Agricultural University,"['royal agricultural university', 'falmouth university', 'edge hill university', 'royal agricultural']","[10005545, 10008640, 10007823, 10005545]",0
+Falmouth,"['falmouth', 'plymouth']","[10008640, 10007801]",0
+Arts University at Bournemouth,"['arts university bournemouth, the', 'university of portsmouth', 'the university of buckingham', 'arts bournemouth,']","[10000385, 10007155, 10007787, 10000385]",0
+Harper Adams,"['harper adams university', 'harper adams']","[10040812, 10040812]",0
+Newman,['newman'],[10007832],0
+Leeds Trinity,"['leeds trinity university', 'leeds metropolitan university', 'leeds trinity', 'leeds art', 'leeds metropolitan']","[10003863, 10003861, 10003863, 10003854, 10003861]",0
+Bishop Grosseteste,"['bishop grosseteste university', 'bishop grosseteste']","[10007811, 10007811]",0
+Plymouth Marjon,['plymouth'],[10007801],0
+University College Birmingham,"['university college birmingham', 'university of birmingham', 'university college london']","[10000712, 10006840, 10007784]",0
+Arts University Bournemouth,"['arts university bournemouth, the', 'university of portsmouth', 'university of surrey', 'arts bournemouth,']","[10000385, 10007155, 10007160, 10000385]",0
+Abertay,['abertay dundee'],[10007849],0
+South Wales,[],[],0
+"University of the Arts, London","['university of the arts, london', 'university of east london', 'university of west london']","[10007162, 10007144, 10006566]",0
+Liverpool Hope,"['liverpool hope university', 'liverpool hope', 'liverpool', 'liverpool john moores']","[10003956, 10003956, 10006842, 10003957]",0
+"St Mary's, Twickenham","[""st mary's university, twickenham"", ""st mary's , twickenham"", ""st mary's""]","[10007843, 10007843, 10008026]",0
+Leeds Beckett,"['leeds art', 'leeds trinity']","[10003854, 10003863]",0
+University of Wales Trinity Saint David,"['university of wales: trinity saint david', 'university of wales prifysgol cymru', 'university of abertay dundee', 'wales: trinity saint david']","[10007858, 10008574, 10007849, 10007858]",0
+Norwich University of the Arts,"['norwich university of the arts', 'university of the arts, london', 'university of st andrews']","[10004775, 10007162, 10007803]",0
+"Birkbeck, University of London","['university of london', 'university of west london', 'university of east london']","[10007797, 10006566, 10007144]",0
+Suffolk,[],[],0
+Leeds Arts University,"['leeds trinity university', 'teesside university', 'leeds metropolitan university', 'leeds trinity', 'leeds art']","[10003863, 10007161, 10003861, 10003863, 10003854]",0
+Solent,['kent'],[10007150],0
+Ravensbourne,"['ravensbourne', 'ravensbourne']","[10005389, 10005389]",0
+St Mary's,"[""st mary's"", 'st andrews']","[10008026, 10007803]",0
+Plymouth St Mark and St John,"['university of st mark & st john', 'st mark & st john', 'york st john']","[10037449, 10037449, 10007713]",0
+Royal Agricultural College,"['royal agricultural university', 'the royal veterinary college', 'rose bruford college', 'royal agricultural']","[10005545, 10007779, 10005523, 10005545]",0
+"Kingston/St George's, University of London","[""st. george's, university of london"", 'institute of education, university of london', 'university of london', ""st. george's, london""]","[10007782, 10007766, 10007797, 10007782]",0
+Manchester School of Architecture,[],[],0
+University College for the Creative Arts,"['university for the creative arts', 'university of exeter', 'university of the arts, london']","[10006427, 10007792, 10007162]",0
+Central School of Speech and Drama,"['the royal central school of speech and drama', 'guildhall school of music & drama', 'royal welsh college of music and drama limited', 'royal central speech and drama']","[10007816, 10007825, 10007838, 10007816]",0
+Hull-York,"['york', 'hull']","[10007167, 10007149]",0
+Peninsula,[],[],0
+Royal Veterinary College,"['the royal veterinary college', 'royal northern college of music', 'stranmillis university college', 'royal veterinary']","[10007779, 10007837, 10008010, 10007779]",0
+Courtauld Institute,"['courtauld institute of art', 'courtauld art']","[10007761, 10007761]",0
+Royal Academy of Music,"['royal academy of music', 'royal college of music', 'royal northern college of music', 'royal academy music', 'royal norrn music', 'royal music']","[10007835, 10007778, 10007837, 10007835, 10007837, 10007778]",0
+Royal College of Music,"['royal college of music', 'royal northern college of music', 'leeds college of music', 'royal academy music', 'royal norrn music', 'royal music']","[10007778, 10007837, 10034449, 10007835, 10007837, 10007778]",0
+Royal Northern College of Music,"['royal northern college of music', 'royal college of music', 'leeds college of music', 'royal norrn music']","[10007837, 10007778, 10034449, 10007837]",0
+Royal Scottish Academy of Music and Drama,"['royal academy of music', 'royal welsh college of music and drama limited', 'royal academy music', 'royal welsh music and drama limited']","[10007835, 10007838, 10007835, 10007838]",0
+School of Pharmacy,['glasgow school of art.'],[10002681],0
+Trinity University College,"['stranmillis university college', ""st mary's university college"", 'leeds trinity university']","[10008010, 10008026, 10003863]",0
+Arts Institute at Bournemouth,"['arts university bournemouth, the', 'arts bournemouth,']","[10000385, 10000385]",0
+Brighton & Sussex,['brighton'],[10000886],0
+Norwich University College of the Arts,"['norwich university of the arts', 'university of the arts, london', 'university college london']","[10004775, 10007162, 10007784]",0
+Heythrop,"['heythrop college', 'heythrop']","[10007765, 10007765]",0
+UHI Millennium Institute,[],[],0
+Arts University College at Bournemouth,"['arts university bournemouth, the', 'university college london', 'university college birmingham']","[10000385, 10007784, 10000712]",0
+Brighton-Sussex,['brighton'],[10000886],0
+Highlands & Islands,"['university of the highlands and islands', 'highlands and islands']","[10007114, 10007114]",0
+Edinburgh School of Architecture,[],[],0
+Royal Conservatoire of Scotland,"['royal conservatoire of scotland', 'trinity laban conservatoire of music and dance ltd', 'royal college of music', 'royal conservatoire scotland']","[10005561, 10008017, 10007778, 10005561]",0
+Royal Central School of Speech and Drama,"['the royal central school of speech and drama', 'royal welsh college of music and drama limited', 'guildhall school of music & drama', 'royal central speech and drama', 'royal welsh music and drama limited']","[10007816, 10007838, 10007825, 10007816, 10007838]",0
+Medway School of Pharmacy,[],[],0
+Writtle University College,"['stranmillis university college', ""st mary's university college"", 'writtle college']","[10008010, 10008026, 10007657]",0
+Trinity Laban,[],[],0
+Guildhall School of Music and Drama,"['guildhall school of music & drama', 'the royal central school of speech and drama', 'royal welsh college of music and drama limited', 'guildhall music & drama']","[10007825, 10007816, 10007838, 10007825]",0
+Leeds College of Art,"['leeds college of art', 'leeds college of music', 'royal college of art(the)', 'leeds art']","[10003854, 10034449, 10007777, 10003854]",0
+Ravensbourne University London,"['queen mary university of london', 'university of london', 'bournemouth university']","[10007775, 10007797, 10000824]",0
+University College of Osteopathy,"['university college london', 'university of strathclyde', 'university of worcester, the']","[10007784, 10007805, 10007139]",0
+UCL,[],[],0
+SOAS,[],[],0
+City,['city'],[10001478],0
+Royal Holloway,['royal holloway and bedford new'],[10005553],0
+UEA,[],[],0
+Goldsmiths,"[""goldsmiths' college"", ""goldsmiths'""]","[10002718, 10002718]",0
+Brunel,['brunel'],[10000961],0
+Queen Mary,['queen mary london'],[10007775],0
+UWE Bristol,"['university of bristol', 'bristol', 'west england, bristol']","[10007786, 10007786, 10007164]",0
+UC Falmouth,"['falmouth', 'plymouth']","[10008640, 10007801]",0
+UWIC,[],[],0
+"St Mary's UC, Twickenham","[""st mary's university, twickenham"", ""st mary's , twickenham""]","[10007843, 10007843]",0
+Newman University College,"['newman university', ""st mary's university college"", 'stranmillis university college']","[10007832, 10008026, 10008010]",0
+Glyndŵr,['glyndwr'],[10007833],0
+Manchester Met,"['manchester', 'manchester metropolitan', 'winchester']","[10007798, 10004180, 10003614]",0
+Marjon (St Mark and St John),"['university of st mark & st john', 'st mark & st john']","[10037449, 10037449]",0
+Newport,[],[],0
+Leeds Met,"['leeds art', 'leeds', 'leeds music']","[10003854, 10007795, 10034449]",0
+Leeds Trinity & All Saints,"['leeds trinity university', 'leeds trinity', 'wales: trinity saint david']","[10003863, 10003863, 10007858]",0
+Bucks New University,"['brunel university', 'buckinghamshire new university', 'newman university']","[10000961, 10000975, 10007832]",0
+Leeds Trinity University College,"['leeds trinity university', 'stranmillis university college', ""st mary's university college""]","[10003863, 10008010, 10008026]",0
+London Met,"['london', 'london', 'london metropolitan']","[10007797, 10007797, 10004048]",0
+UC Suffolk,['campus suffolk ltd'],[10014001],0
+Cardiff Met,"['cardiff university', 'cardiff', 'cardiff metropolitan']","[10007814, 10007814, 10007854]",0
+Newman University,"['newman university', 'newcastle university', 'swansea university']","[10007832, 10007799, 10007855]",0
+St Mark and St John,"['university of st mark & st john', 'st mark & st john', 'york st john']","[10037449, 10037449, 10007713]",0
+University Campus Suffolk,"['university campus suffolk ltd', 'university of sheffield', 'university of sussex', 'campus suffolk ltd']","[10014001, 10007157, 10007806, 10014001]",0
+Birkbeck,"['birkbeck college', 'birkbeck']","[10007760, 10007760]",0
+Glyndwr,['glyndwr'],[10007833],0
+Hull York Medical School,[],[],0
+Peninsula Medical School,[],[],0
+St George's Medical School,"[""st. george's, london""]",[10007782],0
+Brighton Sussex Medical School,[],[],0
+Harper Adams UC,"['harper adams university', 'harper adams']","[10040812, 10040812]",0
+Writtle College,"['writtle college', 'birkbeck college', 'writtle']","[10007657, 10007760, 10007657]",0
+Ravensbourne College,"['ravensbourne', 'birkbeck college', 'ravensbourne']","[10005389, 10007760, 10005389]",0
+"St Mary's UC, Belfast","[""st mary's , twickenham"", ""st mary's""]","[10007843, 10008026]",0
+Stranmillis UC,"['stranmillis university college', 'stranmillis']","[10008010, 10008010]",0
+Bishop Grosseteste UC,"['bishop grosseteste university', 'bishop grosseteste']","[10007811, 10007811]",0
+"Trinity UC, Carmarthen",[],[],0
+"Arts Institute, Bournemouth","['arts university bournemouth, the', 'courtauld institute of art', 'arts bournemouth,']","[10000385, 10007761, 10000385]",0
+Glasgow School of Art,"['glasgow school of art.', 'leeds college of art', 'glasgow art.']","[10002681, 10003854, 10002681]",0
+Edinburgh College of Art ,"['leeds college of art', 'royal college of art(the)']","[10003854, 10007777]",0
+Norwich UC of the Arts,"['norwich university of the arts', 'norwich arts']","[10004775, 10004775]",0
+The Liverpool Institute for Performing Arts,"['the liverpool institute for performing arts', 'liverpool for performing arts']","[10003945, 10003945]",0
+Conservatoire for Dance and Drama,"['the conservatoire for dance and drama', 'royal conservatoire of scotland', 'conservatoire for dance and drama']","[10001653, 10005561, 10001653]",0
+Rose Bruford College,"['rose bruford college', 'rose bruford']","[10005523, 10005523]",0
+Leeds College of Music,"['leeds college of music', 'royal college of music', 'leeds college of art', 'leeds music']","[10034449, 10007778, 10003854, 10034449]",0
+Heythrop College,"['heythrop college', 'heythrop']","[10007765, 10007765]",0
+"Arts UC, Bournemouth","['arts university bournemouth, the', 'arts bournemouth,', 'bournemouth']","[10000385, 10000385, 10000824]",0
+Trinity Laban Conservatoire,"['trinity laban conservatoire of music and dance ltd', 'trinity laban conservatoire music and dance ltd', 'royal conservatoire scotland']","[10008017, 10008017, 10005561]",0
+Scottish Agricultural College,[],[],0
+"St George's, UoL","[""st. george's, university of london"", ""st. george's, london""]","[10007782, 10007782]",0
+Kingston - St George's University,"['kingston university', ""st. george's, university of london"", 'southampton solent university']","[10003678, 10007782, 10006022]",0
+SRUC,"['sruc', 'sruc']","[10005700, 10005700]",0
+Royal Welsh College,"['the royal veterinary college', 'royal college of music', ""goldsmiths' college""]","[10007779, 10007778, 10002718]",0
+Royal Central School of Speech & Drama,"['the royal central school of speech and drama', 'guildhall school of music & drama', 'royal central speech and drama']","[10007816, 10007825, 10007816]",0
+Plymouth College of Art,"['leeds college of art', 'royal college of art(the)']","[10003854, 10007777]",0
+Writtle UC,"['writtle college', 'writtle']","[10007657, 10007657]",0
+St George's,"[""st. george's, london"", ""st mary's""]","[10007782, 10008026]",0
+Leeds Arts,"['leeds college of art', 'leeds art', 'leeds music', 'leeds']","[10003854, 10003854, 10034449, 10007795]",0
+Royal Welsh College of Music and Drama,"['royal welsh college of music and drama limited', 'royal college of music', 'royal northern college of music', 'royal welsh music and drama limited', 'royal central speech and drama']","[10007838, 10007778, 10007837, 10007838, 10007816]",0
+University of St Andrews,"['university of st andrews', 'university of west london', 'university of east london']","[10007803, 10006566, 10007144]",0
+Loughborough University,"['loughborough university', 'bournemouth university', 'plymouth university', 'loughborough']","[10004113, 10000824, 10007801, 10004113]",0
+London School of Economics and Political Science,"['london school of economics & political science', 'london school of hygiene and tropical medicine', 'london economics & political science']","[10004063, 10007771, 10004063]",0
+Durham University,"['roehampton university', 'glyndwr university', 'edinburgh napier university']","[10007776, 10007833, 10007772]",0
+Lancaster University,"['newcastle university', 'swansea university', 'aston university', 'lancaster']","[10007799, 10007855, 10007759, 10007768]",0
+University of Warwick,"['university of warwick', 'university of york', 'university of greenwich']","[10007163, 10007167, 10007146]",0
+University of Bath,"['university of bath (the)', 'university of bolton', 'university of kent']","[10007850, 10006841, 10007150]",0
+University of Exeter,"['university of exeter', 'university of leicester', 'university of chester']","[10007792, 10007796, 10007848]",0
+University of Leeds,"['university of leeds', 'university of leicester', 'university of keele']","[10007795, 10007796, 10007767]",0
+University of Birmingham,"['university of birmingham', 'university college birmingham', 'university of stirling']","[10006840, 10000712, 10007804]",0
+University of Bristol,"['university of bristol', 'university of brighton', 'university of bolton']","[10007786, 10000886, 10006841]",0
+University of Glasgow,"['university of glasgow', 'university of leeds', 'university of ulster']","[10007794, 10007795, 10007807]",0
+Harper Adams University,"['harper adams university', 'cardiff university', 'the robert gordon university', 'harper adams']","[10040812, 10007814, 10005500, 10040812]",0
+University of Manchester,"['university of chester', 'the university of manchester', 'university of winchester']","[10007848, 10007798, 10003614]",0
+University of Southampton,"['university of southampton', 'university of northampton,the', 'university of wolverhampton', 'southampton']","[10007158, 10007138, 10007166, 10007158]",0
+University of Nottingham,"['university of nottingham, the', 'university of birmingham', 'university of stirling']","[10007154, 10006840, 10007804]",0
+University of York,"['university of york', 'university of oxford', 'university of kent']","[10007167, 10007774, 10007150]",0
+University of East Anglia,"['university of east anglia', 'university of east london', 'university of reading', 'east anglia']","[10007789, 10007144, 10007802, 10007789]",0
+University of Dundee,"['university of dundee', 'university of abertay dundee', 'university of leeds', 'abertay dundee']","[10007852, 10007849, 10007795, 10007849]",0
+University of Edinburgh,"['university of edinburgh', 'university of reading', 'university of durham']","[10007790, 10007802, 10007143]",0
+University of Sheffield,"['university of sheffield', 'university of huddersfield', 'university of keele']","[10007157, 10007148, 10007767]",0
+University of Aberdeen,"['university of aberdeen', 'university of cambridge', 'university of abertay dundee']","[10007783, 10007788, 10007849]",0
+Newcastle University,"['newcastle university', 'newman university', 'aston university', 'newcastle']","[10007799, 10007832, 10007759, 10007799]",0
+University of Liverpool,"['university of liverpool', 'university of lincoln', 'university of wolverhampton']","[10006842, 10007151, 10007166]",0
+Swansea University,"['swansea university', 'newman university', 'aston university', 'swansea metropolitan']","[10007855, 10007832, 10007759, 10007846]",0
+University of Surrey,"['university of surrey', 'university of sussex', 'university of derby']","[10007160, 10007806, 10007851]",0
+Heriot-Watt University,"['heriot-watt university', 'the city university', 'newman university', 'heriot-watt']","[10007764, 10001478, 10007832, 10007764]",0
+Cardiff University,"['cardiff university', 'bangor university', 'cranfield university', 'cardiff metropolitan']","[10007814, 10007857, 10007822, 10007854]",0
+"Queen's University, Belfast","[""queen's university of belfast"", 'queen mary university of london', 'the university of manchester', ""queen's belfast""]","[10005343, 10007775, 10007798, 10005343]",0
+University of Strathclyde,"['university of strathclyde', 'university of st andrews', 'university of stirling', 'strathclyde']","[10007805, 10007803, 10007804, 10007805]",0
+University of Essex,"['university of essex', 'university of sussex', 'university of chester']","[10007791, 10007806, 10007848]",0
+University of Reading,"['university of reading', 'university of edinburgh', 'university of stirling']","[10007802, 10007790, 10007804]",0
+University of Sussex,"['university of sussex', 'university of essex', 'university of ulster']","[10007806, 10007791, 10007807]",0
+Nottingham Trent University,"['nottingham trent university', 'birmingham city university', 'southampton solent university', 'nottingham trent']","[10004797, 10007140, 10006022, 10004797]",0
+University of Leicester,"['university of leicester', 'university of chester', 'university of winchester']","[10007796, 10007848, 10003614]",0
+Aberystwyth University,"['aston university', 'heriot-watt university', 'plymouth university']","[10007759, 10007764, 10007801]",0
+Keele University,"['teesside university', 'brunel university', 'newcastle university']","[10007161, 10000961, 10007799]",0
+University of Stirling,"['university of stirling', 'university of reading', 'university of birmingham']","[10007804, 10007802, 10006840]",0
+Aston University,"['aston university', 'kingston university', 'roehampton university']","[10007759, 10003678, 10007776]",0
+Coventry University,"['coventry university', 'de montfort university', 'bangor university']","[10001726, 10001883, 10007857]",0
+University of Lincoln,"['university of lincoln', 'university of london', 'university of bolton']","[10007151, 10007797, 10006841]",0
+University of West London,"['university of west london', 'university of east london', 'university of london', 'west london']","[10006566, 10007144, 10007797, 10006566]",0
+Staffordshire University,"['staffordshire university', 'swansea university', 'cardiff university', 'staffordshire']","[10006299, 10007855, 10007814, 10006299]",0
+University of Kent,"['university of kent', 'university of keele', 'university of exeter']","[10007150, 10007767, 10007792]",0
+Edge Hill University,"['edge hill university', 'sheffield hallam university', 'the city university', 'edge hill']","[10007823, 10005790, 10001478, 10007823]",0
+University of Portsmouth,"['university of portsmouth', 'university of northampton,the', 'university of southampton']","[10007155, 10007138, 10007158]",0
+Ulster University,"['aston university', 'newcastle university', 'swansea university']","[10007759, 10007799, 10007855]",0
+University of the West of England,"['university of the west of scotland', 'university of the west of england, bristol', 'university of west london']","[10007800, 10007164, 10006566]",0
+Liverpool Hope University,"['liverpool hope university', 'liverpool john moores university', 'plymouth university', 'liverpool hope', 'liverpool john moores']","[10003956, 10003957, 10007801, 10003956, 10003957]",0
+University of Huddersfield,"['university of huddersfield', 'university of sheffield', 'university of sunderland', 'huddersfield']","[10007148, 10007157, 10007159, 10007148]",0
+Manchester Metropolitan University,"['manchester metropolitan university', 'swansea metropolitan university', 'leeds metropolitan university', 'manchester metropolitan', 'swansea metropolitan']","[10004180, 10007846, 10003861, 10004180, 10007846]",0
+Oxford Brookes University,"['oxford brookes university', 'brunel university', 'staffordshire university', 'oxford brookes']","[10004930, 10000961, 10006299, 10004930]",0
+Northumbria University,"['northumbria university newcastle', 'newman university', 'bangor university', 'northumbria newcastle']","[10001282, 10007832, 10007857, 10001282]",0
+Sheffield Hallam University,"['sheffield hallam university', 'edge hill university', 'cranfield university', 'sheffield hallam']","[10005790, 10007823, 10007822, 10005790]",0
+University of Roehampton,"['university of wolverhampton', 'university of southampton', 'university of northampton,the']","[10007166, 10007158, 10007138]",0
+Bangor University,"['bangor university', 'aston university', 'kingston university']","[10007857, 10007759, 10003678]",0
+University of Chichester,"['university of chester', 'the university of chichester', 'university of winchester']","[10007848, 10007137, 10003614]",0
+Falmouth University,"['falmouth university', 'plymouth university', 'bournemouth university']","[10008640, 10007801, 10000824]",0
+De Montfort University,"['de montfort university', 'coventry university', 'bangor university', 'de montfort']","[10001883, 10001726, 10007857, 10001883]",0
+University of Central Lancashire,"['university of central lancashire', 'university of lancaster', 'university of gloucestershire', 'central lancashire']","[10007141, 10007768, 10007145, 10007141]",0
+Plymouth University,"['plymouth university', 'falmouth university', 'bournemouth university']","[10007801, 10008640, 10000824]",0
+University of Hull,"['university of hull', 'university of ulster', 'university of lincoln']","[10007149, 10007807, 10007151]",0
+Liverpool John Moores University,"['liverpool john moores university', 'liverpool hope university', 'de montfort university', 'liverpool john moores']","[10003957, 10003956, 10001883, 10003957]",0
+University of Chester,"['university of chester', 'university of winchester', 'university of leicester']","[10007848, 10003614, 10007796]",0
+York St John University,"['york st john university', 'aston university', 'kingston university', 'york st john']","[10007713, 10007759, 10003678, 10007713]",0
+"Queen Margaret University, Edinburgh","['queen margaret university, edinburgh', 'university of edinburgh', 'queen mary university of london', 'queen margaret , edinburgh']","[10005337, 10007790, 10007775, 10005337]",0
+Robert Gordon University,"['the robert gordon university', 'roehampton university', 'bangor university', 'robert gordon']","[10005500, 10007776, 10007857, 10005500]",0
+University of Greenwich,"['university of greenwich', 'university of warwick', 'university of aberdeen']","[10007146, 10007163, 10007783]",0
+"St Mary's University, Twickenham","[""st mary's university, twickenham"", ""st mary's university college"", 'the university of buckingham', ""st mary's , twickenham""]","[10007843, 10008026, 10007787, 10007843]",0
+London South Bank University,"['london south bank university', 'london metropolitan university', 'plymouth university', 'london south bank']","[10004078, 10004048, 10007801, 10004078]",0
+Teesside University,"['teesside university', 'swansea university', 'the city university']","[10007161, 10007855, 10001478]",0
+University of Hertfordshire,"['university of hertfordshire', 'university of bedfordshire', 'university of bradford', 'hertfordshire', 'staffordshire']","[10007147, 10007152, 10007785, 10007147, 10006299]",0
+Solent University,"['coventry university', 'aston university', 'open university(the)']","[10001726, 10007759, 10007773]",0
+University of Derby,"['university of derby', 'university of ulster', 'university of surrey']","[10007851, 10007807, 10007160]",0
+University of Worcester,"['university of chester', 'university of worcester, the', 'university of winchester']","[10007848, 10007139, 10003614]",0
+Bournemouth University,"['bournemouth university', 'plymouth university', 'falmouth university', 'bournemouth']","[10000824, 10007801, 10008640, 10000824]",0
+University of Gloucestershire,"['university of gloucestershire', 'university of leicester', 'university of worcester, the', 'gloucestershire']","[10007145, 10007796, 10007139, 10007145]",0
+Birmingham City University,"['birmingham city university', 'the city university', 'nottingham trent university', 'birmingham city']","[10007140, 10001478, 10004797, 10007140]",0
+Glasgow Caledonian University,"['glasgow caledonian university', 'aston university', 'newcastle university', 'glasgow caledonian']","[10007762, 10007759, 10007799, 10007762]",0
+Abertay University,"['swansea university', 'aston university', 'coventry university', 'abertay dundee']","[10007855, 10007759, 10001726, 10007849]",0
+University of Winchester,"['university of winchester', 'university of chester', 'university of leicester']","[10003614, 10007848, 10007796]",0
+Edinburgh Napier University,"['edinburgh napier university', 'brunel university', 'bournemouth university', 'edinburgh napier']","[10007772, 10000961, 10000824, 10007772]",0
+Plymouth Marjon University,"['plymouth university', 'falmouth university', 'london south bank university']","[10007801, 10008640, 10004078]",0
+University of Wales Trinity St David,"['university of wales: trinity saint david', 'university of wales prifysgol cymru', 'university of abertay dundee', 'wales: trinity saint david']","[10007858, 10008574, 10007849, 10007858]",0
+Bishop Grosseteste University,"['bishop grosseteste university', 'oxford brookes university', 'bournemouth university', 'bishop grosseteste']","[10007811, 10004930, 10000824, 10007811]",0
+University of Bradford,"['university of bradford', 'university of oxford', 'university of bedfordshire']","[10007785, 10007774, 10007152]",0
+Kingston University,"['kingston university', 'aston university', 'bangor university']","[10003678, 10007759, 10007857]",0
+Middlesex University,"['middlesex university', 'teesside university', 'swansea university', 'middlesex']","[10004351, 10007161, 10007855, 10004351]",0
+University of the West of Scotland,"['university of the west of scotland', 'university of the west of england, bristol', 'university of west london']","[10007800, 10007164, 10006566]",0
+University of Sunderland,"['university of sunderland', 'university of dundee', 'university of huddersfield']","[10007159, 10007852, 10007148]",0
+Bath Spa University,"['bath spa university', 'aston university', 'the city university']","[10000571, 10007759, 10001478]",0
+University of Salford,"['university of salford, the', 'university of bradford', 'university of oxford']","[10007156, 10007785, 10007774]",0
+Cardiff Metropolitan University,"['cardiff metropolitan university', 'leeds metropolitan university', 'london metropolitan university', 'cardiff metropolitan']","[10007854, 10003861, 10004048, 10007854]",0
+University of South Wales,"['university of st andrews', 'university of southampton', 'university of portsmouth']","[10007803, 10007158, 10007155]",0
+University of Northampton,"['university of northampton,the', 'university of southampton', 'university of wolverhampton']","[10007138, 10007158, 10007166]",0
+Leeds Trinity University,"['leeds trinity university', 'leeds metropolitan university', 'aston university', 'leeds trinity', 'wales: trinity saint david']","[10003863, 10003861, 10007759, 10003863, 10007858]",0
+Canterbury Christ Church University,"['canterbury christ church university', 'the city university', 'canterbury christ church']","[10001143, 10001478, 10001143]",0
+University of Westminster,"['the university of westminster', 'university of winchester', 'university of leicester', 'westminster']","[10007165, 10003614, 10007796, 10007165]",0
+Anglia Ruskin University,"['anglia ruskin university', 'bangor university', 'aston university', 'anglia ruskin']","[10000291, 10007857, 10007759, 10000291]",0
+University of Cumbria,"['the university of cumbria', 'university of cambridge', 'university of durham']","[10007842, 10007788, 10007143]",0
+University of Brighton,"['university of brighton', 'university of bristol', 'university of bolton']","[10000886, 10007786, 10006841]",0
+Leeds Beckett University,"['leeds trinity university', 'leeds metropolitan university', 'teesside university']","[10003863, 10003861, 10007161]",0
+University of Wolverhampton,"['university of wolverhampton', 'university of southampton', 'university of northampton,the', 'wolverhampton']","[10007166, 10007158, 10007138, 10007166]",0
+University of Bolton,"['university of bolton', 'university of brighton', 'university of london']","[10006841, 10000886, 10007797]",0
+London Metropolitan University,"['london metropolitan university', 'leeds metropolitan university', 'swansea metropolitan university', 'london metropolitan', 'leeds metropolitan']","[10004048, 10003861, 10007846, 10004048, 10003861]",0
+University of East London,"['university of east london', 'university of west london', 'university of london', 'east london']","[10007144, 10006566, 10007797, 10007144]",0
+University of Bedfordshire,"['university of bedfordshire', 'university of hertfordshire', 'university of bradford', 'bedfordshire', 'staffordshire', 'hertfordshire']","[10007152, 10007147, 10007785, 10007152, 10006299, 10007147]",0
+Wrexham Glyndwr University,"['glyndwr university', 'roehampton university', 'birmingham city university']","[10007833, 10007776, 10007140]",0
+University of Cambridge,"['university of cambridge', 'university of brighton', 'the university of cumbria']","[10007788, 10000886, 10007842]",0
+University of Oxford,"['university of oxford', 'university of bradford', 'university of york']","[10007774, 10007785, 10007167]",0
+University of Buckingham,"['the university of buckingham', 'university of birmingham', 'university of durham']","[10007787, 10006840, 10007143]",0
+University of Suffolk,"['university of york', 'university of hull', 'university of sheffield']","[10007167, 10007149, 10007157]",0
+University of the Highlands and Islands,"['university of the highlands and islands', 'university of east anglia', 'university of the west of england, bristol', 'highlands and islands']","[10007114, 10007789, 10007164, 10007114]",0
+The Open University,"['aston university', 'the city university', 'bath spa university']","[10007759, 10001478, 10000571]",0
+Aston University Birmingham,"['university of birmingham', 'university college birmingham', 'aston university']","[10006840, 10000712, 10007759]",0
+City University,"['the city university', 'coventry university', 'cardiff university']","[10001478, 10001726, 10007814]",0
+University of Ulster,"['university of ulster', 'university of leicester', 'university of lancaster']","[10007807, 10007796, 10007768]",0
+University of Teesside,"['university of essex', 'university of leeds', 'university of keele']","[10007791, 10007795, 10007767]",0
+Queen Margaret University Edinburgh,"['queen margaret university, edinburgh', 'university of edinburgh', 'queen mary university of london', 'queen margaret , edinburgh']","[10005337, 10007790, 10007775, 10005337]",0
+University of Abertay Dundee,"['university of abertay dundee', 'university of aberdeen', 'university of dundee', 'abertay dundee']","[10007849, 10007783, 10007852, 10007849]",0
+Brunel University,"['brunel university', 'cranfield university', 'bournemouth university']","[10000961, 10007822, 10000824]",0
+Leeds Metropolitan University,"['leeds metropolitan university', 'london metropolitan university', 'swansea metropolitan university', 'leeds metropolitan', 'london metropolitan', 'leeds trinity']","[10003861, 10004048, 10007846, 10003861, 10004048, 10003863]",0
+"St Mary's University College, Twickenham","[""st mary's university, twickenham"", ""st mary's university college"", 'university college birmingham', ""st mary's , twickenham""]","[10007843, 10008026, 10000712, 10007843]",0
+"University of St Mark & St John, Plymouth","['university of st mark & st john', 'university of salford, the', 'university of portsmouth']","[10037449, 10007156, 10007155]",0
+School of Oriental and African Studies,"['school of oriental and african studies', 'london school of hygiene and tropical medicine', 'oriental and african studies']","[10007780, 10007771, 10007780]",0
+Southampton Solent University,"['southampton solent university', 'roehampton university', 'nottingham trent university', 'southampton solent']","[10006022, 10007776, 10004797, 10006022]",0
+Buckinghamshire New University,"['buckinghamshire new university', 'nottingham trent university', 'kingston university', 'buckinghamshire new']","[10000975, 10004797, 10003678, 10000975]",0
+Glyndwr University,"['glyndwr university', 'newman university', 'bangor university']","[10007833, 10007832, 10007857]",0
+"Newman University, Birmingham","['university of birmingham', 'newman university', 'university college birmingham']","[10006840, 10007832, 10000712]",0
+Roehampton University,"['roehampton university', 'aston university', 'southampton solent university', 'roehampton']","[10007776, 10007759, 10006022, 10007776]",0
+"St George's, London","[""st. george's, university of london"", ""st. george's, london"", 'arts, london', ""king's london""]","[10007782, 10007782, 10007162, 10003645]",0
+Courtauld Institute of Art,"['courtauld institute of art', 'courtauld art']","[10007761, 10007761]",0
+Kingston/St George's,['kingston university'],[10003678],0
+Hull-York Medical School,[],[],0
+Brighton & Sussex Medical School,[],[],0
+Soas,[],[],0
+The Courtauld Institute of Art,"['courtauld institute of art', 'courtauld art']","[10007761, 10007761]",0
+"University of London, Birkbeck College","['university of london', 'university of lincoln', 'university of west london']","[10007797, 10007151, 10006566]",0
+Courtauld,['courtauld art'],[10007761],0
+"Kingston/St George's, London","[""st. george's, university of london"", ""st. george's, london"", ""king's london""]","[10007782, 10007782, 10003645]",0
+Brighton and Sussex Medical School,[],[],0
+Queen Margaret University,"['queen margaret university, edinburgh', 'queen mary university of london', 'de montfort university', 'queen margaret , edinburgh']","[10005337, 10007775, 10001883, 10005337]",0
+"University of Wales, Trinity St David","['university of wales: trinity saint david', 'university of wales prifysgol cymru', 'university of abertay dundee', 'wales: trinity saint david']","[10007858, 10008574, 10007849, 10007858]",0
+Wrexham Glyndŵr University,"['glyndwr university', 'roehampton university', 'birmingham city university']","[10007833, 10007776, 10007140]",0
+Cranfield University,"['cranfield university', 'brunel university', 'swansea university', 'cranfield']","[10007822, 10000961, 10007855, 10007822]",0
+The University of Edinburgh,"['university of edinburgh', 'the university of buckingham', 'university of reading']","[10007790, 10007787, 10007802]",0
+The University of Exeter,"['university of exeter', 'the university of manchester', 'the university of chichester']","[10007792, 10007798, 10007137]",0
+"Kingston University, London","['kingston university', 'university of london', 'aston university', ""king's london""]","[10003678, 10007797, 10007759, 10003645]",0
+Queen Mary University of London,"['queen mary university of london', 'university of london', 'university of west london', 'queen mary london']","[10007775, 10007797, 10006566, 10007775]",0
+London School of Business & Finance,"['london school of economics & political science', 'london business']","[10004063, 10007769]",0
+London School of Hygiene and Tropical Medicine,"['london school of hygiene and tropical medicine', 'school of oriental and african studies', 'london school of economics & political science', 'london hygiene and tropical medicine']","[10007771, 10007780, 10004063, 10007771]",0
+The London School of Economics and Political Science (LSE),"['london school of economics & political science', 'london school of hygiene and tropical medicine', 'london economics & political science']","[10004063, 10007771, 10004063]",0
+"The School of Pharmacy, University of London (LSOP)","['school of pharmacy university of london(the)', 'queen mary university of london', ""st. george's, university of london""]","[10007781, 10007775, 10007782]",0
+The University of Manchester,"['the university of manchester', 'the university of chichester', 'university of chester']","[10007798, 10007137, 10007848]",0
+Queen’s University Belfast,"[""queen's university of belfast"", 'queen mary university of london', 'the university of manchester', ""queen's belfast""]","[10005343, 10007775, 10007798, 10005343]",0
+Royal Holloway University of London,"['university of london', 'queen mary university of london', 'university of west london']","[10007797, 10007775, 10006566]",0
+The University of Sheffield,"['university of sheffield', 'university of huddersfield', 'the university of manchester']","[10007157, 10007148, 10007798]",0
+University of East Anglia (UEA),"['university of east anglia', 'university of st andrews', 'university of bath (the)']","[10007789, 10007803, 10007850]",0
+The University of Warwick,"['university of warwick', 'the university of cumbria', 'the university of manchester']","[10007163, 10007842, 10007798]",0
+Royal College of Art,"['royal college of art(the)', 'royal college of music', 'leeds college of art']","[10007777, 10007778, 10003854]",0
+"Royal Veterinary College , University of London ","['queen mary university of london', ""st. george's, university of london"", 'the royal veterinary college']","[10007775, 10007782, 10007779]",0
+"Royal Free and University College Medical School, University of London",[],[],0
+University of Plymouth,"['university of portsmouth', 'university of york', 'university of southampton']","[10007155, 10007167, 10007158]",0
+Manchester Metropolitan University (MMU),"['manchester metropolitan university', 'swansea metropolitan university', 'leeds metropolitan university', 'manchester metropolitan']","[10004180, 10007846, 10003861, 10004180]",0
+Northumbria University at Newcastle,"['northumbria university newcastle', 'university of lancaster', 'the university of manchester', 'northumbria newcastle']","[10001282, 10007768, 10007798, 10001282]",0
+London Business School,"['london business school', 'london business']","[10007769, 10007769]",0
+"University of Roehampton, London","['university of east london', 'university of west london', 'university of wolverhampton']","[10007144, 10006566, 10007166]",0
+The Glasgow School of Art,['glasgow school of art.'],[10002681],0
+Scottish Agricultural College (SAC),[],[],0
+Royal Conservatoire of Scotland (Formerly Royal Scottish Academy of Music and Drama),[],[],0
+Trinity Laban Conservatoire of Music and Dance,"['trinity laban conservatoire of music and dance ltd', 'royal conservatoire of scotland', 'trinity laban conservatoire music and dance ltd', 'royal conservatoire scotland']","[10008017, 10005561, 10008017, 10005561]",0
+Central School of Speech & Drama,"['the royal central school of speech and drama', 'guildhall school of music & drama', 'royal central speech and drama']","[10007816, 10007825, 10007816]",0
+Edinburgh College of Art (ECA),"['royal college of art(the)', 'leeds college of art']","[10007777, 10003854]",0
+Royal Northern College of Music (RNCM),"['royal northern college of music', 'royal college of music', 'royal welsh college of music and drama limited', 'royal norrn music']","[10007837, 10007778, 10007838, 10007837]",0
+King’s College London,"[""king's college london"", 'university college london', ""king's london""]","[10003645, 10007784, 10003645]",0
+"St George’s, University of London","[""st. george's, university of london"", 'university of london', 'queen mary university of london', ""st. george's, london""]","[10007782, 10007797, 10007775, 10007782]",0
