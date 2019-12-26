@@ -18,7 +18,7 @@ Run the scripts as (for example):
 python3 times_institutional.py
 ```
 
-Most of the scripts create folders for source and intermediate JSON and CSV files (which can be deleted if not required) as well as a larger CSV file (named e.g. 'THE WUR Institutional.csv'). The larger CSV file contains the final data.
+Most of the scripts create folders for source and intermediate JSON and CSV files (which can be deleted if not required) as well as a larger CSV file (named e.g. 'Times & Sunday Times Institutional.csv'). The larger CSV file contains the final data.
 
 ### League tables, source data and years
 
@@ -37,22 +37,22 @@ Most of the scripts create folders for source and intermediate JSON and CSV file
 | Times Higher Education | WUR Institutional and subject | THE Website | 2011 onwards |
 | QS | WUR Institutional and subject | QS Website | 2012 onwards |
 
-### UKPRNs
+### Adding UKPRNs
 
 A separate script is available to add UKPRN (UK Provider Reference Number) and consistent name to each institution to aid analysis over time. This also allows ranks to be calculated within groups (e.g. rank within the Russell Group).
 
-This script works in a two stage semi-automated process and draws on data from http://learning-provider.data.ac.uk. Further instructions are in `LT Name to UKPRN/lt_name_ukprn.py`.
+This script works in a two stage semi-automated process and draws on data from http://learning-provider.data.ac.uk. Further instructions are in 'LT Name to UKPRN/lt_name_ukprn.py'.
 
 The script saves a copy of an existing league tables dataset (e.g. 'Times & Sunday Times Institutional.csv' → 'Times & Sunday Times Institutional with UKPRN.csv'
 
 Example files are also included of calculating Russell Group rank following addition of UKPRN (e.g. 'Times & Sunday Times Institutional with UKPRN & RG Rank.csv').
 
-(Be careful if grouping solely by UKPRN. Due to mergers, more than one institution's results might be displayed e.g. the old University of Glamorgan and University of Wales, Newport are both collected under the present University of South Wales' UKPRN.)
+(Be careful if grouping solely by UKPRN. Due to mergers, more than one institution's results might be displayed e.g. University of Glamorgan and University of Wales, Newport are both collected under University of South Wales' UKPRN.)
 
-### Caveats
+## Caveats
 
 Always rely on the official data available on the league table compiler's website, as errors may be introduced through the use of these scripts. If you find any errors, please raise an issue.
 
 ## Licence
 
-The scripts (i.e. the Python files) are made available under the MIT Licence, but the resulting data is presumably the copyright of the league table compiler.
+The scripts (i.e. the Python files) are made available under the MIT Licence, but the resulting data is presumably the copyright of the league table compiler (or HESA, or the institution…).
