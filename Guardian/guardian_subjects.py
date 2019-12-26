@@ -23,7 +23,7 @@ def concat_data(years):
                 csv_data = pd.melt(csv_data, id_vars=["Institution"], var_name="Metric", value_name="Value")
                 csv_data["Year"] = year
                 csv_data["Subject Code"] = subject[0:4]
-                csv_data["Subject Name"] = subject[5:]
+                csv_data["Subject"] = subject[5:]
                 data.append(csv_data)
     return pd.concat(data, axis=0)
 
