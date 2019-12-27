@@ -10,7 +10,7 @@ Each script creates a single CSV file with fields for year, subject, metric, ins
 
 ### Prerequisites
 
-You'll need Python 3 with Requests, Pandas and Beautiful Soup installed.
+You'll need Python 3 with Pandas (and Requests and Beautiful Soup for some) installed.
 
 Run the scripts as (for example):
 
@@ -18,7 +18,9 @@ Run the scripts as (for example):
 python3 times_institutional.py
 ```
 
-Most of the scripts create folders for source and intermediate JSON and CSV files (which can be deleted if not required) as well as a larger CSV file (named e.g. 'Times & Sunday Times Institutional.csv'). The larger CSV file contains the final data.
+Most of the scripts create folders for source and intermediate JSON and CSV files (which can be deleted if not required) as well as a larger CSV file (named e.g. [Times & Sunday Times Institutional.csv](Times and Sunday Times/Institutional/Times & Sunday Times Institutional.csv)) with the final data.
+
+This repository contains the scripts and output files (as of late 2019).
 
 ### League tables, source data and years
 
@@ -43,11 +45,15 @@ A separate script is available to add UKPRN (UK Provider Reference Number) and c
 
 This script works in a two stage semi-automated process and draws on data from http://learning-provider.data.ac.uk. Further instructions are in 'LT Name to UKPRN/lt_name_ukprn.py'.
 
-The script saves a copy of an existing league tables dataset (e.g. 'Times & Sunday Times Institutional.csv' → 'Times & Sunday Times Institutional with UKPRN.csv'
+The script saves a copy of an existing league tables dataset (e.g. [Times & Sunday Times Institutional.csv](Times and Sunday Times/Institutional/Times & Sunday Times Institutional.csv) → [Times & Sunday Times Institutional with UKPRN.csv](Times and Sunday Times/Institutional/Times & Sunday Times Institutional with UKPRN.csv)
 
-Example files are also included of calculating Russell Group rank following addition of UKPRN (e.g. 'Times & Sunday Times Institutional with UKPRN & RG Rank.csv').
+Example files are also included of calculating Russell Group rank following addition of UKPRN (e.g. [Times & Sunday Times Institutional with UKPRN & RG Rank.csv](Times and Sunday Times/Institutional/Times & Sunday Times Institutional with UKPRN & RG Rank.csv)).
 
 (Be careful if grouping solely by UKPRN. Due to mergers, more than one institution's results might be displayed e.g. University of Glamorgan and University of Wales, Newport are both collected under University of South Wales' UKPRN.)
+
+### Banded ranks
+
+International league tables publish some scores and ranks grouped into bands (e.g. 101-150). When this happens, the lower boundary of the rank is used (e.g. 101) in the 'Numeric Value' field. The original value is retained in 'Value'.
 
 ## Caveats
 
