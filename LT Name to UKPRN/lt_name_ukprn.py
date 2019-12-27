@@ -114,5 +114,6 @@ names.to_csv("lt_names_ukprn_interim.csv", index=False)
 names = pd.read_csv("lt_names_ukprn_interim_25-12-2019.csv", converters={"Matched UKPRNs": literal_eval})
 names["UKPRN"] = names.apply(final_ukprn, axis=1)
 names = names[["LT Name", "UKPRN"]]
+names["UKPRN"] = names["UKPRN"].astype("int")
 add_ukprn(uk_files, int_files, names)
 add_group_ranks(uk_files, int_files)
