@@ -89,7 +89,7 @@ def rank_metrics(data, overall_ranks):
     data.update(overall_ranks)
     return data.reset_index()
 
-years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
+years = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
 fetch_json(years)
 json_to_csv(years)
 data = concat_data(years)
